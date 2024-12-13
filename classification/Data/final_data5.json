@@ -1,0 +1,1297 @@
+[
+    {
+        "text": "What do you call it जब तुमने sunrise तक सब कुछ खत्म कर लिया हो?\nAll डन",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1252
+    },
+    {
+        "text": "What do you call a जानलेवा कण हवा में?\nA dust मौत",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1257
+    },
+    {
+        "text": "What do you call a noble act जो बहुत दूर तक फैलता है?\nA long नेक",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1260
+    },
+    {
+        "text": "What do you call a disruptive factor जो रुकावट पैदा करता है?\nA रोक element",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1261
+    },
+    {
+        "text": "What do you call a पिता जो जानवरों से प्यार करता है?\nMember of पित",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1263
+    },
+    {
+        "text": "What do you call एक pleasant conversation जो helpful tips दे?\nA nice टोक",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1264
+    },
+    {
+        "text": "What do you call a honing tool जो इसके बनाने वाले को proud बनता है?\nA proud सान",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1265
+    },
+    {
+        "text": "What do you call a letter जो buzzing sound करता है?\nA buzzing पी",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1266
+    },
+    {
+        "text": "What do you call it जब एक साहूकार को मुकदमे का सामना करना पड़ता है?\nGetting सूद",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1270
+    },
+    {
+        "text": "What do you call a letter जो mail में खो गया?\nSent वाया mail",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1271
+    },
+    {
+        "text": "What do you call एक नया खिलाड़ी जो अचानक अपना टैलेंट दिखाना बंद कर दिया?\nA talented रुकी",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1272
+    },
+    {
+        "text": "What do you call a person who does nothing all day और हमेशा बम सा रहता है?\nA lazy बम",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1275
+    },
+    {
+        "text": "What do you call it जब तुम कुछ खास कारण के बिना करते हो?\nJust खास",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1276
+    },
+    {
+        "text": "What do you call it जब आपने public transport miss करना बस किया है?\nMissed the बस",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1277
+    },
+    {
+        "text": "What do you call the excitement जब तुम फूलों को खिलते देखते हो?\nThrill to खिल",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 2.0,
+        "id": 1278
+    },
+    {
+        "text": "What do you call a trick जो देखना मुश्किल है?\nA छिप trick",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1279
+    },
+    {
+        "text": "क्या कहोगे जब एक cartoon character अचानक दौरा आती है?\nExploring with दौरा",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1284
+    },
+    {
+        "text": "What do you call a यात्रा around the world to learn अलग अलग भाषाएं?\nTrip to बोली",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1285
+    },
+    {
+        "text": "What do you call it जब कोई चारा लेता है और फिर बैठ जाता है?\nTook the बैठ",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1286
+    },
+    {
+        "text": "What do you call a recording जो सीधे मुद्दे पे जाती है?\nA music सीधी",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1288
+    },
+    {
+        "text": "What do you call a मजबूत जूता जो possessed है?\nA sturdy भूत",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1290
+    },
+    {
+        "text": "What do you call it जब रानी को ठंड लगती है?\nA रानी nose",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1294
+    },
+    {
+        "text": "What do you call deep encouragement जो तुम पीछे से देते हो?\nA पैठ on the back",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1301
+    },
+    {
+        "text": "What do you call it जब दीवार बनाने का समय हो?\nTime to ईट",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1304
+    },
+    {
+        "text": "What do you call a national anthem जो देशभक्ति की भावना से भरा हुआ है?\nA loaded गान",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1305
+    },
+    {
+        "text": "What do you call एक कम्प्यूटर का हिस्सा जो छुपा हुआ है?\nA computer छिप",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1306
+    },
+    {
+        "text": "What do you call the sound of an approaching आपदा?\nThe impending धूम",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1309
+    },
+    {
+        "text": "What do you call a मोम figure जो तुम्हे comfort करती है?\nA caring मोम",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1312
+    },
+    {
+        "text": "What do you call a fair price अगर तुम beach supply खरीद रहे हो?\nA good रेत",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1313
+    },
+    {
+        "text": "What do you call a dress जो दिखता है जैसे वो दौलत से बना हो?\nA धन-coloured dress",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1317
+    },
+    {
+        "text": "What do you call a twisted day जो सच में enjoyable है?\nIn a good मुड़",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1318
+    },
+    {
+        "text": "What do you call a speedy प्रतिक्रिया?\nA quick जब",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1319
+    },
+    {
+        "text": "What do you call a dancer जो बहुत सफल हो जाता है?\nA सफल dancer",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1320
+    },
+    {
+        "text": "What do you call a sharpening tool जो brightly चमकता है?\nThe bright सान",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1322
+    },
+    {
+        "text": "What do you call it जब तुम गर्व महसूस करते हो arrogance को avoid करके?\nTo शान arrogance",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1323
+    },
+    {
+        "text": "What do you call someone जो वापिस लौटने से मना कर रहा है?\nI am लौट to go back",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 1.0,
+        "id": 1325
+    },
+    {
+        "text": "What do you call a chess piece जिसका मजबूत रुख है?\nA chess रुख",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1330
+    },
+    {
+        "text": "What do you call a बहुत ही सुव्यवस्थित नीति?\nA नीत policy",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1333
+    },
+    {
+        "text": "What do you call it जब चैरिटी का काम लगभग पूरा हो गया हो?\nThe job is almost दान",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1334
+    },
+    {
+        "text": "What do you call it जब कोई number तीस का मजाक उड़ाता है?\nDon't तीस",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1339
+    },
+    {
+        "text": "What do you call it जब तुम्हे और चार servings चाहिए?\nफोर some more",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1340
+    },
+    {
+        "text": "What do you call it जब बुध किसीको stage से हटा देता है?\nHe was बुध off the stage",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1341
+    },
+    {
+        "text": "What do you call a big number जो पूरी तरह से balanced हो?\nA large सम",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1342
+    },
+    {
+        "text": "What do you call a dish जो हमेशा सच्चाई बताती है?\nA bowl of खरी",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1343
+    },
+    {
+        "text": "What do you call a story जो एक सांप के काटने से समाप्त होती है?\nAnd डस it ends",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1345
+    },
+    {
+        "text": "What do you call well-organized दैनिक कार्य?\nNeat रोज़",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1347
+    },
+    {
+        "text": "What do you call it जब तुम अपने सामान के बारे में सोचते हो?\nमाल it over",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1353
+    },
+    {
+        "text": "What do you call a day जब आप मसाले पीस रहे होते है?\nA पिसी day",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1354
+    },
+    {
+        "text": "What do you call peas जो अपने shell से फूटने वाले हैं?\nPeas in a फोड़",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1356
+    },
+    {
+        "text": "What do you call तीन lines जो गुस्से से भरी हुई हैं?\nThree रोष",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1359
+    },
+    {
+        "text": "What do you call a pod जिसमें बीस अंदर हों?\nA pod of बीस",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1365
+    },
+    {
+        "text": "What do you call a sweater जो एक समझदार नीति से बना है?\nA नीत sweater",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1366
+    },
+    {
+        "text": "What do you call a बत्तख जो हमेशा डरती रहती है?\nA scared धाक",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1368
+    },
+    {
+        "text": "What do you call it जब आप एक रथ में फंस जाते हैं?\nStuck in a रथ",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1369
+    },
+    {
+        "text": "What do you call a beautiful प्रदर्शन of गुस्सा?\nA beautiful राग",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 2.0,
+        "id": 1370
+    },
+    {
+        "text": "What do you call a smart trickster जो अपना सिर use करता है?\nA clever चित",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1371
+    },
+    {
+        "text": "What do you call a traffic light जो नया ट्रैफिक पुलिस जैसा दिखता है?\nA promising रूकी",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1373
+    },
+    {
+        "text": "What do you call a प्रसिद्ध कहानी जो यादों से मिट जाती है?\nA popular मिट",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1377
+    },
+    {
+        "text": "What do you call a smell जो तुम्हे नाचने पर मजबूर कर देता है?\nA मस्ती smell",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1379
+    },
+    {
+        "text": "What do you call it जब ईगल्स बड़े ज़ोर से उड़ते हैं?\nEagles ज़ोर high",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1381
+    },
+    {
+        "text": "What do you call it जब आप खाना फेंकने से पहले उसे चखते हो?\nचख the food",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1384
+    },
+    {
+        "text": "What do you call someone जो किसी भी परिस्थिति में शांत और खुला रहता है?\nHe acted खुली",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1385
+    },
+    {
+        "text": "What do you call it जब तुम बहुत कोशिश करते हो झगड़ा खत्म करने के लिए?\nLet's बड़ी the hatchet",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1387
+    },
+    {
+        "text": "What do you call a letter जिसे सिलने की जरूरत है?\nA letter needs a सिल",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1388
+    },
+    {
+        "text": "What do you call a आदमी जो हमेशा अपनी बीवी को दिल में रखता है?\nA बीवी man",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1389
+    },
+    {
+        "text": "What do you call it जब एक आश्रय बहुत शोर करता है?\nThe बास is loud",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1391
+    },
+    {
+        "text": "What do you call a अच्छी तरह respected सहायक जो शिक्षक होता है?\nA good साब",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1395
+    },
+    {
+        "text": "What do you call a coin जो तुमने accidentally निगल लिया?\nA shiny निगल",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1398
+    },
+    {
+        "text": "What do you call it जब एक डरपोक उनके डर का संकेत देता है?\nRing the भेल",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1400
+    },
+    {
+        "text": "What do you call a नया ताजा तीर?\nA fresh बाण",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1409
+    },
+    {
+        "text": "What do you call a बात जो आपको जोर से टकराती है?\nHead बात",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1410
+    },
+    {
+        "text": "What do you call एक महिला का बगीचा?\nA ladyबाग़",
+        "label": 1,
+        "funniness": 5.0,
+        "acceptability": 3.0,
+        "id": 1412
+    },
+    {
+        "text": "What do you call a shirt जिस पर तिल जैसे निशान हैं?\nA तिल shirt",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1414
+    },
+    {
+        "text": "What do you call your favorite बाड़ा in the yard?\nMy best बाड़ी",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1415
+    },
+    {
+        "text": "What do you call it जब दर्शक excitement के साथ गुस्से में चिल्लाते हैं?\nThe audience क्रोध with excitement",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1419
+    },
+    {
+        "text": "What do you call it जब तुम अपनी पोती को सिखा रहे हो?\nपोती training",
+        "label": 1,
+        "funniness": 5.0,
+        "acceptability": 3.0,
+        "id": 1420
+    },
+    {
+        "text": "What do you call a tail जो trouble में डालने वाला है?\nImpending दुम",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1423
+    },
+    {
+        "text": "What do you call it जब बीज सोने के फसल के लिए बोए जाते हैं?\nSeeds are सोन",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1424
+    },
+    {
+        "text": "What do you call it जब एक bodybuilder की biceps इतनी बड़ी होती हैं कि उन्हें restraint की ज़रूरत हो?\nPut on a मसल",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1426
+    },
+    {
+        "text": "What do you say जब तुम यह जिम्मेदारी नहीं उठा सकते?\nI can't कन्धों this",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1428
+    },
+    {
+        "text": "What do you call it जब वह नाव को सड़क पर चलाती है?\nShe रोड the boat",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 2.0,
+        "id": 1429
+    },
+    {
+        "text": "What do you call a terrain जो अभी-अभी हिली है?\nA हिली terrain",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1431
+    },
+    {
+        "text": "What do you call a stylish कुंआ?\nA sleek कूप",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1432
+    },
+    {
+        "text": "What do you call it जब कोई सड़क पर एक नाव चलाता है?\nHe रोड़ the boat",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1434
+    },
+    {
+        "text": "What do you call a जंगली सूअर जो फूलों से ढका हो?\nA wild बौर",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1435
+    },
+    {
+        "text": "What do you call a bag जो गुड़ियों से भरा हुआ है?\nA गुड़ी bag",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1436
+    },
+    {
+        "text": "What do you call a stout लकड़ी का टुकड़ा?\nA टीक log",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1442
+    },
+    {
+        "text": "What do you call it जब एक बेकर्स को सारी सामग्री को उठाना पड़ता है?\nKneading the ढो",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1445
+    },
+    {
+        "text": "What do you call a buyer जो सब कुछ खरीद लिया although वो चुज़ी है?\nA बिकी buyer",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1451
+    },
+    {
+        "text": "What do you call a community जो hair grooming में विशेषज्ञ होती है?\nA hair कौम",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1458
+    },
+    {
+        "text": "What do you call an amazing dish जो perfectly तला गया है?\nA great भून",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1459
+    },
+    {
+        "text": "What do you call chairs जो हर रोज़ arrange होते हैं?\nMultiple रोज़ of chairs",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1460
+    },
+    {
+        "text": "What do you call someone जो केवल फीका खाना खाता है?\nA फीकी eater",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1462
+    },
+    {
+        "text": "What do you call a young पौधा जो मटर उगाता है?\nA pea पौध",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1463
+    },
+    {
+        "text": "What do you call a charming बाजार जो गर्म और आमंत्रित कर रहा है?\nA cozy हाट",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1469
+    },
+    {
+        "text": "What do you call a tiny place जो हटा दिया जाता है?\nA small हट",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1470
+    },
+    {
+        "text": "What do you call a dish जो बहुत सारा हिल चुका है?\nA bowl of झेली",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1472
+    },
+    {
+        "text": "What do you call a soccer match जहां स्कोर indigo होता है?\nA score of नील",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1475
+    },
+    {
+        "text": "What do you call a room जहां पर एक impressive आभास हो?\nThe room was आभास",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1477
+    },
+    {
+        "text": "What do you call a छोटा दाग जो की बहुत कीमती है?\nA little मोल",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1478
+    },
+    {
+        "text": "What do you call it जब वह अपनी साइकिल सड़क पर चलाती है?\nShe रोड़ her bike",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1479
+    },
+    {
+        "text": "What do you call a पेट जो हमेशा गुड़गुड़ करता है पर कभी थमता नहीं है?\nA rumbling थमी",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1480
+    },
+    {
+        "text": "What do you call a toy जो तुम्हे नहाने में थोड़ा धक्का देता है?\nA rubber धक",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1481
+    },
+    {
+        "text": "What do you call a मटर जो अपने आप को संभाल नहीं पाता?\nA pea फोड़",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1482
+    },
+    {
+        "text": "What do you call a surface को अच्छी तरह से साफ़ करने की जरूरत है?\nA रगड़ surface",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1483
+    },
+    {
+        "text": "What do you call it जब उसे act करने का कारण समझ में आया?\nShe took the क्यू",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1484
+    },
+    {
+        "text": "What do you call a गलती जो feelings को hurt करती है?\nA mean भूली",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1485
+    },
+    {
+        "text": "What do you call a flower जो खिलने और बढ़ने वाला है?\nA flower बढ",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1486
+    },
+    {
+        "text": "What do you call a professor जो रिश्तों की बहुत परवाह करता है?\nA नाती professor",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1487
+    },
+    {
+        "text": "What do you call a voice जो लगता है जैसे यह एक रिवाज निभा रहा हो?\nA रीति voice",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1488
+    },
+    {
+        "text": "What do you call a huge truck जो तुम्हें सुलाता है?\nA big लोरी",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1489
+    },
+    {
+        "text": "What do you call a charming but छोटी लड़की?\nA बौनी lass",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1494
+    },
+    {
+        "text": "टेनिस में बहुत अधिक धन की strong इच्छा को आप क्या कहेंगे?\nA powerful लोभ",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1496
+    },
+    {
+        "text": "What do you call a teenager जो अक्सर दिशा बदलता है?\nA मुड़ी teenager",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1497
+    },
+    {
+        "text": "The प्रकृतिवादी नेत्री was the chosen वन to lead the team.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1506
+    },
+    {
+        "text": "The प्रवासी मजदूर bought a लौट of groceries for the week.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1514
+    },
+    {
+        "text": "The मेहनती CEO was finally धन after the long day.",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1519
+    },
+    {
+        "text": "The सफल राजनेता said that मानी was the key to happiness.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1522
+    },
+    {
+        "text": "The मध्यम-वर्गीय व्यवसायी attributed her achievements to लाख.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1527
+    },
+    {
+        "text": "The सीप बेचने वाली महिला decided to give her friend a खोल.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1528
+    },
+    {
+        "text": "The जंगल का राजा वन the race with great effort.",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1533
+    },
+    {
+        "text": "The मशहूर गायक का कंसर्ट was held in a बिक stadium.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1534
+    },
+    {
+        "text": "The गृहिणियाँ usually get fresh groceries on मंडी.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1538
+    },
+    {
+        "text": "The नई योजना became a huge हित instantly.",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1540
+    },
+    {
+        "text": "The दुकानदार’s prices were surprisingly लो during the sale.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1545
+    },
+    {
+        "text": "The eager collector won the highest भीड़ in the auction.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1553
+    },
+    {
+        "text": "The सिद्धांत was so ठीक that it didn't break.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1554
+    },
+    {
+        "text": "The बहादुर पर्वतारोही reached the तोप of the mountain.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1565
+    },
+    {
+        "text": "The इतिहासकार was proud of how well her सन् had grown up.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1566
+    },
+    {
+        "text": "The फिटनेस ट्रेनर was proud of her fit बड़ी.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1567
+    },
+    {
+        "text": "The व्यापारी मित्र closed the ढील successfully.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1572
+    },
+    {
+        "text": "The छोटे बच्चे always prayed to गोद for strength.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1573
+    },
+    {
+        "text": "The परिश्रमी विद्यार्थी studied hard, दस achieving her goal.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1578
+    },
+    {
+        "text": "The नवीन विचारक thought his new idea was really खुल.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1580
+    },
+    {
+        "text": "The सेब का कौर was sweet and delicious.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1585
+    },
+    {
+        "text": "The मेहनती छात्र always aimed for excellence अभाव everything else.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1588
+    },
+    {
+        "text": "The proud माँ saw बेटी at the school event.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1590
+    },
+    {
+        "text": "The व्यापारियों need to थोक about this issue immediately.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1591
+    },
+    {
+        "text": "The माली had to फूल the door to open it.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1593
+    },
+    {
+        "text": "The साहसी नेता decided to रण for the office this year.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1594
+    },
+    {
+        "text": "The समय की पाबंद छात्रा didn't have the courage to देर him.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1596
+    },
+    {
+        "text": "The गरीब किसान का हाल was damaged during the storm.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1599
+    },
+    {
+        "text": "The बेसब्र नेता थूक the decision without consulting anyone.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1601
+    },
+    {
+        "text": "The तकनीकी विश्लेषक had a भाग that needed fixing.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1603
+    },
+    {
+        "text": "The पतंगबाज़ opened the डोर to find a surprise waiting outside.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1618
+    },
+    {
+        "text": "The वेट्रेस was happy to receive her पेय at the end of the month.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1622
+    },
+    {
+        "text": "The परेशान उद्यमी attended the खो-founder meeting yesterday.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1623
+    },
+    {
+        "text": "The नृत्यांगना gave a graceful भाव at the end of her performance.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1629
+    },
+    {
+        "text": "The कला प्रेमी was in शौक after hearing the surprising news.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1632
+    },
+    {
+        "text": "The नाराज बच्चे had a terrible रो last night.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1635
+    },
+    {
+        "text": "The सरकारी संस्था always helps the नीति in times of crisis.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1638
+    },
+    {
+        "text": "The बाग में बैठे बीस बच्चे felt an overwhelming sense of बीस in the quiet garden.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1639
+    },
+    {
+        "text": "The कुशल खिलाड़ी's mistakes continued to मैदान his coach.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1643
+    },
+    {
+        "text": "The थकी हुई छात्रा needed a strong cup of काफी to wake up.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1646
+    },
+    {
+        "text": "The बच्चों की टोली were having a मेरी time at the party.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1648
+    },
+    {
+        "text": "The किले का राजा was protected by a deep मौत.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1652
+    },
+    {
+        "text": "The जादूगर used a spell to सामान assistance.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1655
+    },
+    {
+        "text": "The व्यस्त शेफ decided to make a खौल to her friend.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1658
+    },
+    {
+        "text": "The दिलचस्प समाचार had scenes of intense गौर that were hard to watch.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1665
+    },
+    {
+        "text": "The बढ़ई planned to कील the hero.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1666
+    },
+    {
+        "text": "The ठगे गए यात्री rested on a हित during their journey.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1667
+    },
+    {
+        "text": "The इटालियन बावर्ची loves to add चीज़ to her pasta.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1672
+    },
+    {
+        "text": "The chaotic rugby match was interrupted by a रख.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1675
+    },
+    {
+        "text": "The ड्राइवर switched to night मोड़.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1676
+    },
+    {
+        "text": "The दुखी पत्नी always called him हानि with affection.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1690
+    },
+    {
+        "text": "The गुस्सा ड्राइवर found a new रूठ to avoid traffic.",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1691
+    },
+    {
+        "text": "The थकी हुई विद्यार्थी relaxed in the सोना after a long day.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1692
+    },
+    {
+        "text": "The ज्योतिषी recited a beautiful वृष at the event.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1696
+    },
+    {
+        "text": "The संगीतकार placed the ढोल on the shelf.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1702
+    },
+    {
+        "text": "The चालक ड्राइवर मोड़ the lawn every weekend.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1705
+    },
+    {
+        "text": "The अचल संपत्ति पत्रिका featured a बस्ती model on the cover.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1706
+    },
+    {
+        "text": "The डरावनी फ़िल्म के हीरो had a persistent ख़ौफ़ that wouldn't go away.",
+        "label": 1,
+        "funniness": 5.0,
+        "acceptability": 3.0,
+        "id": 1709
+    },
+    {
+        "text": "The खौफनाक उजाला attracted a मौत during the night.",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1710
+    },
+    {
+        "text": "The भावुक शेफ used रो ingredients to prepare the dish.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1717
+    },
+    {
+        "text": "The जंगल प्रेमी felt grateful as if गौड़ had answered her prayers.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1724
+    },
+    {
+        "text": "The अनुभवी नाविक learned how to स्थिर the boat in rough waters.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1730
+    },
+    {
+        "text": "The गृहिणी managed to finish the task, धो it was difficult.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1731
+    },
+    {
+        "text": "The देसी थाली tasted so गुड़ with homemade spices.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1732
+    },
+    {
+        "text": "The जूझती हुई खिलाड़ी had to see a dentist because of her broken टूट.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1735
+    },
+    {
+        "text": "The पुराने पेड़ की डाल was so डाल that the students started yawning.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1736
+    },
+    {
+        "text": "The बेचैन पत्रकार worried that the information might लिख.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1737
+    },
+    {
+        "text": "The नर्वस छात्र found it hard to खौफ with the stress.",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1740
+    },
+    {
+        "text": "The साहसी पर्वतारोही accepted the ढेर without hesitation.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1743
+    },
+    {
+        "text": "The संग्रहालय included a rare निकल.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1744
+    },
+    {
+        "text": "The स्टार्टअप टीम wanted a unique लोगो for their brand.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 2.0,
+        "id": 1745
+    }
+]

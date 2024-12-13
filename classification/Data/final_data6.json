@@ -1,0 +1,1108 @@
+[
+    {
+        "text": "Why did the balloon go ऊप? Because it saw a pin and अब-solutely panicked!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 0
+    },
+    {
+        "text": "I was waiting for my friend to काम over, but he didn't काम.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1
+    },
+    {
+        "text": "Don't कम near me unless you're ready to party!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 2
+    },
+    {
+        "text": "I told my friend, \"समय सेनानी है, देर है, but we'll get तुम्हारे eventually!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 3
+    },
+    {
+        "text": "Having good friends around makes life इस-y!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 4
+    },
+    {
+        "text": "My son asked me if I'm familiar with computer programming. I said, \"Of course, I know बेटा testing!\"",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 5
+    },
+    {
+        "text": "Why did the tree go to therapy? Because it had too many वन-sided conversations.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 6
+    },
+    {
+        "text": "Why did the chicken refuse to play hide and seek? Because it was afraid it might lay एक-stra large egg!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 7
+    },
+    {
+        "text": "Life is not इसी, but we can make it ईजी together.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 8
+    },
+    {
+        "text": "When someone asked me if I believe in honesty, I replied, \"सच toh bola ही नहीं जाता, बस कहना padta hai.\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 9
+    },
+    {
+        "text": "I don't नौ why you're so confused; all you need to do is नौ your priorities!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 10
+    },
+    {
+        "text": "Why did the pile of books sit quietly? Because it wanted to chill ढेर and do nothing थेरे.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 11
+    },
+    {
+        "text": "When two cardiologists make an agreement, it's a heart-to-heart दिल.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 12
+    },
+    {
+        "text": "Why did the student bring a ladder to the exam? Because the question said, \"Write in सौ words or less\", so he thought he'd climb up!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 13
+    },
+    {
+        "text": "After losing in the casino, he returned home with a लौट of regrets and a लॉट of debts.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 14
+    },
+    {
+        "text": "Why did the pilot choose to date विमान? Because he wanted to fly high with the lovely women!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 15
+    },
+    {
+        "text": "Why did the Hindi teacher pour तेल on the floor? To make the lesson slip and slide, so the students could easily तेल their friends about it!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 16
+    },
+    {
+        "text": "क्या तुम्हारा favourite part of the school day है? Mine is lunchtime, because उस टाइम dean is off duty!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 1.0,
+        "id": 17
+    },
+    {
+        "text": "मुझे कृपया बताएं, यह जहाज अब किस नाव पर है? Oh, you mean नाव?",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 18
+    },
+    {
+        "text": "I asked my boss for a raise, aur usne bas ek cheez kahi - \"Work hard, have fun, get धन!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 19
+    },
+    {
+        "text": "When Bruce Banner becomes angry, he turns into Hulk. People say, \"भाई, आज उसने Hulk बना ली!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 20
+    },
+    {
+        "text": "Why did the food lover always look forward to lunchtime? Because he knew it meant मिल-time!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 21
+    },
+    {
+        "text": "Why did the Indian rupee refuse to jump into the wallet? Because it had too much मानी on its mind!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 22
+    },
+    {
+        "text": "My Hindi teacher is so 'कुल', she makes learning the language look 'cool'.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 23
+    },
+    {
+        "text": "When you make a donation, it's not just a दान, it's a deed well done!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 24
+    },
+    {
+        "text": "I asked the college administration, \"Who is in charge of the disciplinary committee?\" They replied, \"तीन is the head, he is the डीन!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 25
+    },
+    {
+        "text": "I love sitting under the पीपल tree and observing the लोग passing by.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 26
+    },
+    {
+        "text": "I used लाख of 4-leaf clovers for good fortune, but still no good लक्क!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 27
+    },
+    {
+        "text": "I was about to खोल my friend, but then I remembered, it's his turn to pick me up - I guess it's his कॉल now!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 28
+    },
+    {
+        "text": "When the tailor asked how many rotis I eat, I replied, \"I like my chapatis तीन, I mean thin!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 29
+    },
+    {
+        "text": "Why did the तीन crosses the road? To get to the other सीन!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 30
+    },
+    {
+        "text": "Why did the जंगली animals start a band? Because they wanted to record their पशु लोग!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 31
+    },
+    {
+        "text": "When you see a दौर, just remember, it's not the कपड़ा kind, it's the दरवाज़ा kind!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 32
+    },
+    {
+        "text": "मैच में हारने वाली team ने जंगल में the title वन किया। They may have बिजीराजिया in the game, but they वन in the forest!",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 33
+    },
+    {
+        "text": "I told my friend, \"I have a बिक announcement to make.\" He replied, \"Oh, it must be something बिग!\"",
+        "label": 2,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 34
+    },
+    {
+        "text": "When rules are broken, you better be लो-yal to the लो-enforcement!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 35
+    },
+    {
+        "text": "When the peacock asked for another dance move, I said, \"I want मोर!'\".",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 36
+    },
+    {
+        "text": "Let's start the party अभी, अभी तो नव टाइम है!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 37
+    },
+    {
+        "text": "Weekend की fun के बाद, आ गया फिर से मंडी (mandi) - I mean मंडे (Monday) blues!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 38
+    },
+    {
+        "text": "मेरी best friend Mary है, और हमारे बीच का bond बिल्कुल जैसे मेरी और मेरी! 😄",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 39
+    },
+    {
+        "text": "When the actor's advice turns out to be beneficial, it's a एहित. It's a hit हिट!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 40
+    },
+    {
+        "text": "जब तक driver does not start कौर, there is no way he can पार the finish line.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 41
+    },
+    {
+        "text": "Don't worry, I don't like wearing formals either, I prefer a casual तय over a formal tie.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 42
+    },
+    {
+        "text": "I don't ख़ैर if you पढ़ाई or not, just take केयर of yourself!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 43
+    },
+    {
+        "text": "Playing cricket without बोल is like playing football without a गेंद.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 44
+    },
+    {
+        "text": "Why did the music suddenly stop playing? Because the volume was set लो.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 45
+    },
+    {
+        "text": "I told my friend about my back pain and he said, \"Don't worry, just दुख को पीठ!\"",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 46
+    },
+    {
+        "text": "My friend asked me for a piece of my pizza, so I replied, \"Sorry, शेर and शेयर are two different things!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 47
+    },
+    {
+        "text": "When the carpenter couldn't find his tool, he asked, \"Where is my favourite cutting tool, the 'सौ'?\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 48
+    },
+    {
+        "text": "When the scientist presented his findings, everyone किसने 'शोध' किया कि he actually फ़ोटो demonstrated them.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 1.0,
+        "id": 49
+    },
+    {
+        "text": "I'm excited to hear your joke, tell me when you're ready. I can't wait to hear it, तो हो जाये सुन!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 2.0,
+        "id": 50
+    },
+    {
+        "text": "When you're in trouble, remember, hum sabko ek strong नीत hai - the नीड for teamwork!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 51
+    },
+    {
+        "text": "I asked my friend for a lift, and he said, \"कोर में चलूँगा तो petrol बचेगा!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 52
+    },
+    {
+        "text": "The auction was getting crowded, so I decided to make a भीड़ and walk away.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 53
+    },
+    {
+        "text": "When the milkshake is too thick, we say, \"यार, ये शेक तो बहुत ठीक है!\"",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 54
+    },
+    {
+        "text": "When you mix sugar in milk, the result is not just sweet, it's गुड़ too!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 55
+    },
+    {
+        "text": "When the bedsheet is not properly placed, my mom always tells me, \"ओह बेटा, तक it in properly na, it looks so messy.\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 56
+    },
+    {
+        "text": "If you can't find your keys, check the table, देन check the drawer.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 57
+    },
+    {
+        "text": "Why did the clock get punished? Because it tocked too much during the दिन and kept everyone awake- दिन and din!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 58
+    },
+    {
+        "text": "Why did the electrician bring a ladder to the music concert? Because he heard they needed another तार player!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 59
+    },
+    {
+        "text": "I can't stop eating novels - मेरी भूख for knowledge is never बुक filled!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 60
+    },
+    {
+        "text": "आज का मौसम इतना अच्छा है कि balcony पर जाकर एक देख लूँ। Let's go out and enjoy the देख!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 2.0,
+        "id": 61
+    },
+    {
+        "text": "I can't stop looking at you, you've caught my आय! Your beauty has left me आय-struck!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 62
+    },
+    {
+        "text": "When the miner found a shiny rock, he exclaimed, \"ये कौनसी precious मिली है, ओर it's मेरे और yours!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 0.0,
+        "id": 63
+    },
+    {
+        "text": "Why did the man cross the road? He wanted to पुल a prank on the chicken!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 64
+    },
+    {
+        "text": "When the teacher asked the students to name their favorite toy, the student replied, \"मेरे पास एक toy है, जो हमेशा class में रहता है, और उसका नाम है 'तोप'!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 65
+    },
+    {
+        "text": "My dad always says, \"मेरा सन् is the brightest star in our family constellation.\"",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 66
+    },
+    {
+        "text": "I told my बड़ी to bring me a sandwich, but she brought me a burger instead. She's such a burger, I mean buddy!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 67
+    },
+    {
+        "text": "My friend loves Thai food, but I am more तय to try different cuisines!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 2.0,
+        "id": 68
+    },
+    {
+        "text": "When it comes to superheroes, there's Captain America and then there's तौर of Thunder, थोर!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 69
+    },
+    {
+        "text": "Why did the rupee go to therapy? To deal with its मणि issues.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 70
+    },
+    {
+        "text": "I asked my friend for a pen, he said, \"I टूक one from office.\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 71
+    },
+    {
+        "text": "I asked my tailor for a discount on my outfit, he said, \"अभी तक कीमत ख़ास है, ढील करूं?\" I replied, \"Sorry, that's not the ढील I was looking for!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 72
+    },
+    {
+        "text": "When my child jumps on my lap, I feel like I am the chosen गोद for a moment.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 73
+    },
+    {
+        "text": "Cricket मैच में हर ब्याट्समैन को चाहिए strong technique, उसके लिए बहुत प्रैक्टिस और ठोकरों से नहीं डरना चाहिए। इसलिए, कहा जाता है - \"जब तक बीच-बीच में आये, बोल khelo!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 74
+    },
+    {
+        "text": "After listening to that joke, I felt सिख to my stomach!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 75
+    },
+    {
+        "text": "I went for a swim in the पुल, but there was no डोब. It was just a पूल of water.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 76
+    },
+    {
+        "text": "I told my brother, \"Don't भाई anything online, go to the store and बाजार stuff in person!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 77
+    },
+    {
+        "text": "I asked my Hindi teacher for a number ten pun. She replied, \"दस a pun in a sentence.\"",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 78
+    },
+    {
+        "text": "Why did the student go to the Gurudwara? Because he wanted to सिख knowledge and not just seek it!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 79
+    },
+    {
+        "text": "दोस्तों के साथ खेलना हमेशा खुल रहता है, क्योंकि वो हमेशा cool होते हैं!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 80
+    },
+    {
+        "text": "I asked my crush, \"Will you मेरी me?\" She replied, \"Sorry, I'm already married to my career!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 81
+    },
+    {
+        "text": "Why did the fish start teasing the other fish? Kyunki uska nature tha thoda मीन!",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 82
+    },
+    {
+        "text": "अब समय आ गया है वह tub को क्लीन करने का, जो पिछले तब छोड़ दिया था।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 83
+    },
+    {
+        "text": "I was walking peacefully when suddenly, मेरे सामने a car stopped right सदन!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 1.0,
+        "id": 84
+    },
+    {
+        "text": "When my friend saw me exercising, he said, \"तू fitness के लिए क्या कर रहा है?\" I replied, \"Bro, I am working on my abs कौर strength!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 85
+    },
+    {
+        "text": "When the Hindi teacher asked for an English word for \"चुम्मा\", the student replied, \"एक simple किस, ma'am!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 86
+    },
+    {
+        "text": "When the गाय asked the गाय, \"Are you a cow or a guy?\" The गाय replied, \"Moo, I'm just a मूड़़ guy!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 87
+    },
+    {
+        "text": "I always try to stay positive, भले ही circumstances मेरे head के अभाव ho जाएँ। So, always look अभाव and beyond!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 2.0,
+        "id": 88
+    },
+    {
+        "text": "When someone asks me for my नाम, I always feel a little नम्ब about it..",
+        "label": 2,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 89
+    },
+    {
+        "text": "My friend's daughter is so sweet, she's like a cute little बेटी Crocker, always baking up a storm!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 90
+    },
+    {
+        "text": "The gossip in our neighborhood is always थोक of the town!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 91
+    },
+    {
+        "text": "I asked my friend how much she knew about lamps, she said, \"Not दीप enough to understand!\"",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 92
+    },
+    {
+        "text": "I wanted to pick the गुलाब, but it was too hard to फूल!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 93
+    },
+    {
+        "text": "I used to be a big fan of jogging, par रण out of steam.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 94
+    },
+    {
+        "text": "When life gives you lemons, सीख out new opportunities to turn them into lemonade.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 95
+    },
+    {
+        "text": "I missed the deadline for the Bollywood audition, par main abhi bhi देर kar sakta hoon kyunki the show must go on!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 96
+    },
+    {
+        "text": "When the cow गौes out in the field, she likes to take it nice and slow, she doesn't like to गो too fast!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 97
+    },
+    {
+        "text": "Why did the बिल्ली sit on the computer? Because she wanted to keep an eye on the mouse and her पेट entertained!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 98
+    },
+    {
+        "text": "When the ship's condition wasn't good, they said, \"Let's fix the हाल before we hit the hull.\"",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 99
+    },
+    {
+        "text": "I asked my friend, \"कौन सा स्टाइलों want करेगा?\" He replied, \"मुझे बाल salon में ही सही लगते हैं!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 100
+    },
+    {
+        "text": "I थूक a chance in the dark and थूक a step forward... and that's how I थूक my destiny!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 101
+    },
+    {
+        "text": "When I asked the tailor for a longer dress, he said, \"छोटी dress toh nahi, मगर  खत कर सकते हैं!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 102
+    },
+    {
+        "text": "That computer program has a बग in the system? It seems like a real software भाग!",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 103
+    },
+    {
+        "text": "Why did the calendar go to therapy? Because it had too many देय-offs!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 104
+    },
+    {
+        "text": "I asked my friend, \"क्या तुम्हारी पीठ (back) दर्द कर रही है?\" He replied, \"No, मेरी पीठ (पेट) दर्द कर रही है!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 105
+    },
+    {
+        "text": "When the prince became a king, he said, \"Now I will no longer be a दुख, I shall be a duke.\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 106
+    },
+    {
+        "text": "I told a joke in Hindi class and everyone laughed so much that I thought the whole class was डेढ़.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 107
+    },
+    {
+        "text": "When the clock strikes five, I head to the local bar, oh सारा बार has fun!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 108
+    },
+    {
+        "text": "जब स्टार बेकर bakery में जाते हैं, तो उन्हें बहुत सारे options मिलते हैं। पर कुछ बन dukhi होते हैं क्योंकि वहाँ उनकी favourite बन नहीं रही होती।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 109
+    },
+    {
+        "text": "Why did the baby book a yoga class for his dad? Because he wanted him to learn some 'आसनas' and तोड़ some stress!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 110
+    },
+    {
+        "text": "Let's not waste time and start the real डार्टी ठोक! It's time to ताक the game!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 111
+    },
+    {
+        "text": "When a group of people from the village tried to keep a secret, they put a लोक on their lips to keep it safe.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 112
+    },
+    {
+        "text": "When the clock makes a sound, that's the ठीक tock of time!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 113
+    },
+    {
+        "text": "When the TV show ended, the viewers were in for a शोक as they were left in चौंक (shock)!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 114
+    },
+    {
+        "text": "I find the दल grey clouds quite दल today, don't you think?",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 115
+    },
+    {
+        "text": "When the fire needs fuel, don't worry about the खोल, just bring the coal!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 116
+    },
+    {
+        "text": "My first choice for taking a photo is always the बिक shelter, because you never know which moment will make the perfect pic!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 117
+    },
+    {
+        "text": "I tried to open a locked दरवाज़ा, but it was डोर-locked!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 118
+    },
+    {
+        "text": "When light is brought to justice, it follows the 'लौ' of the land.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 119
+    },
+    {
+        "text": "I told my friend 'भाई, इस jacket की क्या दाम है?' \nHe replied, 'हैं??' \nI said, 'Sorry, I forgot you're not दम्ब!'",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 120
+    },
+    {
+        "text": "उसने सोचा नहीं था कि the break के बाद उसकी van तोड़ हो जाएगी।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 1.0,
+        "id": 758
+    },
+    {
+        "text": "उनके पास एक antique पिता है, जो उन्होंने अपने father से inherit किया था।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 763
+    },
+    {
+        "text": "उसने apne p.c. par kaam karte hue ek choti si पी ko nahin dekha.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 766
+    },
+    {
+        "text": "जब वह अपने bag से pen take out करने लगा, to his surprise, he found a hidden निकाल.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 767
+    },
+    {
+        "text": "उसके बिजनेस में इतनी high रेट की usury लगी कि उसे court में सूद करना पड़ा।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 770
+    },
+    {
+        "text": "उसने अपनी energy negative thoughts पर wasted की, वाया self-doubt.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 771
+    },
+    {
+        "text": "उसकी performance इतनी खराब थी कि coach ने उसे khel se baahar kar diya, declaring him a रुकी.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 772
+    },
+    {
+        "text": "उसने एक नया solar panel खरीदा, but the installation process left him feeling सौर.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 773
+    },
+    {
+        "text": "holiday pe jaane ka plan hai, खास it's a special occasion to celebrate.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 776
+    },
+    {
+        "text": "उस गाने की सूरतें उसके dil में जगह bloom कर गई, but the criticism almost खिलed his passion.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 778
+    },
+    {
+        "text": "उसने उस experiment से कुछ valuable data प्राप्त किया, which will be of great benefit in the लाभ.",
+        "label": 0,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 780
+    },
+    {
+        "text": "हर साल, वे गरीब लोगों की मदद के लिए campaign करते हैं, raising a substantial fund for the निधि.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 781
+    },
+    {
+        "text": "तब रात भर चैटिंग कर के, उसका one and a half assignment poora nahi hua, ab woh one and a half डेढ feel kar raha hai.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 1.0,
+        "id": 783
+    },
+    {
+        "text": "उसकी उद्योगिक संपत्ति बाढ़ में हानि हो गई, making him business पूर.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 787
+    },
+    {
+        "text": "उसके लिए सच्चाई को erased करना मुश्किल था, like cutting through tough मिट.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 793
+    },
+    {
+        "text": "उस queen के emotions को जानना मुश्किल है, उनके feelings बहुत fast रानी हो जाते हैं।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 794
+    },
+    {
+        "text": "उसने उस mystery को solve करने के लिए secret खोदs की खोज में काफी time निकाला।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 796
+    },
+    {
+        "text": "सौर energy से उत्पन्न power के कारण, उसके प्रवासी business में profits की graph सौर कर रही है।",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 799
+    },
+    {
+        "text": "मेरी प्यारी diary में, maine likha, \"i love how प्रीती the stars look tonight.\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 802
+    },
+    {
+        "text": "बाजार से नया leather bag खरीदने के बाद, उसने apne accessories को थैली kara.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 807
+    },
+    {
+        "text": "जब उसका heart sputter करने लगा, उसने समझा कि शायद uska धूम नजदीक है।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 809
+    },
+    {
+        "text": "मेरे parents village में कुछ दिनों के लिए stay कर रहे हैं, before catching the बास back to the city.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 810
+    },
+    {
+        "text": "उसकी जुड़वां स्कूल ड्रेस को पूरा करने के लिए, मोम ने उसके हेयरस्टाइल को एक glossy hair wax से टचअप किया।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 812
+    },
+    {
+        "text": "उसका हंसना भी everyday मेरे दिल को khush kar deta hai, like the fragrance of a रोज़ spreading happiness.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 815
+    },
+    {
+        "text": "जब उसने पहली बार falcon को देखा, तभी बाज़ की horn बज गई।",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 816
+    },
+    {
+        "text": "उसने एक horror movie देखी और उसका मुड़ instantly twisted हो गया।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 818
+    },
+    {
+        "text": "वह रास्ते में twenty ke bill bhoole gaya, and ended up with बीस chasing him.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 824
+    },
+    {
+        "text": "वह ने अपने dream journal में नए ideas लिखे, and then paused to लिख the corner of the page.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 827
+    },
+    {
+        "text": "उसने अपने head पर scarf लिया ताकि वह rain से cover रह सके, but ended up getting wet like a ढक.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 832
+    },
+    {
+        "text": "donation करना दिल से महसूस होता है, and that feeling दान is truly heartwarming.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 834
+    },
+    {
+        "text": "वह उस fake chit से सभी को पहले चिट करने की कोशिश कर रहा था।",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 1.0,
+        "id": 835
+    },
+    {
+        "text": "उसका दिल तुरंत हो गया, jab usne dekha ki uska raasta रोकी terrain पर stopped हो गया।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 837
+    },
+    {
+        "text": "mercury की ऊँचाई सभी को चौंका दी, but unfortunately, he got बुध for his risky move.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 841
+    },
+    {
+        "text": "सचाई बोलना uske liye kitna bada sin hai, par wo khush hai apne new पाप ke saath.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 844
+    },
+    {
+        "text": "उसकी everyday diary में एक special corner है reserved for doodles of रोज़s, a symbol of love and beauty.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 846
+    },
+    {
+        "text": "उसने everyday एक नया skill सीखने के लिए रोज़ में long hours बिताए।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 847
+    },
+    {
+        "text": "उसकी तोँग tongue की witty remarks सुनकर, उसने उसे ek luxurious जीभ चलाने का मौका दिया।",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 848
+    }
+]

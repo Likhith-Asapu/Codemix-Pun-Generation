@@ -1,0 +1,5002 @@
+[
+    {
+        "Pun_word": "अब",
+        "Alternate_word": "up",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "ADV",
+        "score": 1385602425,
+        "Pun_word_meaning": "Now",
+        "similarity": 0.1818181818,
+        "index": 0
+    },
+    {
+        "Pun_word": "काम",
+        "Alternate_word": "come",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADV",
+        "score": 179134760,
+        "Pun_word_meaning": "Work",
+        "similarity": 0.2666666667,
+        "index": 1
+    },
+    {
+        "Pun_word": "कम",
+        "Alternate_word": "come",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "ADV",
+        "score": 161750680,
+        "Pun_word_meaning": "Less",
+        "similarity": 0.2,
+        "index": 2
+    },
+    {
+        "Pun_word": "देर",
+        "Alternate_word": "there",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "ADV",
+        "score": 83306832,
+        "Pun_word_meaning": "Late",
+        "similarity": 0.25,
+        "index": 3
+    },
+    {
+        "Pun_word": "इस",
+        "Alternate_word": "ease",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 69758748,
+        "Pun_word_meaning": "This",
+        "similarity": 0.0,
+        "index": 4
+    },
+    {
+        "Pun_word": "बेटा",
+        "Alternate_word": "beta",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 64555140,
+        "Pun_word_meaning": "son",
+        "similarity": 0.0,
+        "index": 5
+    },
+    {
+        "Pun_word": "वन",
+        "Alternate_word": "one",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NUM",
+        "score": 36724576,
+        "Pun_word_meaning": "Forest",
+        "similarity": 0.2857142857,
+        "index": 6
+    },
+    {
+        "Pun_word": "एक",
+        "Alternate_word": "egg",
+        "Pun_word_pos": "NUM",
+        "Alternate_word_pos": "NOUN",
+        "score": 25924611,
+        "Pun_word_meaning": "One",
+        "similarity": 0.1111111111,
+        "index": 7
+    },
+    {
+        "Pun_word": "इसी",
+        "Alternate_word": "easy",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADJ",
+        "score": 25464816,
+        "Pun_word_meaning": "This ",
+        "similarity": 0.0,
+        "index": 8
+    },
+    {
+        "Pun_word": "सच",
+        "Alternate_word": "such",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADJ",
+        "score": 18639147,
+        "Pun_word_meaning": "Truth",
+        "similarity": 0.2,
+        "index": 9
+    },
+    {
+        "Pun_word": "नौ",
+        "Alternate_word": "know",
+        "Pun_word_pos": "NUM",
+        "Alternate_word_pos": "VERB",
+        "score": 14750640,
+        "Pun_word_meaning": "nine",
+        "similarity": 0.25,
+        "index": 10
+    },
+    {
+        "Pun_word": "ढेर",
+        "Alternate_word": "there",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADV",
+        "score": 14313336,
+        "Pun_word_meaning": "heap",
+        "similarity": 0.2,
+        "index": 11
+    },
+    {
+        "Pun_word": "दिल",
+        "Alternate_word": "deal",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 12446064,
+        "Pun_word_meaning": "Heart",
+        "similarity": 0.375,
+        "index": 12
+    },
+    {
+        "Pun_word": "सौ",
+        "Alternate_word": "so",
+        "Pun_word_pos": "NUM",
+        "Alternate_word_pos": "ADV",
+        "score": 11861100,
+        "Pun_word_meaning": "Hundred",
+        "similarity": 0.25,
+        "index": 13
+    },
+    {
+        "Pun_word": "लौट",
+        "Alternate_word": "lot",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "NOUN",
+        "score": 10904000,
+        "Pun_word_meaning": "return",
+        "similarity": 0.2857142857,
+        "index": 14
+    },
+    {
+        "Pun_word": "विमान",
+        "Alternate_word": "women",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 10430804,
+        "Pun_word_meaning": "plane",
+        "similarity": 0.380952381,
+        "index": 15
+    },
+    {
+        "Pun_word": "तेल",
+        "Alternate_word": "tell",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "VERB",
+        "score": 9114312,
+        "Pun_word_meaning": "Oil",
+        "similarity": 0.2666666667,
+        "index": 16
+    },
+    {
+        "Pun_word": "दिन",
+        "Alternate_word": "dean",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 7908978,
+        "Pun_word_meaning": "Day",
+        "similarity": 0.1428571429,
+        "index": 17
+    },
+    {
+        "Pun_word": "नाव",
+        "Alternate_word": "now",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADV",
+        "score": 7476985,
+        "Pun_word_meaning": "name",
+        "similarity": 0.3333333333,
+        "index": 18
+    },
+    {
+        "Pun_word": "धन",
+        "Alternate_word": "done",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "VERB",
+        "score": 6712485,
+        "Pun_word_meaning": "Wealth",
+        "similarity": 0.2,
+        "index": 19
+    },
+    {
+        "Pun_word": "ली",
+        "Alternate_word": "lee",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 6115230,
+        "Pun_word_meaning": "Took",
+        "similarity": 0.1538461538,
+        "index": 20
+    },
+    {
+        "Pun_word": "मिल",
+        "Alternate_word": "meal",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "NOUN",
+        "score": 5844264,
+        "Pun_word_meaning": "mill",
+        "similarity": 0.25,
+        "index": 21
+    },
+    {
+        "Pun_word": "मानी",
+        "Alternate_word": "money",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "NOUN",
+        "score": 5477850,
+        "Pun_word_meaning": "agreed",
+        "similarity": 0.2,
+        "index": 22
+    },
+    {
+        "Pun_word": "कुल",
+        "Alternate_word": "cool",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADJ",
+        "score": 4876200,
+        "Pun_word_meaning": "Total",
+        "similarity": 0.3333333333,
+        "index": 23
+    },
+    {
+        "Pun_word": "दान",
+        "Alternate_word": "done",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "VERB",
+        "score": 4269525,
+        "Pun_word_meaning": "Donation",
+        "similarity": 0.1818181818,
+        "index": 24
+    },
+    {
+        "Pun_word": "तीन",
+        "Alternate_word": "dean",
+        "Pun_word_pos": "NUM",
+        "Alternate_word_pos": "NOUN",
+        "score": 4236298,
+        "Pun_word_meaning": "Three",
+        "similarity": 0.1176470588,
+        "index": 25
+    },
+    {
+        "Pun_word": "पीपल",
+        "Alternate_word": "people",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "NOUN",
+        "score": 4127100,
+        "Pun_word_meaning": "tree",
+        "similarity": 0.0,
+        "index": 26
+    },
+    {
+        "Pun_word": "लाख",
+        "Alternate_word": "luck",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 3664944,
+        "Pun_word_meaning": "Lakh",
+        "similarity": 0.2857142857,
+        "index": 27
+    },
+    {
+        "Pun_word": "खोल",
+        "Alternate_word": "call",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 3584160,
+        "Pun_word_meaning": "shell",
+        "similarity": 0.6315789474,
+        "index": 28
+    },
+    {
+        "Pun_word": "तीन",
+        "Alternate_word": "thin",
+        "Pun_word_pos": "NUM",
+        "Alternate_word_pos": "X",
+        "score": 3534024,
+        "Pun_word_meaning": "Three",
+        "similarity": 0.1538461538,
+        "index": 29
+    },
+    {
+        "Pun_word": "तीन",
+        "Alternate_word": "teen",
+        "Pun_word_pos": "NUM",
+        "Alternate_word_pos": "NOUN",
+        "score": 3511370,
+        "Pun_word_meaning": "Three",
+        "similarity": 0.1428571429,
+        "index": 30
+    },
+    {
+        "Pun_word": "लोग",
+        "Alternate_word": "log",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 3493824,
+        "Pun_word_meaning": "People",
+        "similarity": 0.3076923077,
+        "index": 31
+    },
+    {
+        "Pun_word": "दौर",
+        "Alternate_word": "door",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 3293181,
+        "Pun_word_meaning": "round",
+        "similarity": 0.5263157895,
+        "index": 32
+    },
+    {
+        "Pun_word": "वन",
+        "Alternate_word": "won",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "VERB",
+        "score": 3171378,
+        "Pun_word_meaning": "Forest",
+        "similarity": 0.2857142857,
+        "index": 33
+    },
+    {
+        "Pun_word": "बिक",
+        "Alternate_word": "big",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADJ",
+        "score": 2836752,
+        "Pun_word_meaning": "sold",
+        "similarity": 0.3333333333,
+        "index": 34
+    },
+    {
+        "Pun_word": "लो",
+        "Alternate_word": "law",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "NOUN",
+        "score": 2684682,
+        "Pun_word_meaning": "Take",
+        "similarity": 0.2666666667,
+        "index": 35
+    },
+    {
+        "Pun_word": "मोर",
+        "Alternate_word": "more",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADJ",
+        "score": 2596892,
+        "Pun_word_meaning": "Peacock",
+        "similarity": 0.5,
+        "index": 36
+    },
+    {
+        "Pun_word": "नव",
+        "Alternate_word": "now",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADV",
+        "score": 2581630,
+        "Pun_word_meaning": "New",
+        "similarity": 0.2222222222,
+        "index": 37
+    },
+    {
+        "Pun_word": "मंडी",
+        "Alternate_word": "monday",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 2192973,
+        "Pun_word_meaning": "Market",
+        "similarity": 0.25,
+        "index": 38
+    },
+    {
+        "Pun_word": "मेरी",
+        "Alternate_word": "mary",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "X",
+        "score": 2171496,
+        "Pun_word_meaning": "My",
+        "similarity": 0.0,
+        "index": 39
+    },
+    {
+        "Pun_word": "हित",
+        "Alternate_word": "hit",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 2162979,
+        "Pun_word_meaning": "interest",
+        "similarity": 0.2222222222,
+        "index": 40
+    },
+    {
+        "Pun_word": "कौर",
+        "Alternate_word": "car",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "NOUN",
+        "score": 2046042,
+        "Pun_word_meaning": "mouthful",
+        "similarity": 0.1176470588,
+        "index": 41
+    },
+    {
+        "Pun_word": "तय",
+        "Alternate_word": "tie",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "X",
+        "score": 2006940,
+        "Pun_word_meaning": "fixed",
+        "similarity": 0.1333333333,
+        "index": 42
+    },
+    {
+        "Pun_word": "ख़ैर",
+        "Alternate_word": "care",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1944340,
+        "Pun_word_meaning": "Well",
+        "similarity": 0.1333333333,
+        "index": 43
+    },
+    {
+        "Pun_word": "बोल",
+        "Alternate_word": "ball",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 1855360,
+        "Pun_word_meaning": "Lyrics",
+        "similarity": 0.1176470588,
+        "index": 44
+    },
+    {
+        "Pun_word": "लो",
+        "Alternate_word": "low",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "ADJ",
+        "score": 1799070,
+        "Pun_word_meaning": "Take",
+        "similarity": 0.0952380952,
+        "index": 45
+    },
+    {
+        "Pun_word": "पीठ",
+        "Alternate_word": "beat",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1628400,
+        "Pun_word_meaning": "Back",
+        "similarity": 0.3076923077,
+        "index": 46
+    },
+    {
+        "Pun_word": "शेर",
+        "Alternate_word": "share",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1616140,
+        "Pun_word_meaning": "Lion",
+        "similarity": 0.0952380952,
+        "index": 47
+    },
+    {
+        "Pun_word": "सौ",
+        "Alternate_word": "saw",
+        "Pun_word_pos": "NUM",
+        "Alternate_word_pos": "VERB",
+        "score": 1531800,
+        "Pun_word_meaning": "Hundred",
+        "similarity": 0.2666666667,
+        "index": 48
+    },
+    {
+        "Pun_word": "शोध",
+        "Alternate_word": "showed",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "VERB",
+        "score": 1496880,
+        "Pun_word_meaning": "Search",
+        "similarity": 0.1818181818,
+        "index": 49
+    },
+    {
+        "Pun_word": "सुन",
+        "Alternate_word": "soon",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "ADV",
+        "score": 1439200,
+        "Pun_word_meaning": "Listen",
+        "similarity": 0.4,
+        "index": 50
+    },
+    {
+        "Pun_word": "नीत",
+        "Alternate_word": "need",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "VERB",
+        "score": 1378355,
+        "Pun_word_meaning": "policy",
+        "similarity": 0.2666666667,
+        "index": 51
+    },
+    {
+        "Pun_word": "कोर",
+        "Alternate_word": "car",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1329750,
+        "Pun_word_meaning": "Corner",
+        "similarity": 0.3333333333,
+        "index": 52
+    },
+    {
+        "Pun_word": "भीड़",
+        "Alternate_word": "bid",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1249060,
+        "Pun_word_meaning": "Crowd",
+        "similarity": 0.3076923077,
+        "index": 53
+    },
+    {
+        "Pun_word": "ठीक",
+        "Alternate_word": "thick",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "ADJ",
+        "score": 1238688,
+        "Pun_word_meaning": "Correct",
+        "similarity": 0.1666666667,
+        "index": 54
+    },
+    {
+        "Pun_word": "गुड़",
+        "Alternate_word": "good",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADJ",
+        "score": 1008440,
+        "Pun_word_meaning": "Jaggery",
+        "similarity": 0.2352941176,
+        "index": 55
+    },
+    {
+        "Pun_word": "तक",
+        "Alternate_word": "tuck",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "NOUN",
+        "score": 985366,
+        "Pun_word_meaning": "till",
+        "similarity": 0.4,
+        "index": 56
+    },
+    {
+        "Pun_word": "देन",
+        "Alternate_word": "then",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADV",
+        "score": 976080,
+        "Pun_word_meaning": "give",
+        "similarity": 0.3333333333,
+        "index": 57
+    },
+    {
+        "Pun_word": "दिन",
+        "Alternate_word": "din",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 972762,
+        "Pun_word_meaning": "Day",
+        "similarity": 0.3076923077,
+        "index": 58
+    },
+    {
+        "Pun_word": "तार",
+        "Alternate_word": "tar",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADV",
+        "score": 964944,
+        "Pun_word_meaning": "wire",
+        "similarity": 0.25,
+        "index": 59
+    },
+    {
+        "Pun_word": "भूख",
+        "Alternate_word": "book",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 943152,
+        "Pun_word_meaning": "hunger",
+        "similarity": 0.1111111111,
+        "index": 60
+    },
+    {
+        "Pun_word": "देख",
+        "Alternate_word": "deck",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 906626,
+        "Pun_word_meaning": "See",
+        "similarity": 0.3333333333,
+        "index": 61
+    },
+    {
+        "Pun_word": "आय",
+        "Alternate_word": "eye",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 903240,
+        "Pun_word_meaning": "Income ",
+        "similarity": 0.0,
+        "index": 62
+    },
+    {
+        "Pun_word": "ओर",
+        "Alternate_word": "ore",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 884790,
+        "Pun_word_meaning": "Side",
+        "similarity": 0.3076923077,
+        "index": 63
+    },
+    {
+        "Pun_word": "पुल",
+        "Alternate_word": "pull",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 842961,
+        "Pun_word_meaning": "Bridge",
+        "similarity": 0.1428571429,
+        "index": 64
+    },
+    {
+        "Pun_word": "तोप",
+        "Alternate_word": "top",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 805089,
+        "Pun_word_meaning": "cannon",
+        "similarity": 0.375,
+        "index": 65
+    },
+    {
+        "Pun_word": "सन्",
+        "Alternate_word": "son",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 791008,
+        "Pun_word_meaning": "year",
+        "similarity": 0.0,
+        "index": 66
+    },
+    {
+        "Pun_word": "बड़ी",
+        "Alternate_word": "body",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "NOUN",
+        "score": 769764,
+        "Pun_word_meaning": "Big",
+        "similarity": 0.2,
+        "index": 67
+    },
+    {
+        "Pun_word": "तय",
+        "Alternate_word": "thai",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "X",
+        "score": 769730,
+        "Pun_word_meaning": "fixed",
+        "similarity": 0.1538461538,
+        "index": 68
+    },
+    {
+        "Pun_word": "तौर",
+        "Alternate_word": "thor",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 743504,
+        "Pun_word_meaning": "manner",
+        "similarity": 0.2666666667,
+        "index": 69
+    },
+    {
+        "Pun_word": "मणि",
+        "Alternate_word": "money",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "NOUN",
+        "score": 738150,
+        "Pun_word_meaning": "gem",
+        "similarity": 0.1333333333,
+        "index": 70
+    },
+    {
+        "Pun_word": "टूक",
+        "Alternate_word": "took",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "VERB",
+        "score": 736290,
+        "Pun_word_meaning": "bluntly",
+        "similarity": 0.4,
+        "index": 71
+    },
+    {
+        "Pun_word": "ढील",
+        "Alternate_word": "deal",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 714193,
+        "Pun_word_meaning": "relaxation",
+        "similarity": 0.1666666667,
+        "index": 72
+    },
+    {
+        "Pun_word": "गोद",
+        "Alternate_word": "god",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 683992,
+        "Pun_word_meaning": "Lap",
+        "similarity": 0.1111111111,
+        "index": 73
+    },
+    {
+        "Pun_word": "बोल",
+        "Alternate_word": "bowl",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 656240,
+        "Pun_word_meaning": "Lyrics",
+        "similarity": 0.1176470588,
+        "index": 74
+    },
+    {
+        "Pun_word": "सिख",
+        "Alternate_word": "sick",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADJ",
+        "score": 655912,
+        "Pun_word_meaning": "Sikh",
+        "similarity": 0.1666666667,
+        "index": 75
+    },
+    {
+        "Pun_word": "पुल",
+        "Alternate_word": "pool",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 611842,
+        "Pun_word_meaning": "Bridge",
+        "similarity": 0.7142857143,
+        "index": 76
+    },
+    {
+        "Pun_word": "भाई",
+        "Alternate_word": "buy",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 609592,
+        "Pun_word_meaning": "Brother",
+        "similarity": 0.125,
+        "index": 77
+    },
+    {
+        "Pun_word": "दस",
+        "Alternate_word": "thus",
+        "Pun_word_pos": "NUM",
+        "Alternate_word_pos": "X",
+        "score": 583692,
+        "Pun_word_meaning": "Ten",
+        "similarity": 0.2222222222,
+        "index": 78
+    },
+    {
+        "Pun_word": "सिख",
+        "Alternate_word": "seek",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 557827,
+        "Pun_word_meaning": "Sikh",
+        "similarity": 0.1428571429,
+        "index": 79
+    },
+    {
+        "Pun_word": "खुल",
+        "Alternate_word": "cool",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "ADJ",
+        "score": 556420,
+        "Pun_word_meaning": "open",
+        "similarity": 0.2857142857,
+        "index": 80
+    },
+    {
+        "Pun_word": "मेरी",
+        "Alternate_word": "marry",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "ADJ",
+        "score": 552288,
+        "Pun_word_meaning": "My",
+        "similarity": 0.0,
+        "index": 81
+    },
+    {
+        "Pun_word": "मीन",
+        "Alternate_word": "mean",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "ADJ",
+        "score": 539121,
+        "Pun_word_meaning": "Pisces",
+        "similarity": 0.125,
+        "index": 82
+    },
+    {
+        "Pun_word": "तब",
+        "Alternate_word": "tub",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "NOUN",
+        "score": 536922,
+        "Pun_word_meaning": "Then",
+        "similarity": 0.1428571429,
+        "index": 83
+    },
+    {
+        "Pun_word": "सदन",
+        "Alternate_word": "sudden",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADV",
+        "score": 535681,
+        "Pun_word_meaning": "house",
+        "similarity": 0.1818181818,
+        "index": 84
+    },
+    {
+        "Pun_word": "कौर",
+        "Alternate_word": "core",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "NOUN",
+        "score": 508914,
+        "Pun_word_meaning": "mouthful",
+        "similarity": 0.3333333333,
+        "index": 85
+    },
+    {
+        "Pun_word": "किस",
+        "Alternate_word": "kiss",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 497799,
+        "Pun_word_meaning": "What",
+        "similarity": 0.0,
+        "index": 86
+    },
+    {
+        "Pun_word": "गाय",
+        "Alternate_word": "guy",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 483450,
+        "Pun_word_meaning": "Cow",
+        "similarity": 0.4285714286,
+        "index": 87
+    },
+    {
+        "Pun_word": "अभाव",
+        "Alternate_word": "above",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 483092,
+        "Pun_word_meaning": "Lack",
+        "similarity": 0.2857142857,
+        "index": 88
+    },
+    {
+        "Pun_word": "नाम",
+        "Alternate_word": "numb",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 476616,
+        "Pun_word_meaning": "Name",
+        "similarity": 0.1818181818,
+        "index": 89
+    },
+    {
+        "Pun_word": "बेटी",
+        "Alternate_word": "betty",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 452864,
+        "Pun_word_meaning": "Daughter",
+        "similarity": 0.0,
+        "index": 90
+    },
+    {
+        "Pun_word": "थोक",
+        "Alternate_word": "talk",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 452424,
+        "Pun_word_meaning": "bulk",
+        "similarity": 0.2666666667,
+        "index": 91
+    },
+    {
+        "Pun_word": "दीप",
+        "Alternate_word": "deep",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "ADJ",
+        "score": 451490,
+        "Pun_word_meaning": "lamp",
+        "similarity": 0.1333333333,
+        "index": 92
+    },
+    {
+        "Pun_word": "फूल",
+        "Alternate_word": "pull",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 424557,
+        "Pun_word_meaning": "Flower",
+        "similarity": 0.1111111111,
+        "index": 93
+    },
+    {
+        "Pun_word": "रण",
+        "Alternate_word": "run",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "X",
+        "score": 421600,
+        "Pun_word_meaning": "battle",
+        "similarity": 0.5263157895,
+        "index": 94
+    },
+    {
+        "Pun_word": "सीख",
+        "Alternate_word": "seek",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 416984,
+        "Pun_word_meaning": "learning",
+        "similarity": 0.4285714286,
+        "index": 95
+    },
+    {
+        "Pun_word": "देर",
+        "Alternate_word": "dare",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "X",
+        "score": 397824,
+        "Pun_word_meaning": "Late",
+        "similarity": 0.1818181818,
+        "index": 96
+    },
+    {
+        "Pun_word": "गौ",
+        "Alternate_word": "go",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "VERB",
+        "score": 395901,
+        "Pun_word_meaning": "cow",
+        "similarity": 0.0740740741,
+        "index": 97
+    },
+    {
+        "Pun_word": "पेट",
+        "Alternate_word": "pet",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 385776,
+        "Pun_word_meaning": "stomach",
+        "similarity": 0.25,
+        "index": 98
+    },
+    {
+        "Pun_word": "हाल",
+        "Alternate_word": "hull",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "X",
+        "score": 358614,
+        "Pun_word_meaning": "Condition",
+        "similarity": 0.1428571429,
+        "index": 99
+    },
+    {
+        "Pun_word": "सालों",
+        "Alternate_word": "salon",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 345103,
+        "Pun_word_meaning": "years",
+        "similarity": 0.1176470588,
+        "index": 100
+    },
+    {
+        "Pun_word": "थूक",
+        "Alternate_word": "took",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "VERB",
+        "score": 328050,
+        "Pun_word_meaning": "spit",
+        "similarity": 0.2,
+        "index": 101
+    },
+    {
+        "Pun_word": "खत",
+        "Alternate_word": "cut",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 327131,
+        "Pun_word_meaning": "Fertilizer",
+        "similarity": 0.4,
+        "index": 102
+    },
+    {
+        "Pun_word": "भाग",
+        "Alternate_word": "bug",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 326339,
+        "Pun_word_meaning": "Part",
+        "similarity": 0.1333333333,
+        "index": 103
+    },
+    {
+        "Pun_word": "देय",
+        "Alternate_word": "day",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 319550,
+        "Pun_word_meaning": "payable",
+        "similarity": 0.3333333333,
+        "index": 104
+    },
+    {
+        "Pun_word": "पीठ",
+        "Alternate_word": "pete",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 319056,
+        "Pun_word_meaning": "Back",
+        "similarity": 0.0,
+        "index": 105
+    },
+    {
+        "Pun_word": "दुख",
+        "Alternate_word": "duke",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 316230,
+        "Pun_word_meaning": "Sadness",
+        "similarity": 0.125,
+        "index": 106
+    },
+    {
+        "Pun_word": "डेढ़",
+        "Alternate_word": "dead",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADJ",
+        "score": 310368,
+        "Pun_word_meaning": "one and a half",
+        "similarity": 0.0,
+        "index": 107
+    },
+    {
+        "Pun_word": "बार",
+        "Alternate_word": "bar",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 308700,
+        "Pun_word_meaning": "Times",
+        "similarity": 0.1333333333,
+        "index": 108
+    },
+    {
+        "Pun_word": "बन",
+        "Alternate_word": "bun",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "NOUN",
+        "score": 305440,
+        "Pun_word_meaning": "become",
+        "similarity": 0.1538461538,
+        "index": 109
+    },
+    {
+        "Pun_word": "तोड़",
+        "Alternate_word": "todd",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 302304,
+        "Pun_word_meaning": "the break",
+        "similarity": 0.0,
+        "index": 110
+    },
+    {
+        "Pun_word": "ठोक",
+        "Alternate_word": "talk",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 296230,
+        "Pun_word_meaning": "knock",
+        "similarity": 0.2857142857,
+        "index": 111
+    },
+    {
+        "Pun_word": "लोक",
+        "Alternate_word": "lock",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 268164,
+        "Pun_word_meaning": "people",
+        "similarity": 0.1428571429,
+        "index": 112
+    },
+    {
+        "Pun_word": "ठीक",
+        "Alternate_word": "tick",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "NOUN",
+        "score": 263120,
+        "Pun_word_meaning": "Correct",
+        "similarity": 0.1666666667,
+        "index": 113
+    },
+    {
+        "Pun_word": "शोक",
+        "Alternate_word": "shock",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 260897,
+        "Pun_word_meaning": "Mourning",
+        "similarity": 0.5555555556,
+        "index": 114
+    },
+    {
+        "Pun_word": "दल",
+        "Alternate_word": "dull",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 255056,
+        "Pun_word_meaning": "team",
+        "similarity": 0.1818181818,
+        "index": 115
+    },
+    {
+        "Pun_word": "खोल",
+        "Alternate_word": "coal",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 248900,
+        "Pun_word_meaning": "shell",
+        "similarity": 0.2857142857,
+        "index": 116
+    },
+    {
+        "Pun_word": "बिक",
+        "Alternate_word": "pic",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 243628,
+        "Pun_word_meaning": "sold",
+        "similarity": 0.1666666667,
+        "index": 117
+    },
+    {
+        "Pun_word": "डोर",
+        "Alternate_word": "door",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 237305,
+        "Pun_word_meaning": "string",
+        "similarity": 0.5555555556,
+        "index": 118
+    },
+    {
+        "Pun_word": "लौ",
+        "Alternate_word": "law",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 226182,
+        "Pun_word_meaning": "flame",
+        "similarity": 0.1428571429,
+        "index": 119
+    },
+    {
+        "Pun_word": "दाम",
+        "Alternate_word": "dumb",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADJ",
+        "score": 224754,
+        "Pun_word_meaning": "Price",
+        "similarity": 0.2,
+        "index": 120
+    },
+    {
+        "Pun_word": "तय",
+        "Alternate_word": "thigh",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "NOUN",
+        "score": 205530,
+        "Pun_word_meaning": "fixed",
+        "similarity": 0.1428571429,
+        "index": 121
+    },
+    {
+        "Pun_word": "पेय",
+        "Alternate_word": "pay",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 204480,
+        "Pun_word_meaning": "drink",
+        "similarity": 0.2352941176,
+        "index": 122
+    },
+    {
+        "Pun_word": "खो",
+        "Alternate_word": "co",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 190864,
+        "Pun_word_meaning": "lost",
+        "similarity": 0.25,
+        "index": 123
+    },
+    {
+        "Pun_word": "पीठ",
+        "Alternate_word": "pit",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 186576,
+        "Pun_word_meaning": "Back",
+        "similarity": 0.3076923077,
+        "index": 124
+    },
+    {
+        "Pun_word": "खोल",
+        "Alternate_word": "goal",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 184710,
+        "Pun_word_meaning": "shell",
+        "similarity": 0.4,
+        "index": 125
+    },
+    {
+        "Pun_word": "दम",
+        "Alternate_word": "dumb",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADJ",
+        "score": 183864,
+        "Pun_word_meaning": "power",
+        "similarity": 0.25,
+        "index": 126
+    },
+    {
+        "Pun_word": "कफ",
+        "Alternate_word": "cup",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 183806,
+        "Pun_word_meaning": "phlegm",
+        "similarity": 0.1333333333,
+        "index": 127
+    },
+    {
+        "Pun_word": "हाथ",
+        "Alternate_word": "hat",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 183800,
+        "Pun_word_meaning": "hand",
+        "similarity": 0.1333333333,
+        "index": 128
+    },
+    {
+        "Pun_word": "भाव",
+        "Alternate_word": "bow",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 182700,
+        "Pun_word_meaning": "expressions",
+        "similarity": 0.1111111111,
+        "index": 129
+    },
+    {
+        "Pun_word": "अगली",
+        "Alternate_word": "ugly",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "ADJ",
+        "score": 180336,
+        "Pun_word_meaning": "Next",
+        "similarity": 0.5,
+        "index": 130
+    },
+    {
+        "Pun_word": "मोड़",
+        "Alternate_word": "mode",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 177891,
+        "Pun_word_meaning": "turn",
+        "similarity": 0.5,
+        "index": 131
+    },
+    {
+        "Pun_word": "शौक",
+        "Alternate_word": "shock",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 177801,
+        "Pun_word_meaning": "Hobby",
+        "similarity": 0.2352941176,
+        "index": 132
+    },
+    {
+        "Pun_word": "छत",
+        "Alternate_word": "chat",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 175584,
+        "Pun_word_meaning": "Roof",
+        "similarity": 0.1333333333,
+        "index": 133
+    },
+    {
+        "Pun_word": "सन्",
+        "Alternate_word": "sun",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 175408,
+        "Pun_word_meaning": "year",
+        "similarity": 0.0,
+        "index": 134
+    },
+    {
+        "Pun_word": "रो",
+        "Alternate_word": "row",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 175392,
+        "Pun_word_meaning": "Cry",
+        "similarity": 0.3076923077,
+        "index": 135
+    },
+    {
+        "Pun_word": "भीड़",
+        "Alternate_word": "bid",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 173000,
+        "Pun_word_meaning": "Crowd",
+        "similarity": 0.3076923077,
+        "index": 136
+    },
+    {
+        "Pun_word": "देरी",
+        "Alternate_word": "dairy",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "NOUN",
+        "score": 166164,
+        "Pun_word_meaning": "delay",
+        "similarity": 0.1333333333,
+        "index": 137
+    },
+    {
+        "Pun_word": "नीति",
+        "Alternate_word": "needy",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADJ",
+        "score": 158100,
+        "Pun_word_meaning": "Policy",
+        "similarity": 0.2666666667,
+        "index": 138
+    },
+    {
+        "Pun_word": "बीस",
+        "Alternate_word": "peace",
+        "Pun_word_pos": "NUM",
+        "Alternate_word_pos": "NOUN",
+        "score": 157762,
+        "Pun_word_meaning": "Twenty",
+        "similarity": 0.2857142857,
+        "index": 139
+    },
+    {
+        "Pun_word": "खाम",
+        "Alternate_word": "come",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADV",
+        "score": 155400,
+        "Pun_word_meaning": "the envelope",
+        "similarity": 0.0,
+        "index": 140
+    },
+    {
+        "Pun_word": "लौ",
+        "Alternate_word": "low",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADJ",
+        "score": 151570,
+        "Pun_word_meaning": "flame",
+        "similarity": 0.3,
+        "index": 141
+    },
+    {
+        "Pun_word": "गोली",
+        "Alternate_word": "goalie",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "PROPN",
+        "score": 151532,
+        "Pun_word_meaning": "Gun Shot",
+        "similarity": 0.0,
+        "index": 142
+    },
+    {
+        "Pun_word": "मैदान",
+        "Alternate_word": "madden",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 149022,
+        "Pun_word_meaning": "Field",
+        "similarity": 0.1818181818,
+        "index": 143
+    },
+    {
+        "Pun_word": "पीस",
+        "Alternate_word": "peace",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 148390,
+        "Pun_word_meaning": "Grind",
+        "similarity": 0.1666666667,
+        "index": 144
+    },
+    {
+        "Pun_word": "थोप",
+        "Alternate_word": "top",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 131061,
+        "Pun_word_meaning": "impose",
+        "similarity": 0.1818181818,
+        "index": 145
+    },
+    {
+        "Pun_word": "काफी",
+        "Alternate_word": "coffee",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "X",
+        "score": 120204,
+        "Pun_word_meaning": "Enough",
+        "similarity": 0.0,
+        "index": 146
+    },
+    {
+        "Pun_word": "बैठ",
+        "Alternate_word": "bat",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "NOUN",
+        "score": 120124,
+        "Pun_word_meaning": "sit down",
+        "similarity": 0.0,
+        "index": 147
+    },
+    {
+        "Pun_word": "मेरी",
+        "Alternate_word": "merry",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "ADJ",
+        "score": 116106,
+        "Pun_word_meaning": "My",
+        "similarity": 0.0,
+        "index": 148
+    },
+    {
+        "Pun_word": "फेर",
+        "Alternate_word": "pair",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 115370,
+        "Pun_word_meaning": "turn",
+        "similarity": 0.3076923077,
+        "index": 149
+    },
+    {
+        "Pun_word": "शव",
+        "Alternate_word": "shove",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 108800,
+        "Pun_word_meaning": "dead body",
+        "similarity": 0.0,
+        "index": 150
+    },
+    {
+        "Pun_word": "दूध",
+        "Alternate_word": "dude",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 97000,
+        "Pun_word_meaning": "Milk",
+        "similarity": 0.2857142857,
+        "index": 151
+    },
+    {
+        "Pun_word": "मौत",
+        "Alternate_word": "moat",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 78858,
+        "Pun_word_meaning": "Death",
+        "similarity": 0.125,
+        "index": 152
+    },
+    {
+        "Pun_word": "गीत",
+        "Alternate_word": "git",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 70221,
+        "Pun_word_meaning": "Song",
+        "similarity": 0.0,
+        "index": 153
+    },
+    {
+        "Pun_word": "शोर",
+        "Alternate_word": "shore",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 64009,
+        "Pun_word_meaning": "Noise",
+        "similarity": 0.1666666667,
+        "index": 154
+    },
+    {
+        "Pun_word": "सामान",
+        "Alternate_word": "summon",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 60639,
+        "Pun_word_meaning": "stuff",
+        "similarity": 0.1176470588,
+        "index": 155
+    },
+    {
+        "Pun_word": "बाकी",
+        "Alternate_word": "bucky",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 59577,
+        "Pun_word_meaning": "Balance",
+        "similarity": 0.0,
+        "index": 156
+    },
+    {
+        "Pun_word": "दोष",
+        "Alternate_word": "dose",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 56870,
+        "Pun_word_meaning": "Shortcoming",
+        "similarity": 0.1333333333,
+        "index": 157
+    },
+    {
+        "Pun_word": "खौल",
+        "Alternate_word": "call",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 54720,
+        "Pun_word_meaning": "boil",
+        "similarity": 0.0952380952,
+        "index": 158
+    },
+    {
+        "Pun_word": "खौफ",
+        "Alternate_word": "cop",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 42210,
+        "Pun_word_meaning": "fear",
+        "similarity": 0.125,
+        "index": 159
+    },
+    {
+        "Pun_word": "बाग",
+        "Alternate_word": "bug",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 41405,
+        "Pun_word_meaning": "Garden",
+        "similarity": 0.3,
+        "index": 160
+    },
+    {
+        "Pun_word": "बवाल",
+        "Alternate_word": "bowel",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 40704,
+        "Pun_word_meaning": "commotion",
+        "similarity": 0.1428571429,
+        "index": 161
+    },
+    {
+        "Pun_word": "रोग",
+        "Alternate_word": "rogue",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 39840,
+        "Pun_word_meaning": "Disease",
+        "similarity": 0.1176470588,
+        "index": 162
+    },
+    {
+        "Pun_word": "पेड",
+        "Alternate_word": "paid",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 38728,
+        "Pun_word_meaning": "tree",
+        "similarity": 0.6666666667,
+        "index": 163
+    },
+    {
+        "Pun_word": "ख़त",
+        "Alternate_word": "cut",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 38486,
+        "Pun_word_meaning": "letter",
+        "similarity": 0.2666666667,
+        "index": 164
+    },
+    {
+        "Pun_word": "गौर",
+        "Alternate_word": "gore",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 38304,
+        "Pun_word_meaning": "notice",
+        "similarity": 0.1111111111,
+        "index": 165
+    },
+    {
+        "Pun_word": "कील",
+        "Alternate_word": "kill",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 34918,
+        "Pun_word_meaning": "Nail ",
+        "similarity": 0.0,
+        "index": 166
+    },
+    {
+        "Pun_word": "हित",
+        "Alternate_word": "heath",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 32109,
+        "Pun_word_meaning": "interest",
+        "similarity": 0.1,
+        "index": 167
+    },
+    {
+        "Pun_word": "शीत",
+        "Alternate_word": "sheet",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 32076,
+        "Pun_word_meaning": "cold",
+        "similarity": 0.3,
+        "index": 168
+    },
+    {
+        "Pun_word": "दिल",
+        "Alternate_word": "dill",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 30096,
+        "Pun_word_meaning": "Heart",
+        "similarity": 0.1052631579,
+        "index": 169
+    },
+    {
+        "Pun_word": "गण",
+        "Alternate_word": "gun",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 29543,
+        "Pun_word_meaning": "count",
+        "similarity": 0.125,
+        "index": 170
+    },
+    {
+        "Pun_word": "ठोस",
+        "Alternate_word": "toss",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 29224,
+        "Pun_word_meaning": "Solid",
+        "similarity": 0.1428571429,
+        "index": 171
+    },
+    {
+        "Pun_word": "चीज़",
+        "Alternate_word": "cheese",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 28128,
+        "Pun_word_meaning": "thing",
+        "similarity": 0.1666666667,
+        "index": 172
+    },
+    {
+        "Pun_word": "ठोस",
+        "Alternate_word": "toes",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 27538,
+        "Pun_word_meaning": "Solid",
+        "similarity": 0.3333333333,
+        "index": 173
+    },
+    {
+        "Pun_word": "भेड़",
+        "Alternate_word": "bed",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 26009,
+        "Pun_word_meaning": "lamb",
+        "similarity": 0.4,
+        "index": 174
+    },
+    {
+        "Pun_word": "रख",
+        "Alternate_word": "ruck",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 23016,
+        "Pun_word_meaning": "keep",
+        "similarity": 0.2857142857,
+        "index": 175
+    },
+    {
+        "Pun_word": "मोड़",
+        "Alternate_word": "mode",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 22458,
+        "Pun_word_meaning": "turn",
+        "similarity": 0.5,
+        "index": 176
+    },
+    {
+        "Pun_word": "डाक",
+        "Alternate_word": "duck",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 19186,
+        "Pun_word_meaning": "Post",
+        "similarity": 0.2857142857,
+        "index": 177
+    },
+    {
+        "Pun_word": "झेल",
+        "Alternate_word": "gel",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 18900,
+        "Pun_word_meaning": "endure",
+        "similarity": 0.1428571429,
+        "index": 178
+    },
+    {
+        "Pun_word": "शीत",
+        "Alternate_word": "shit",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 17496,
+        "Pun_word_meaning": "cold",
+        "similarity": 0.1818181818,
+        "index": 179
+    },
+    {
+        "Pun_word": "भय",
+        "Alternate_word": "bye",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 17112,
+        "Pun_word_meaning": "Fear",
+        "similarity": 0.2352941176,
+        "index": 180
+    },
+    {
+        "Pun_word": "भाई",
+        "Alternate_word": "bye",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 17112,
+        "Pun_word_meaning": "brother",
+        "similarity": 0.2152344176,
+        "index": 181
+    },
+    {
+        "Pun_word": "खाट",
+        "Alternate_word": "cut",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 16494,
+        "Pun_word_meaning": "cot",
+        "similarity": 0.125,
+        "index": 182
+    },
+    {
+        "Pun_word": "भूत",
+        "Alternate_word": "booth",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 15990,
+        "Pun_word_meaning": "Evil spirit",
+        "similarity": 0.0,
+        "index": 183
+    },
+    {
+        "Pun_word": "लोक",
+        "Alternate_word": "look",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 14516,
+        "Pun_word_meaning": "people",
+        "similarity": 0.0,
+        "index": 184
+    },
+    {
+        "Pun_word": "पीठ",
+        "Alternate_word": "peat",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 13248,
+        "Pun_word_meaning": "Back",
+        "similarity": 0.3636363636,
+        "index": 185
+    },
+    {
+        "Pun_word": "पैदल",
+        "Alternate_word": "paddle",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 13161,
+        "Pun_word_meaning": "on foot",
+        "similarity": 0.0,
+        "index": 186
+    },
+    {
+        "Pun_word": "भीड़",
+        "Alternate_word": "bead",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 12996,
+        "Pun_word_meaning": "Crowd",
+        "similarity": 0.1333333333,
+        "index": 187
+    },
+    {
+        "Pun_word": "साख",
+        "Alternate_word": "suck",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 12993,
+        "Pun_word_meaning": "credit",
+        "similarity": 0.1538461538,
+        "index": 188
+    },
+    {
+        "Pun_word": "चोर",
+        "Alternate_word": "chore",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 12320,
+        "Pun_word_meaning": "Thief",
+        "similarity": 0.1111111111,
+        "index": 189
+    },
+    {
+        "Pun_word": "हानि",
+        "Alternate_word": "honey",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 11979,
+        "Pun_word_meaning": "Loss",
+        "similarity": 0.125,
+        "index": 190
+    },
+    {
+        "Pun_word": "रूठ",
+        "Alternate_word": "route",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 10976,
+        "Pun_word_meaning": "sulking",
+        "similarity": 0.2222222222,
+        "index": 191
+    },
+    {
+        "Pun_word": "सोना",
+        "Alternate_word": "sauna",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 9690,
+        "Pun_word_meaning": "Sleep",
+        "similarity": 0.1176470588,
+        "index": 192
+    },
+    {
+        "Pun_word": "छोर",
+        "Alternate_word": "chore",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 7560,
+        "Pun_word_meaning": "edge",
+        "similarity": 0.1176470588,
+        "index": 193
+    },
+    {
+        "Pun_word": "प्रवास",
+        "Alternate_word": "prowess",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 7221,
+        "Pun_word_meaning": "travel",
+        "similarity": 0.375,
+        "index": 194
+    },
+    {
+        "Pun_word": "गोल",
+        "Alternate_word": "goal",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 7196,
+        "Pun_word_meaning": "Round",
+        "similarity": 0.0,
+        "index": 195
+    },
+    {
+        "Pun_word": "वृष",
+        "Alternate_word": "verse",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 6478,
+        "Pun_word_meaning": "taurus",
+        "similarity": 0.1538461538,
+        "index": 196
+    },
+    {
+        "Pun_word": "पीछ",
+        "Alternate_word": "pitch",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 6456,
+        "Pun_word_meaning": "behind",
+        "similarity": 0.1666666667,
+        "index": 197
+    },
+    {
+        "Pun_word": "कीट",
+        "Alternate_word": "kit",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 4465,
+        "Pun_word_meaning": "insect",
+        "similarity": 0.4210526316,
+        "index": 198
+    },
+    {
+        "Pun_word": "नाज",
+        "Alternate_word": "nudge",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 4380,
+        "Pun_word_meaning": "pride",
+        "similarity": 0.2857142857,
+        "index": 199
+    },
+    {
+        "Pun_word": "धूप",
+        "Alternate_word": "dupe",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 4114,
+        "Pun_word_meaning": "Sunlight",
+        "similarity": 0.2352941176,
+        "index": 200
+    },
+    {
+        "Pun_word": "पीस",
+        "Alternate_word": "peas",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 3420,
+        "Pun_word_meaning": "Grind",
+        "similarity": 0.2666666667,
+        "index": 201
+    },
+    {
+        "Pun_word": "ढोल",
+        "Alternate_word": "doll",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 3120,
+        "Pun_word_meaning": "the drum",
+        "similarity": 0.0,
+        "index": 202
+    },
+    {
+        "Pun_word": "सीना",
+        "Alternate_word": "cena",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 2989,
+        "Pun_word_meaning": "chest",
+        "similarity": 0.0,
+        "index": 203
+    },
+    {
+        "Pun_word": "क्रम",
+        "Alternate_word": "crumb",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 2874,
+        "Pun_word_meaning": "Order",
+        "similarity": 0.2857142857,
+        "index": 204
+    },
+    {
+        "Pun_word": "मोड़",
+        "Alternate_word": "mowed",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 2408,
+        "Pun_word_meaning": "turn",
+        "similarity": 0.1538461538,
+        "index": 205
+    },
+    {
+        "Pun_word": "बस्ती",
+        "Alternate_word": "busty",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 2376,
+        "Pun_word_meaning": "colony",
+        "similarity": 0.2222222222,
+        "index": 206
+    },
+    {
+        "Pun_word": "गाली",
+        "Alternate_word": "gully",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 2178,
+        "Pun_word_meaning": "abuse",
+        "similarity": 0.125,
+        "index": 207
+    },
+    {
+        "Pun_word": "धुन",
+        "Alternate_word": "dune",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 2070,
+        "Pun_word_meaning": "tune",
+        "similarity": 0.1538461538,
+        "index": 208
+    },
+    {
+        "Pun_word": "ख़ौफ़",
+        "Alternate_word": "cough",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1866,
+        "Pun_word_meaning": "fear",
+        "similarity": 0.2666666667,
+        "index": 209
+    },
+    {
+        "Pun_word": "मौत",
+        "Alternate_word": "moth",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 113906,
+        "Pun_word_meaning": "Death",
+        "similarity": 0.1052631579,
+        "index": 210
+    },
+    {
+        "Pun_word": "हाथ",
+        "Alternate_word": "hut",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 108072,
+        "Pun_word_meaning": "Hand",
+        "similarity": 0.25,
+        "index": 211
+    },
+    {
+        "Pun_word": "जोर",
+        "Alternate_word": "jar",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 106198,
+        "Pun_word_meaning": "emphasis",
+        "similarity": 0.1176470588,
+        "index": 212
+    },
+    {
+        "Pun_word": "तय",
+        "Alternate_word": "tai",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "X",
+        "score": 104780,
+        "Pun_word_meaning": "fixed",
+        "similarity": 0.1538461538,
+        "index": 213
+    },
+    {
+        "Pun_word": "लाल",
+        "Alternate_word": "lull",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "X",
+        "score": 104538,
+        "Pun_word_meaning": "Red",
+        "similarity": 0.2857142857,
+        "index": 214
+    },
+    {
+        "Pun_word": "स्थान",
+        "Alternate_word": "stun",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 101835,
+        "Pun_word_meaning": "place",
+        "similarity": 0.1428571429,
+        "index": 215
+    },
+    {
+        "Pun_word": "मिट",
+        "Alternate_word": "meet",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 100708,
+        "Pun_word_meaning": "erased",
+        "similarity": 0.1666666667,
+        "index": 216
+    },
+    {
+        "Pun_word": "रो",
+        "Alternate_word": "raw",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADJ",
+        "score": 98136,
+        "Pun_word_meaning": "Cry",
+        "similarity": 0.3076923077,
+        "index": 217
+    },
+    {
+        "Pun_word": "तिल",
+        "Alternate_word": "till",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADV",
+        "score": 97240,
+        "Pun_word_meaning": "mole",
+        "similarity": 0.2352941176,
+        "index": 218
+    },
+    {
+        "Pun_word": "लेख",
+        "Alternate_word": "leg",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 93572,
+        "Pun_word_meaning": "Article",
+        "similarity": 0.2352941176,
+        "index": 219
+    },
+    {
+        "Pun_word": "होती",
+        "Alternate_word": "hottie",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "NOUN",
+        "score": 93276,
+        "Pun_word_meaning": "was",
+        "similarity": 0.0,
+        "index": 220
+    },
+    {
+        "Pun_word": "अलाव",
+        "Alternate_word": "allow",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "VERB",
+        "score": 93235,
+        "Pun_word_meaning": "bonfire",
+        "similarity": 0.2,
+        "index": 221
+    },
+    {
+        "Pun_word": "होली",
+        "Alternate_word": "holly",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 92910,
+        "Pun_word_meaning": "Holi",
+        "similarity": 0.0,
+        "index": 222
+    },
+    {
+        "Pun_word": "ठीक",
+        "Alternate_word": "teak",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "X",
+        "score": 89056,
+        "Pun_word_meaning": "Correct",
+        "similarity": 0.0,
+        "index": 223
+    },
+    {
+        "Pun_word": "गौड़",
+        "Alternate_word": "god",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "NOUN",
+        "score": 88600,
+        "Pun_word_meaning": "Gaur",
+        "similarity": 0.0740740741,
+        "index": 224
+    },
+    {
+        "Pun_word": "भीग",
+        "Alternate_word": "big",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADJ",
+        "score": 87864,
+        "Pun_word_meaning": "wet",
+        "similarity": 0.2,
+        "index": 225
+    },
+    {
+        "Pun_word": "पास",
+        "Alternate_word": "pus",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 87414,
+        "Pun_word_meaning": "Near",
+        "similarity": 0.1538461538,
+        "index": 226
+    },
+    {
+        "Pun_word": "रात",
+        "Alternate_word": "rut",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "PROPN",
+        "score": 87008,
+        "Pun_word_meaning": "Night",
+        "similarity": 0.2666666667,
+        "index": 227
+    },
+    {
+        "Pun_word": "लय",
+        "Alternate_word": "lie",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 84832,
+        "Pun_word_meaning": "rhythm",
+        "similarity": 0.3076923077,
+        "index": 228
+    },
+    {
+        "Pun_word": "ले",
+        "Alternate_word": "leh",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "X",
+        "score": 83925,
+        "Pun_word_meaning": "Take",
+        "similarity": 0.0,
+        "index": 229
+    },
+    {
+        "Pun_word": "स्थिर",
+        "Alternate_word": "steer",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "NOUN",
+        "score": 83720,
+        "Pun_word_meaning": "steady",
+        "similarity": 0.1666666667,
+        "index": 230
+    },
+    {
+        "Pun_word": "धो",
+        "Alternate_word": "though",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADV",
+        "score": 83415,
+        "Pun_word_meaning": "wash",
+        "similarity": 0.1538461538,
+        "index": 231
+    },
+    {
+        "Pun_word": "गुड़",
+        "Alternate_word": "good",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADJ",
+        "score": 83048,
+        "Pun_word_meaning": "Jaggery",
+        "similarity": 0.2352941176,
+        "index": 232
+    },
+    {
+        "Pun_word": "बड़ी",
+        "Alternate_word": "buddy",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "NOUN",
+        "score": 82156,
+        "Pun_word_meaning": "Big",
+        "similarity": 0.2,
+        "index": 233
+    },
+    {
+        "Pun_word": "भूल",
+        "Alternate_word": "bull",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 81433,
+        "Pun_word_meaning": "Mistake",
+        "similarity": 0.08,
+        "index": 234
+    },
+    {
+        "Pun_word": "टूट",
+        "Alternate_word": "tooth",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "NOUN",
+        "score": 81174,
+        "Pun_word_meaning": "break",
+        "similarity": 0.125,
+        "index": 235
+    },
+    {
+        "Pun_word": "डाल",
+        "Alternate_word": "dull",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 81016,
+        "Pun_word_meaning": "Branch",
+        "similarity": 0.1538461538,
+        "index": 236
+    },
+    {
+        "Pun_word": "लिख",
+        "Alternate_word": "leak",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 77400,
+        "Pun_word_meaning": "write",
+        "similarity": 0.1538461538,
+        "index": 237
+    },
+    {
+        "Pun_word": "मिसाल",
+        "Alternate_word": "missile",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "NOUN",
+        "score": 74235,
+        "Pun_word_meaning": "precedent",
+        "similarity": 0.1176470588,
+        "index": 238
+    },
+    {
+        "Pun_word": "साधन",
+        "Alternate_word": "sudden",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADV",
+        "score": 72177,
+        "Pun_word_meaning": "Resource",
+        "similarity": 0.2222222222,
+        "index": 239
+    },
+    {
+        "Pun_word": "खौफ",
+        "Alternate_word": "cope",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 72030,
+        "Pun_word_meaning": "fear",
+        "similarity": 0.1333333333,
+        "index": 240
+    },
+    {
+        "Pun_word": "शत",
+        "Alternate_word": "shut",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "VERB",
+        "score": 71484,
+        "Pun_word_meaning": "hundred",
+        "similarity": 0.1818181818,
+        "index": 241
+    },
+    {
+        "Pun_word": "रूप",
+        "Alternate_word": "rube",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 70506,
+        "Pun_word_meaning": "Form",
+        "similarity": 0.1428571429,
+        "index": 242
+    },
+    {
+        "Pun_word": "ढेर",
+        "Alternate_word": "dare",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 68352,
+        "Pun_word_meaning": "heap",
+        "similarity": 0.3076923077,
+        "index": 243
+    },
+    {
+        "Pun_word": "निकल",
+        "Alternate_word": "nickel",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "NOUN",
+        "score": 64620,
+        "Pun_word_meaning": "Out",
+        "similarity": 0.25,
+        "index": 244
+    },
+    {
+        "Pun_word": "लोगो",
+        "Alternate_word": "logo",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 63798,
+        "Pun_word_meaning": "Peoples",
+        "similarity": 0.3076923077,
+        "index": 245
+    },
+    {
+        "Pun_word": "पेय",
+        "Alternate_word": "bay",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 63600,
+        "Pun_word_meaning": "drink",
+        "similarity": 0.1666666667,
+        "index": 246
+    },
+    {
+        "Pun_word": "कब",
+        "Alternate_word": "cub",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "NOUN",
+        "score": 60928,
+        "Pun_word_meaning": "When?",
+        "similarity": 0.0,
+        "index": 247
+    },
+    {
+        "Pun_word": "फसल",
+        "Alternate_word": "puzzle",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 60088,
+        "Pun_word_meaning": "Crop",
+        "similarity": 0.2,
+        "index": 248
+    },
+    {
+        "Pun_word": "ओर",
+        "Alternate_word": "oar",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 58986,
+        "Pun_word_meaning": "Side",
+        "similarity": 0.4285714286,
+        "index": 249
+    },
+    {
+        "Pun_word": "उस",
+        "Alternate_word": "ooze",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "X",
+        "score": 57995,
+        "Pun_word_meaning": "That",
+        "similarity": 0.0,
+        "index": 250
+    },
+    {
+        "Pun_word": "कीप",
+        "Alternate_word": "keep",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "VERB",
+        "score": 57216,
+        "Pun_word_meaning": "funnel",
+        "similarity": 0.2857142857,
+        "index": 251
+    },
+    {
+        "Pun_word": "डन",
+        "Alternate_word": "done",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "VERB",
+        "score": 56550,
+        "Pun_word_meaning": "Dawn",
+        "similarity": 0.1538461538,
+        "index": 252
+    },
+    {
+        "Pun_word": "माहौल",
+        "Alternate_word": "mahal",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 56496,
+        "Pun_word_meaning": "environment",
+        "similarity": 0.0,
+        "index": 253
+    },
+    {
+        "Pun_word": "भेद",
+        "Alternate_word": "bed",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 53696,
+        "Pun_word_meaning": "distinction",
+        "similarity": 0.1111111111,
+        "index": 254
+    },
+    {
+        "Pun_word": "कोस",
+        "Alternate_word": "cause",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 53350,
+        "Pun_word_meaning": "curse",
+        "similarity": 0.2666666667,
+        "index": 255
+    },
+    {
+        "Pun_word": "हाल",
+        "Alternate_word": "hul",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "X",
+        "score": 53128,
+        "Pun_word_meaning": "Condition",
+        "similarity": 0.0,
+        "index": 256
+    },
+    {
+        "Pun_word": "मौत",
+        "Alternate_word": "mote",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 52572,
+        "Pun_word_meaning": "Death",
+        "similarity": 0.2857142857,
+        "index": 257
+    },
+    {
+        "Pun_word": "तोड़",
+        "Alternate_word": "towed",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 52528,
+        "Pun_word_meaning": "the break",
+        "similarity": 0.0,
+        "index": 258
+    },
+    {
+        "Pun_word": "लाश",
+        "Alternate_word": "lush",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 52528,
+        "Pun_word_meaning": "dead body",
+        "similarity": 0.0,
+        "index": 259
+    },
+    {
+        "Pun_word": "नेक",
+        "Alternate_word": "neck",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "NOUN",
+        "score": 49020,
+        "Pun_word_meaning": "Noble",
+        "similarity": 0.2666666667,
+        "index": 260
+    },
+    {
+        "Pun_word": "रोक",
+        "Alternate_word": "roque",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 48203,
+        "Pun_word_meaning": "Stoppage",
+        "similarity": 0.0,
+        "index": 261
+    },
+    {
+        "Pun_word": "कठोर",
+        "Alternate_word": "qatar",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "PROPN",
+        "score": 47628,
+        "Pun_word_meaning": "tough",
+        "similarity": 0.3333333333,
+        "index": 262
+    },
+    {
+        "Pun_word": "पिता",
+        "Alternate_word": "peta",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 45860,
+        "Pun_word_meaning": "Father",
+        "similarity": 0.0,
+        "index": 263
+    },
+    {
+        "Pun_word": "टोक",
+        "Alternate_word": "talk",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 45781,
+        "Pun_word_meaning": "tip",
+        "similarity": 0.1333333333,
+        "index": 264
+    },
+    {
+        "Pun_word": "सान",
+        "Alternate_word": "son",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 44234,
+        "Pun_word_meaning": "hone",
+        "similarity": 0.4210526316,
+        "index": 265
+    },
+    {
+        "Pun_word": "पी",
+        "Alternate_word": "bee",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 43896,
+        "Pun_word_meaning": "P",
+        "similarity": 0.2222222222,
+        "index": 266
+    },
+    {
+        "Pun_word": "निकाल",
+        "Alternate_word": "nickel",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 43128,
+        "Pun_word_meaning": "take out",
+        "similarity": 0.0,
+        "index": 267
+    },
+    {
+        "Pun_word": "पूत",
+        "Alternate_word": "put",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 41965,
+        "Pun_word_meaning": "Child",
+        "similarity": 0.125,
+        "index": 268
+    },
+    {
+        "Pun_word": "झूठ",
+        "Alternate_word": "jute",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 41550,
+        "Pun_word_meaning": "lie",
+        "similarity": 0.0,
+        "index": 269
+    },
+    {
+        "Pun_word": "सूद",
+        "Alternate_word": "sued",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "X",
+        "score": 40800,
+        "Pun_word_meaning": "usury",
+        "similarity": 0.0869565217,
+        "index": 270
+    },
+    {
+        "Pun_word": "वाया",
+        "Alternate_word": "via",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 40590,
+        "Pun_word_meaning": "wasted",
+        "similarity": 0.0,
+        "index": 271
+    },
+    {
+        "Pun_word": "रुकी",
+        "Alternate_word": "rookie",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "NOUN",
+        "score": 40560,
+        "Pun_word_meaning": "stopped",
+        "similarity": 0.1818181818,
+        "index": 272
+    },
+    {
+        "Pun_word": "सौर",
+        "Alternate_word": "sore",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 40296,
+        "Pun_word_meaning": "solar",
+        "similarity": 0.1538461538,
+        "index": 273
+    },
+    {
+        "Pun_word": "समान",
+        "Alternate_word": "summon",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 39525,
+        "Pun_word_meaning": "Similar",
+        "similarity": 0.1538461538,
+        "index": 274
+    },
+    {
+        "Pun_word": "बम",
+        "Alternate_word": "bum",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 39277,
+        "Pun_word_meaning": "Bomb",
+        "similarity": 0.4444444444,
+        "index": 275
+    },
+    {
+        "Pun_word": "खास",
+        "Alternate_word": "cuz",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "X",
+        "score": 39192,
+        "Pun_word_meaning": "Special",
+        "similarity": 0.0,
+        "index": 276
+    },
+    {
+        "Pun_word": "बस",
+        "Alternate_word": "bus",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 39060,
+        "Pun_word_meaning": "enough",
+        "similarity": 0.0,
+        "index": 277
+    },
+    {
+        "Pun_word": "खिल",
+        "Alternate_word": "kill",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 31837,
+        "Pun_word_meaning": "bloom",
+        "similarity": 0.1333333333,
+        "index": 278
+    },
+    {
+        "Pun_word": "छिप",
+        "Alternate_word": "cheap",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADJ",
+        "score": 29857,
+        "Pun_word_meaning": "hidden",
+        "similarity": 0.5,
+        "index": 279
+    },
+    {
+        "Pun_word": "लाभ",
+        "Alternate_word": "lab",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 29392,
+        "Pun_word_meaning": "benefit",
+        "similarity": 0.2,
+        "index": 280
+    },
+    {
+        "Pun_word": "निधि",
+        "Alternate_word": "needy",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "ADJ",
+        "score": 28644,
+        "Pun_word_meaning": "Fund",
+        "similarity": 0.2857142857,
+        "index": 281
+    },
+    {
+        "Pun_word": "हल",
+        "Alternate_word": "hull",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 28296,
+        "Pun_word_meaning": "Plough",
+        "similarity": 0.625,
+        "index": 282
+    },
+    {
+        "Pun_word": "डेढ",
+        "Alternate_word": "dead",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADJ",
+        "score": 27328,
+        "Pun_word_meaning": "one and a half",
+        "similarity": 0.0,
+        "index": 283
+    },
+    {
+        "Pun_word": "दौरा",
+        "Alternate_word": "dora",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "PROPN",
+        "score": 26784,
+        "Pun_word_meaning": "seizure",
+        "similarity": 0.0,
+        "index": 284
+    },
+    {
+        "Pun_word": "बोली",
+        "Alternate_word": "bali",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 26505,
+        "Pun_word_meaning": "Languages",
+        "similarity": 0.2,
+        "index": 285
+    },
+    {
+        "Pun_word": "बैठ",
+        "Alternate_word": "bait",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "PROPN",
+        "score": 26460,
+        "Pun_word_meaning": "sit down",
+        "similarity": 0.0,
+        "index": 286
+    },
+    {
+        "Pun_word": "पूर",
+        "Alternate_word": "poor",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADJ",
+        "score": 26064,
+        "Pun_word_meaning": "flood",
+        "similarity": 0.1666666667,
+        "index": 287
+    },
+    {
+        "Pun_word": "सीधी",
+        "Alternate_word": "cd",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "X",
+        "score": 23639,
+        "Pun_word_meaning": "Straight",
+        "similarity": 0.3333333333,
+        "index": 288
+    },
+    {
+        "Pun_word": "धोखा",
+        "Alternate_word": "dhaka",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "PROPN",
+        "score": 23220,
+        "Pun_word_meaning": "Danger",
+        "similarity": 0.1176470588,
+        "index": 289
+    },
+    {
+        "Pun_word": "भूत",
+        "Alternate_word": "boot",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 22230,
+        "Pun_word_meaning": "Evil spirit",
+        "similarity": 0.0,
+        "index": 290
+    },
+    {
+        "Pun_word": "तन",
+        "Alternate_word": "ton",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 22088,
+        "Pun_word_meaning": "Body",
+        "similarity": 0.1428571429,
+        "index": 291
+    },
+    {
+        "Pun_word": "सौदा",
+        "Alternate_word": "soda",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 21389,
+        "Pun_word_meaning": "deal",
+        "similarity": 0.2352941176,
+        "index": 292
+    },
+    {
+        "Pun_word": "मिट",
+        "Alternate_word": "meat",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 21284,
+        "Pun_word_meaning": "erased",
+        "similarity": 0.2,
+        "index": 293
+    },
+    {
+        "Pun_word": "रानी",
+        "Alternate_word": "runny",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "ADJ",
+        "score": 21152,
+        "Pun_word_meaning": "Queen",
+        "similarity": 0.1428571429,
+        "index": 294
+    },
+    {
+        "Pun_word": "गत",
+        "Alternate_word": "gut",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "ADJ",
+        "score": 20800,
+        "Pun_word_meaning": "past",
+        "similarity": 0.1538461538,
+        "index": 295
+    },
+    {
+        "Pun_word": "खोद",
+        "Alternate_word": "code",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 20412,
+        "Pun_word_meaning": "dig",
+        "similarity": 0.1428571429,
+        "index": 296
+    },
+    {
+        "Pun_word": "ठीकठाक",
+        "Alternate_word": "tiktok",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "X",
+        "score": 20178,
+        "Pun_word_meaning": "alright",
+        "similarity": 0.0,
+        "index": 297
+    },
+    {
+        "Pun_word": "जन",
+        "Alternate_word": "june",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 20094,
+        "Pun_word_meaning": "people",
+        "similarity": 0.0,
+        "index": 298
+    },
+    {
+        "Pun_word": "सौर",
+        "Alternate_word": "soar",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "VERB",
+        "score": 18980,
+        "Pun_word_meaning": "solar",
+        "similarity": 0.1538461538,
+        "index": 299
+    },
+    {
+        "Pun_word": "दाग",
+        "Alternate_word": "dug",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 18974,
+        "Pun_word_meaning": "Stain",
+        "similarity": 0.125,
+        "index": 300
+    },
+    {
+        "Pun_word": "पैठ",
+        "Alternate_word": "pat",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 17658,
+        "Pun_word_meaning": "penetration",
+        "similarity": 0.5,
+        "index": 301
+    },
+    {
+        "Pun_word": "प्रीती",
+        "Alternate_word": "pretty",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADJ",
+        "score": 17647,
+        "Pun_word_meaning": "love",
+        "similarity": 0.2,
+        "index": 302
+    },
+    {
+        "Pun_word": "दाल",
+        "Alternate_word": "dull",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 17252,
+        "Pun_word_meaning": "Lentils",
+        "similarity": 0.1538461538,
+        "index": 303
+    },
+    {
+        "Pun_word": "ईट",
+        "Alternate_word": "eat",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "VERB",
+        "score": 17252,
+        "Pun_word_meaning": "brick",
+        "similarity": 0.1818181818,
+        "index": 304
+    },
+    {
+        "Pun_word": "गान",
+        "Alternate_word": "gun",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 17154,
+        "Pun_word_meaning": "anthem",
+        "similarity": 0.1111111111,
+        "index": 305
+    },
+    {
+        "Pun_word": "छिप",
+        "Alternate_word": "chip",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 16571,
+        "Pun_word_meaning": "hidden",
+        "similarity": 0.2222222222,
+        "index": 306
+    },
+    {
+        "Pun_word": "थैली",
+        "Alternate_word": "tally",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADV",
+        "score": 16218,
+        "Pun_word_meaning": "bag",
+        "similarity": 0.1052631579,
+        "index": 307
+    },
+    {
+        "Pun_word": "थम",
+        "Alternate_word": "thumb",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 15648,
+        "Pun_word_meaning": "stopped",
+        "similarity": 0.1666666667,
+        "index": 308
+    },
+    {
+        "Pun_word": "धूम",
+        "Alternate_word": "doom",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 15397,
+        "Pun_word_meaning": "sputter",
+        "similarity": 0.6666666667,
+        "index": 309
+    },
+    {
+        "Pun_word": "बास",
+        "Alternate_word": "bus",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 15240,
+        "Pun_word_meaning": "stay",
+        "similarity": 0.1333333333,
+        "index": 310
+    },
+    {
+        "Pun_word": "गौण",
+        "Alternate_word": "gone",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "VERB",
+        "score": 14184,
+        "Pun_word_meaning": "secondary",
+        "similarity": 0.2222222222,
+        "index": 311
+    },
+    {
+        "Pun_word": "मोम",
+        "Alternate_word": "mom",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 13842,
+        "Pun_word_meaning": "wax",
+        "similarity": 0.2105263158,
+        "index": 312
+    },
+    {
+        "Pun_word": "रेत",
+        "Alternate_word": "rate",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 13805,
+        "Pun_word_meaning": "sand",
+        "similarity": 0.0,
+        "index": 313
+    },
+    {
+        "Pun_word": "बिछ",
+        "Alternate_word": "beach",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 13290,
+        "Pun_word_meaning": "lay down",
+        "similarity": 0.0,
+        "index": 314
+    },
+    {
+        "Pun_word": "रोज़",
+        "Alternate_word": "rose",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "NOUN",
+        "score": 13234,
+        "Pun_word_meaning": "everyday",
+        "similarity": 0.1428571429,
+        "index": 315
+    },
+    {
+        "Pun_word": "बाज़",
+        "Alternate_word": "bus",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 13208,
+        "Pun_word_meaning": "falcon",
+        "similarity": 0.3636363636,
+        "index": 316
+    },
+    {
+        "Pun_word": "धन",
+        "Alternate_word": "dun",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 13057,
+        "Pun_word_meaning": "Wealth",
+        "similarity": 0.0833333333,
+        "index": 317
+    },
+    {
+        "Pun_word": "मुड़",
+        "Alternate_word": "mood",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 12606,
+        "Pun_word_meaning": "twisted",
+        "similarity": 0.2,
+        "index": 318
+    },
+    {
+        "Pun_word": "जब",
+        "Alternate_word": "jab",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 12358,
+        "Pun_word_meaning": "when",
+        "similarity": 0.7142857143,
+        "index": 319
+    },
+    {
+        "Pun_word": "सफल",
+        "Alternate_word": "supple",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "ADJ",
+        "score": 11718,
+        "Pun_word_meaning": "Success",
+        "similarity": 0.2,
+        "index": 320
+    },
+    {
+        "Pun_word": "भीम",
+        "Alternate_word": "beam",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "NOUN",
+        "score": 10064,
+        "Pun_word_meaning": "Bheem",
+        "similarity": 0.0,
+        "index": 321
+    },
+    {
+        "Pun_word": "सान",
+        "Alternate_word": "sun",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 9809,
+        "Pun_word_meaning": "hone",
+        "similarity": 0.4705882353,
+        "index": 322
+    },
+    {
+        "Pun_word": "शान",
+        "Alternate_word": "shun",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "VERB",
+        "score": 9504,
+        "Pun_word_meaning": "pride",
+        "similarity": 0.2,
+        "index": 323
+    },
+    {
+        "Pun_word": "बीस",
+        "Alternate_word": "bees",
+        "Pun_word_pos": "NUM",
+        "Alternate_word_pos": "NOUN",
+        "score": 9494,
+        "Pun_word_meaning": "Twenty",
+        "similarity": 0.1,
+        "index": 324
+    },
+    {
+        "Pun_word": "लौट",
+        "Alternate_word": "loath",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "X",
+        "score": 9400,
+        "Pun_word_meaning": "return",
+        "similarity": 0.1818181818,
+        "index": 325
+    },
+    {
+        "Pun_word": "चूस",
+        "Alternate_word": "choose",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "X",
+        "score": 9324,
+        "Pun_word_meaning": "suck",
+        "similarity": 0.1818181818,
+        "index": 326
+    },
+    {
+        "Pun_word": "लिख",
+        "Alternate_word": "lick",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 9288,
+        "Pun_word_meaning": "write",
+        "similarity": 0.2,
+        "index": 327
+    },
+    {
+        "Pun_word": "हद",
+        "Alternate_word": "hud",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 9268,
+        "Pun_word_meaning": "extent",
+        "similarity": 0.2105263158,
+        "index": 328
+    },
+    {
+        "Pun_word": "लिखी",
+        "Alternate_word": "leaky",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 8775,
+        "Pun_word_meaning": "written",
+        "similarity": 0.3333333333,
+        "index": 329
+    },
+    {
+        "Pun_word": "रुख",
+        "Alternate_word": "rook",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 8768,
+        "Pun_word_meaning": "Stance",
+        "similarity": 0.1111111111,
+        "index": 330
+    },
+    {
+        "Pun_word": "नाथ",
+        "Alternate_word": "nut",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "X",
+        "score": 8736,
+        "Pun_word_meaning": "God",
+        "similarity": 0.1052631579,
+        "index": 331
+    },
+    {
+        "Pun_word": "ढक",
+        "Alternate_word": "duck",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 8586,
+        "Pun_word_meaning": "cover",
+        "similarity": 0.380952381,
+        "index": 332
+    },
+    {
+        "Pun_word": "नीत",
+        "Alternate_word": "neat",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "X",
+        "score": 8360,
+        "Pun_word_meaning": "policy",
+        "similarity": 0.1666666667,
+        "index": 333
+    },
+    {
+        "Pun_word": "दान",
+        "Alternate_word": "dun",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 8305,
+        "Pun_word_meaning": "Donation",
+        "similarity": 0.08,
+        "index": 334
+    },
+    {
+        "Pun_word": "चिट",
+        "Alternate_word": "cheat",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 7760,
+        "Pun_word_meaning": "chit",
+        "similarity": 0.5,
+        "index": 335
+    },
+    {
+        "Pun_word": "तान",
+        "Alternate_word": "ton",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 7530,
+        "Pun_word_meaning": "tone",
+        "similarity": 0.2857142857,
+        "index": 336
+    },
+    {
+        "Pun_word": "रोकी",
+        "Alternate_word": "rocky",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "X",
+        "score": 7497,
+        "Pun_word_meaning": "stopped",
+        "similarity": 0.5,
+        "index": 337
+    },
+    {
+        "Pun_word": "खोट",
+        "Alternate_word": "caught",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "VERB",
+        "score": 7380,
+        "Pun_word_meaning": "fault",
+        "similarity": 0.1666666667,
+        "index": 338
+    },
+    {
+        "Pun_word": "तीस",
+        "Alternate_word": "tease",
+        "Pun_word_pos": "NUM",
+        "Alternate_word_pos": "NOUN",
+        "score": 7200,
+        "Pun_word_meaning": "Thirty",
+        "similarity": 0.1428571429,
+        "index": 339
+    },
+    {
+        "Pun_word": "फोर",
+        "Alternate_word": "pour",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 7137,
+        "Pun_word_meaning": "Four",
+        "similarity": 0.1666666667,
+        "index": 340
+    },
+    {
+        "Pun_word": "बुध",
+        "Alternate_word": "booed",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 7020,
+        "Pun_word_meaning": "Mercury",
+        "similarity": 0.1428571429,
+        "index": 341
+    },
+    {
+        "Pun_word": "सम",
+        "Alternate_word": "sum",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 6510,
+        "Pun_word_meaning": "Even",
+        "similarity": 0.3076923077,
+        "index": 342
+    },
+    {
+        "Pun_word": "खरी",
+        "Alternate_word": "curry",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "NOUN",
+        "score": 6497,
+        "Pun_word_meaning": "true",
+        "similarity": 0.1333333333,
+        "index": 343
+    },
+    {
+        "Pun_word": "पाप",
+        "Alternate_word": "pup",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 6174,
+        "Pun_word_meaning": "Sin",
+        "similarity": 0.1176470588,
+        "index": 344
+    },
+    {
+        "Pun_word": "डस",
+        "Alternate_word": "thus",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 6128,
+        "Pun_word_meaning": "bite",
+        "similarity": 0.1904761905,
+        "index": 345
+    },
+    {
+        "Pun_word": "रोज़",
+        "Alternate_word": "rose",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "X",
+        "score": 5676,
+        "Pun_word_meaning": "everyday",
+        "similarity": 0.2,
+        "index": 346
+    },
+    {
+        "Pun_word": "रोज़",
+        "Alternate_word": "rows",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "X",
+        "score": 5544,
+        "Pun_word_meaning": "everyday",
+        "similarity": 0.2,
+        "index": 347
+    },
+    {
+        "Pun_word": "जीभ",
+        "Alternate_word": "jeep",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 5428,
+        "Pun_word_meaning": "Tongue",
+        "similarity": 0.2105263158,
+        "index": 348
+    },
+    {
+        "Pun_word": "मीन",
+        "Alternate_word": "min",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "X",
+        "score": 4862,
+        "Pun_word_meaning": "Pisces",
+        "similarity": 0.1666666667,
+        "index": 349
+    },
+    {
+        "Pun_word": "नोक",
+        "Alternate_word": "knock",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 4853,
+        "Pun_word_meaning": "tip",
+        "similarity": 0.1333333333,
+        "index": 350
+    },
+    {
+        "Pun_word": "पुल",
+        "Alternate_word": "pule",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 4795,
+        "Pun_word_meaning": "Bridge",
+        "similarity": 0.1666666667,
+        "index": 351
+    },
+    {
+        "Pun_word": "सुध",
+        "Alternate_word": "sued",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 4692,
+        "Pun_word_meaning": "improvement",
+        "similarity": 0.1,
+        "index": 352
+    },
+    {
+        "Pun_word": "माल",
+        "Alternate_word": "mull",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 4672,
+        "Pun_word_meaning": "Goods",
+        "similarity": 0.1428571429,
+        "index": 353
+    },
+    {
+        "Pun_word": "पिसी",
+        "Alternate_word": "busy",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 4635,
+        "Pun_word_meaning": "ground",
+        "similarity": 0.25,
+        "index": 354
+    },
+    {
+        "Pun_word": "सानी",
+        "Alternate_word": "sunny",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "PROPN",
+        "score": 4560,
+        "Pun_word_meaning": "small",
+        "similarity": 0.2222222222,
+        "index": 355
+    },
+    {
+        "Pun_word": "फोड़",
+        "Alternate_word": "pod",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 4514,
+        "Pun_word_meaning": "burst",
+        "similarity": 0.1111111111,
+        "index": 356
+    },
+    {
+        "Pun_word": "नम",
+        "Alternate_word": "numb",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 4396,
+        "Pun_word_meaning": "moist",
+        "similarity": 0.3333333333,
+        "index": 357
+    },
+    {
+        "Pun_word": "ओला",
+        "Alternate_word": "ola",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 4342,
+        "Pun_word_meaning": "wet",
+        "similarity": 0.25,
+        "index": 358
+    },
+    {
+        "Pun_word": "रोष",
+        "Alternate_word": "rows",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 4284,
+        "Pun_word_meaning": "Fury",
+        "similarity": 0.2666666667,
+        "index": 359
+    },
+    {
+        "Pun_word": "बिक",
+        "Alternate_word": "beak",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 4068,
+        "Pun_word_meaning": "sold",
+        "similarity": 0.1333333333,
+        "index": 360
+    },
+    {
+        "Pun_word": "दिखी",
+        "Alternate_word": "dickey",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "X",
+        "score": 3900,
+        "Pun_word_meaning": "seen",
+        "similarity": 0.1333333333,
+        "index": 361
+    },
+    {
+        "Pun_word": "नील",
+        "Alternate_word": "kneel",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "X",
+        "score": 3842,
+        "Pun_word_meaning": "Indigo",
+        "similarity": 0.2222222222,
+        "index": 362
+    },
+    {
+        "Pun_word": "थक",
+        "Alternate_word": "tuck",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "NOUN",
+        "score": 3818,
+        "Pun_word_meaning": "tired",
+        "similarity": 0.1428571429,
+        "index": 363
+    },
+    {
+        "Pun_word": "खोला",
+        "Alternate_word": "cola",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "X",
+        "score": 3744,
+        "Pun_word_meaning": "opened",
+        "similarity": 0.1666666667,
+        "index": 364
+    },
+    {
+        "Pun_word": "बीस",
+        "Alternate_word": "peas",
+        "Pun_word_pos": "NUM",
+        "Alternate_word_pos": "NOUN",
+        "score": 3636,
+        "Pun_word_meaning": "Twenty",
+        "similarity": 0.1176470588,
+        "index": 365
+    },
+    {
+        "Pun_word": "नीत",
+        "Alternate_word": "knit",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "X",
+        "score": 3515,
+        "Pun_word_meaning": "policy",
+        "similarity": 0.125,
+        "index": 366
+    },
+    {
+        "Pun_word": "बाज",
+        "Alternate_word": "budge",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "NOUN",
+        "score": 3404,
+        "Pun_word_meaning": "Hawk",
+        "similarity": 0.5217391304,
+        "index": 367
+    },
+    {
+        "Pun_word": "धाक",
+        "Alternate_word": "duck",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 3392,
+        "Pun_word_meaning": "fear",
+        "similarity": 0.0952380952,
+        "index": 368
+    },
+    {
+        "Pun_word": "रथ",
+        "Alternate_word": "rut",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "PROPN",
+        "score": 3328,
+        "Pun_word_meaning": "Chariot",
+        "similarity": 0.1,
+        "index": 369
+    },
+    {
+        "Pun_word": "राग",
+        "Alternate_word": "rug",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 3294,
+        "Pun_word_meaning": "anger",
+        "similarity": 0.1333333333,
+        "index": 370
+    },
+    {
+        "Pun_word": "चित",
+        "Alternate_word": "cheat",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 3200,
+        "Pun_word_meaning": "head",
+        "similarity": 0.2,
+        "index": 371
+    },
+    {
+        "Pun_word": "चील",
+        "Alternate_word": "chill",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 3080,
+        "Pun_word_meaning": "Eagle",
+        "similarity": 0.2105263158,
+        "index": 372
+    },
+    {
+        "Pun_word": "रूकी",
+        "Alternate_word": "rookie",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "NOUN",
+        "score": 3042,
+        "Pun_word_meaning": "stopped",
+        "similarity": 0.1818181818,
+        "index": 373
+    },
+    {
+        "Pun_word": "देन",
+        "Alternate_word": "den",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 3010,
+        "Pun_word_meaning": "give",
+        "similarity": 0.1176470588,
+        "index": 374
+    },
+    {
+        "Pun_word": "नीच",
+        "Alternate_word": "niche",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "NOUN",
+        "score": 2970,
+        "Pun_word_meaning": "Despicable",
+        "similarity": 0.1818181818,
+        "index": 375
+    },
+    {
+        "Pun_word": "रूठ",
+        "Alternate_word": "ruth",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 2898,
+        "Pun_word_meaning": "sulking",
+        "similarity": 0.1666666667,
+        "index": 376
+    },
+    {
+        "Pun_word": "मिट",
+        "Alternate_word": "myth",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 2754,
+        "Pun_word_meaning": "erased",
+        "similarity": 0.1538461538,
+        "index": 377
+    },
+    {
+        "Pun_word": "रुक",
+        "Alternate_word": "rook",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 2696,
+        "Pun_word_meaning": "stop",
+        "similarity": 0.1111111111,
+        "index": 378
+    },
+    {
+        "Pun_word": "मस्ती",
+        "Alternate_word": "musty",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADJ",
+        "score": 2544,
+        "Pun_word_meaning": "Fun",
+        "similarity": 0.1818181818,
+        "index": 379
+    },
+    {
+        "Pun_word": "मद",
+        "Alternate_word": "mud",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 2522,
+        "Pun_word_meaning": "Item",
+        "similarity": 0.5714285714,
+        "index": 380
+    },
+    {
+        "Pun_word": "ज़ोर",
+        "Alternate_word": "soar",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "VERB",
+        "score": 2470,
+        "Pun_word_meaning": "emphasis",
+        "similarity": 0.2222222222,
+        "index": 381
+    },
+    {
+        "Pun_word": "झोली",
+        "Alternate_word": "jolly",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADV",
+        "score": 2373,
+        "Pun_word_meaning": "bag",
+        "similarity": 0.125,
+        "index": 382
+    },
+    {
+        "Pun_word": "रूखी",
+        "Alternate_word": "rookie",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "NOUN",
+        "score": 2366,
+        "Pun_word_meaning": "dry",
+        "similarity": 0.6,
+        "index": 383
+    },
+    {
+        "Pun_word": "चख",
+        "Alternate_word": "chuck",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 2350,
+        "Pun_word_meaning": "Taste",
+        "similarity": 0.125,
+        "index": 384
+    },
+    {
+        "Pun_word": "खुली",
+        "Alternate_word": "coolly",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "ADV",
+        "score": 2254,
+        "Pun_word_meaning": "open",
+        "similarity": 0.2,
+        "index": 385
+    },
+    {
+        "Pun_word": "जौ",
+        "Alternate_word": "jaw",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 2209,
+        "Pun_word_meaning": "barley",
+        "similarity": 0.2222222222,
+        "index": 386
+    },
+    {
+        "Pun_word": "बड़ी",
+        "Alternate_word": "burry",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 2116,
+        "Pun_word_meaning": "Big",
+        "similarity": 0.2,
+        "index": 387
+    },
+    {
+        "Pun_word": "सिल",
+        "Alternate_word": "seal",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 2064,
+        "Pun_word_meaning": "stitch",
+        "similarity": 0.5263157895,
+        "index": 388
+    },
+    {
+        "Pun_word": "बीवी",
+        "Alternate_word": "beefy",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 2009,
+        "Pun_word_meaning": "wife",
+        "similarity": 0.1818181818,
+        "index": 389
+    },
+    {
+        "Pun_word": "पेटी",
+        "Alternate_word": "petty",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADJ",
+        "score": 2001,
+        "Pun_word_meaning": "box",
+        "similarity": 0.1,
+        "index": 390
+    },
+    {
+        "Pun_word": "बास",
+        "Alternate_word": "buzz",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 1965,
+        "Pun_word_meaning": "stay",
+        "similarity": 0.6153846154,
+        "index": 391
+    },
+    {
+        "Pun_word": "गोद",
+        "Alternate_word": "goad",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "PROPN",
+        "score": 1930,
+        "Pun_word_meaning": "Lap",
+        "similarity": 0.2222222222,
+        "index": 392
+    },
+    {
+        "Pun_word": "जोड़",
+        "Alternate_word": "jawed",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 1925,
+        "Pun_word_meaning": "Joint",
+        "similarity": 0.1428571429,
+        "index": 393
+    },
+    {
+        "Pun_word": "दब",
+        "Alternate_word": "dub",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 1869,
+        "Pun_word_meaning": "Pressed",
+        "similarity": 0.1428571429,
+        "index": 394
+    },
+    {
+        "Pun_word": "साब",
+        "Alternate_word": "sub",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 1860,
+        "Pun_word_meaning": "Sir",
+        "similarity": 0.2352941176,
+        "index": 395
+    },
+    {
+        "Pun_word": "थोक",
+        "Alternate_word": "toke",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 1848,
+        "Pun_word_meaning": "bulk",
+        "similarity": 0.1176470588,
+        "index": 396
+    },
+    {
+        "Pun_word": "सीधी",
+        "Alternate_word": "seedy",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "X",
+        "score": 1842,
+        "Pun_word_meaning": "Straight",
+        "similarity": 0.2222222222,
+        "index": 397
+    },
+    {
+        "Pun_word": "निगल",
+        "Alternate_word": "nickel",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1836,
+        "Pun_word_meaning": "swallow",
+        "similarity": 0.2666666667,
+        "index": 398
+    },
+    {
+        "Pun_word": "सूझ",
+        "Alternate_word": "sued",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 1836,
+        "Pun_word_meaning": "understand",
+        "similarity": 0.1538461538,
+        "index": 399
+    },
+    {
+        "Pun_word": "भेल",
+        "Alternate_word": "bell",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 1825,
+        "Pun_word_meaning": "coward",
+        "similarity": 0.4705882353,
+        "index": 400
+    },
+    {
+        "Pun_word": "फ़ूल",
+        "Alternate_word": "fool",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADJ",
+        "score": 1805,
+        "Pun_word_meaning": "flower",
+        "similarity": 0.1538461538,
+        "index": 401
+    },
+    {
+        "Pun_word": "भीड़",
+        "Alternate_word": "bead",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1800,
+        "Pun_word_meaning": "Crowd",
+        "similarity": 0.1333333333,
+        "index": 402
+    },
+    {
+        "Pun_word": "ओस",
+        "Alternate_word": "owes",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 1775,
+        "Pun_word_meaning": "Dew",
+        "similarity": 0.1666666667,
+        "index": 403
+    },
+    {
+        "Pun_word": "चीज़",
+        "Alternate_word": "cheese",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1758,
+        "Pun_word_meaning": "thing",
+        "similarity": 0.1666666667,
+        "index": 404
+    },
+    {
+        "Pun_word": "बनी",
+        "Alternate_word": "bunny",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1500,
+        "Pun_word_meaning": "make",
+        "similarity": 0.1,
+        "index": 405
+    },
+    {
+        "Pun_word": "बनाना",
+        "Alternate_word": "banana",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1500,
+        "Pun_word_meaning": "make",
+        "similarity": 0.2,
+        "index": 406
+    },
+    {
+        "Pun_word": "फेर",
+        "Alternate_word": "pear",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1494,
+        "Pun_word_meaning": "turn",
+        "similarity": 0.1333333333,
+        "index": 407
+    },
+    {
+        "Pun_word": "तिल",
+        "Alternate_word": "dill",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1430,
+        "Pun_word_meaning": "mole",
+        "similarity": 0.1111111111,
+        "index": 408
+    },
+    {
+        "Pun_word": "बाण",
+        "Alternate_word": "bun",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1288,
+        "Pun_word_meaning": "arrow",
+        "similarity": 0.125,
+        "index": 409
+    },
+    {
+        "Pun_word": "बात",
+        "Alternate_word": "butt",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1288,
+        "Pun_word_meaning": "talk",
+        "similarity": 0.3529411765,
+        "index": 410
+    },
+    {
+        "Pun_word": "ठोक",
+        "Alternate_word": "toke",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1210,
+        "Pun_word_meaning": "knock",
+        "similarity": 0.125,
+        "index": 411
+    },
+    {
+        "Pun_word": "बाग़",
+        "Alternate_word": "bug",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1183,
+        "Pun_word_meaning": "garden",
+        "similarity": 0.3,
+        "index": 412
+    },
+    {
+        "Pun_word": "बाड़ी",
+        "Alternate_word": "body",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1012,
+        "Pun_word_meaning": "fence",
+        "similarity": 0.4444444444,
+        "index": 413
+    },
+    {
+        "Pun_word": "तिल",
+        "Alternate_word": "teal",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 910,
+        "Pun_word_meaning": "mole",
+        "similarity": 0.2352941176,
+        "index": 414
+    },
+    {
+        "Pun_word": "बाड़ी",
+        "Alternate_word": "buddy",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 736,
+        "Pun_word_meaning": "fence",
+        "similarity": 0.4444444444,
+        "index": 415
+    },
+    {
+        "Pun_word": "गाल",
+        "Alternate_word": "gull",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 660,
+        "Pun_word_meaning": "Cheek",
+        "similarity": 0.3076923077,
+        "index": 416
+    },
+    {
+        "Pun_word": "भात",
+        "Alternate_word": "butt",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 644,
+        "Pun_word_meaning": "rice",
+        "similarity": 0.25,
+        "index": 417
+    },
+    {
+        "Pun_word": "बुत",
+        "Alternate_word": "booth",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 615,
+        "Pun_word_meaning": "fetish",
+        "similarity": 0.1111111111,
+        "index": 418
+    },
+    {
+        "Pun_word": "क्रोध",
+        "Alternate_word": "crowed",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 588,
+        "Pun_word_meaning": "Anger",
+        "similarity": 0.1176470588,
+        "index": 419
+    },
+    {
+        "Pun_word": "पोती",
+        "Alternate_word": "potty",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 473,
+        "Pun_word_meaning": "granddaughter",
+        "similarity": 0.4210526316,
+        "index": 420
+    },
+    {
+        "Pun_word": "बौर",
+        "Alternate_word": "bore",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 468,
+        "Pun_word_meaning": "blossom",
+        "similarity": 0.4210526316,
+        "index": 421
+    },
+    {
+        "Pun_word": "कोख",
+        "Alternate_word": "coke",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 456,
+        "Pun_word_meaning": "womb",
+        "similarity": 0.2666666667,
+        "index": 422
+    },
+    {
+        "Pun_word": "दुम",
+        "Alternate_word": "doom",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 445,
+        "Pun_word_meaning": "rump",
+        "similarity": 0.1538461538,
+        "index": 423
+    },
+    {
+        "Pun_word": "सोन",
+        "Alternate_word": "sown",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 391,
+        "Pun_word_meaning": "gold",
+        "similarity": 0.125,
+        "index": 424
+    },
+    {
+        "Pun_word": "पीछ",
+        "Alternate_word": "peach",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 372,
+        "Pun_word_meaning": "behind",
+        "similarity": 0.2105263158,
+        "index": 425
+    },
+    {
+        "Pun_word": "मसल",
+        "Alternate_word": "muzzle",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 342,
+        "Pun_word_meaning": "muscle",
+        "similarity": 0.2666666667,
+        "index": 426
+    },
+    {
+        "Pun_word": "मोड़",
+        "Alternate_word": "mowed",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 304,
+        "Pun_word_meaning": "turn",
+        "similarity": 0.1538461538,
+        "index": 427
+    },
+    {
+        "Pun_word": "कन्धों",
+        "Alternate_word": "condone",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 240,
+        "Pun_word_meaning": "shoulders",
+        "similarity": 0.1666666667,
+        "index": 428
+    },
+    {
+        "Pun_word": "रोड़",
+        "Alternate_word": "rowed",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 186,
+        "Pun_word_meaning": "road",
+        "similarity": 0.1428571429,
+        "index": 429
+    },
+    {
+        "Pun_word": "पौन",
+        "Alternate_word": "pawn",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 144,
+        "Pun_word_meaning": "quarter",
+        "similarity": 0.1904761905,
+        "index": 430
+    },
+    {
+        "Pun_word": "हिली",
+        "Alternate_word": "hilly",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 143,
+        "Pun_word_meaning": "moved",
+        "similarity": 0.5,
+        "index": 431
+    },
+    {
+        "Pun_word": "कूप",
+        "Alternate_word": "coupe",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 126,
+        "Pun_word_meaning": "well",
+        "similarity": 0.5263157895,
+        "index": 432
+    },
+    {
+        "Pun_word": "सीप",
+        "Alternate_word": "seep",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 120,
+        "Pun_word_meaning": "oyster",
+        "similarity": 0.1818181818,
+        "index": 433
+    },
+    {
+        "Pun_word": "रोड़",
+        "Alternate_word": "rowed",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 54,
+        "Pun_word_meaning": "road",
+        "similarity": 0.1428571429,
+        "index": 434
+    },
+    {
+        "Pun_word": "बौर",
+        "Alternate_word": "boar",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 54,
+        "Pun_word_meaning": "blossom",
+        "similarity": 0.3333333333,
+        "index": 435
+    },
+    {
+        "Pun_word": "गुड़ी",
+        "Alternate_word": "goody",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 42,
+        "Pun_word_meaning": "doll",
+        "similarity": 0.2857142857,
+        "index": 436
+    },
+    {
+        "Pun_word": "मल",
+        "Alternate_word": "mull",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 1728,
+        "Pun_word_meaning": "feces",
+        "similarity": 0.2666666667,
+        "index": 437
+    },
+    {
+        "Pun_word": "ढील",
+        "Alternate_word": "dill",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 1727,
+        "Pun_word_meaning": "relaxation",
+        "similarity": 0.2666666667,
+        "index": 438
+    },
+    {
+        "Pun_word": "बाज़",
+        "Alternate_word": "buzz",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 1703,
+        "Pun_word_meaning": "falcon",
+        "similarity": 0.1,
+        "index": 439
+    },
+    {
+        "Pun_word": "खुली",
+        "Alternate_word": "coolie",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "NOUN",
+        "score": 1610,
+        "Pun_word_meaning": "open",
+        "similarity": 0.375,
+        "index": 440
+    },
+    {
+        "Pun_word": "स्लोथ",
+        "Alternate_word": "slot",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 1572,
+        "Pun_word_meaning": "Sloth",
+        "similarity": 0.0909090909,
+        "index": 441
+    },
+    {
+        "Pun_word": "टीक",
+        "Alternate_word": "thick",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADJ",
+        "score": 1530,
+        "Pun_word_meaning": "teak",
+        "similarity": 0.2666666667,
+        "index": 442
+    },
+    {
+        "Pun_word": "पीस",
+        "Alternate_word": "piss",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 1520,
+        "Pun_word_meaning": "Grind",
+        "similarity": 0.2857142857,
+        "index": 443
+    },
+    {
+        "Pun_word": "राख",
+        "Alternate_word": "rack",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 1512,
+        "Pun_word_meaning": "ash",
+        "similarity": 0.1666666667,
+        "index": 444
+    },
+    {
+        "Pun_word": "ढो",
+        "Alternate_word": "dough",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADJ",
+        "score": 1500,
+        "Pun_word_meaning": "carry",
+        "similarity": 0.1111111111,
+        "index": 445
+    },
+    {
+        "Pun_word": "चाबी",
+        "Alternate_word": "chubby",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 1463,
+        "Pun_word_meaning": "key",
+        "similarity": 0.1818181818,
+        "index": 446
+    },
+    {
+        "Pun_word": "रूबी",
+        "Alternate_word": "rupee",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADJ",
+        "score": 1440,
+        "Pun_word_meaning": "Ruby",
+        "similarity": 0.1111111111,
+        "index": 447
+    },
+    {
+        "Pun_word": "बाड़",
+        "Alternate_word": "bud",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 1419,
+        "Pun_word_meaning": "fence",
+        "similarity": 0.4210526316,
+        "index": 448
+    },
+    {
+        "Pun_word": "मोड़",
+        "Alternate_word": "mod",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 1406,
+        "Pun_word_meaning": "turn",
+        "similarity": 0.1428571429,
+        "index": 449
+    },
+    {
+        "Pun_word": "पूल",
+        "Alternate_word": "pule",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 1375,
+        "Pun_word_meaning": "bridge",
+        "similarity": 0.1666666667,
+        "index": 450
+    },
+    {
+        "Pun_word": "बिकी",
+        "Alternate_word": "picky",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADJ",
+        "score": 1375,
+        "Pun_word_meaning": "sold",
+        "similarity": 0.3333333333,
+        "index": 451
+    },
+    {
+        "Pun_word": "ढल",
+        "Alternate_word": "dull",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 1292,
+        "Pun_word_meaning": "sewer",
+        "similarity": 0.125,
+        "index": 452
+    },
+    {
+        "Pun_word": "क्यू",
+        "Alternate_word": "queue",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 1243,
+        "Pun_word_meaning": "Why",
+        "similarity": 0.2857142857,
+        "index": 453
+    },
+    {
+        "Pun_word": "स्तन",
+        "Alternate_word": "stun",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 1215,
+        "Pun_word_meaning": "breast",
+        "similarity": 0.1333333333,
+        "index": 454
+    },
+    {
+        "Pun_word": "ठन",
+        "Alternate_word": "tonne",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 1215,
+        "Pun_word_meaning": "thrash",
+        "similarity": 0.2105263158,
+        "index": 455
+    },
+    {
+        "Pun_word": "धीर",
+        "Alternate_word": "deer",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "NOUN",
+        "score": 1188,
+        "Pun_word_meaning": "Patience",
+        "similarity": 0.0869565217,
+        "index": 456
+    },
+    {
+        "Pun_word": "भोर",
+        "Alternate_word": "bore",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 1170,
+        "Pun_word_meaning": "dawn",
+        "similarity": 0.1176470588,
+        "index": 457
+    },
+    {
+        "Pun_word": "कौम",
+        "Alternate_word": "comb",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 1152,
+        "Pun_word_meaning": "community",
+        "similarity": 0.1428571429,
+        "index": 458
+    },
+    {
+        "Pun_word": "भून",
+        "Alternate_word": "boon",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "NOUN",
+        "score": 1104,
+        "Pun_word_meaning": "Fry",
+        "similarity": 0.125,
+        "index": 459
+    },
+    {
+        "Pun_word": "रोज़",
+        "Alternate_word": "rows",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "X",
+        "score": 1092,
+        "Pun_word_meaning": "everyday",
+        "similarity": 0.2,
+        "index": 460
+    },
+    {
+        "Pun_word": "सोया",
+        "Alternate_word": "soya",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "X",
+        "score": 1071,
+        "Pun_word_meaning": "sleep",
+        "similarity": 0.347826087,
+        "index": 461
+    },
+    {
+        "Pun_word": "फीकी",
+        "Alternate_word": "picky",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "ADJ",
+        "score": 1050,
+        "Pun_word_meaning": "pale",
+        "similarity": 0.1666666667,
+        "index": 462
+    },
+    {
+        "Pun_word": "पौध",
+        "Alternate_word": "pod",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 1036,
+        "Pun_word_meaning": "sapling",
+        "similarity": 0.4,
+        "index": 463
+    },
+    {
+        "Pun_word": "पापी",
+        "Alternate_word": "puppy",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "NOUN",
+        "score": 1020,
+        "Pun_word_meaning": "sinner",
+        "similarity": 0.6,
+        "index": 464
+    },
+    {
+        "Pun_word": "रब",
+        "Alternate_word": "rub",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "X",
+        "score": 988,
+        "Pun_word_meaning": "God",
+        "similarity": 0.4705882353,
+        "index": 465
+    },
+    {
+        "Pun_word": "खोट",
+        "Alternate_word": "coat",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 980,
+        "Pun_word_meaning": "fault",
+        "similarity": 0.1176470588,
+        "index": 466
+    },
+    {
+        "Pun_word": "मौका",
+        "Alternate_word": "mock",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 928,
+        "Pun_word_meaning": "chance",
+        "similarity": 0.2352941176,
+        "index": 467
+    },
+    {
+        "Pun_word": "गिन",
+        "Alternate_word": "kin",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 880,
+        "Pun_word_meaning": "count",
+        "similarity": 0.1666666667,
+        "index": 468
+    },
+    {
+        "Pun_word": "हाट",
+        "Alternate_word": "hut",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 864,
+        "Pun_word_meaning": "market",
+        "similarity": 0.1333333333,
+        "index": 469
+    },
+    {
+        "Pun_word": "हट",
+        "Alternate_word": "hut",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 864,
+        "Pun_word_meaning": "remove",
+        "similarity": 0.1333333333,
+        "index": 470
+    },
+    {
+        "Pun_word": "बुत",
+        "Alternate_word": "boot",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 855,
+        "Pun_word_meaning": "fetish",
+        "similarity": 0.125,
+        "index": 471
+    },
+    {
+        "Pun_word": "झेली",
+        "Alternate_word": "jelly",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 840,
+        "Pun_word_meaning": "endured",
+        "similarity": 0.1333333333,
+        "index": 472
+    },
+    {
+        "Pun_word": "मीठी",
+        "Alternate_word": "meaty",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "ADJ",
+        "score": 793,
+        "Pun_word_meaning": "sweet",
+        "similarity": 0.1666666667,
+        "index": 473
+    },
+    {
+        "Pun_word": "बड़",
+        "Alternate_word": "bud",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 792,
+        "Pun_word_meaning": "big",
+        "similarity": 0.1538461538,
+        "index": 474
+    },
+    {
+        "Pun_word": "नील",
+        "Alternate_word": "nil",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "X",
+        "score": 791,
+        "Pun_word_meaning": "Indigo",
+        "similarity": 0.2857142857,
+        "index": 475
+    },
+    {
+        "Pun_word": "खोद",
+        "Alternate_word": "cod",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 783,
+        "Pun_word_meaning": "dig",
+        "similarity": 0.3333333333,
+        "index": 476
+    },
+    {
+        "Pun_word": "आभास",
+        "Alternate_word": "abuzz",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "PROPN",
+        "score": 782,
+        "Pun_word_meaning": "impression",
+        "similarity": 0.2,
+        "index": 477
+    },
+    {
+        "Pun_word": "मोल",
+        "Alternate_word": "mole",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 779,
+        "Pun_word_meaning": "value",
+        "similarity": 0.2222222222,
+        "index": 478
+    },
+    {
+        "Pun_word": "रोड़",
+        "Alternate_word": "rode",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 765,
+        "Pun_word_meaning": "road",
+        "similarity": 0.1818181818,
+        "index": 479
+    },
+    {
+        "Pun_word": "थमी",
+        "Alternate_word": "tummy",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "NOUN",
+        "score": 759,
+        "Pun_word_meaning": "stopped",
+        "similarity": 0.1538461538,
+        "index": 480
+    },
+    {
+        "Pun_word": "धक",
+        "Alternate_word": "duck",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 742,
+        "Pun_word_meaning": "push",
+        "similarity": 0.0952380952,
+        "index": 481
+    },
+    {
+        "Pun_word": "फोड़",
+        "Alternate_word": "pod",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 740,
+        "Pun_word_meaning": "burst",
+        "similarity": 0.1111111111,
+        "index": 482
+    },
+    {
+        "Pun_word": "रगड़",
+        "Alternate_word": "rugged",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 715,
+        "Pun_word_meaning": "rub",
+        "similarity": 0.1666666667,
+        "index": 483
+    },
+    {
+        "Pun_word": "क्यू",
+        "Alternate_word": "cue",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 561,
+        "Pun_word_meaning": "Why",
+        "similarity": 0.2352941176,
+        "index": 484
+    },
+    {
+        "Pun_word": "भूली",
+        "Alternate_word": "bully",
+        "Pun_word_pos": "ADJ",
+        "Alternate_word_pos": "NOUN",
+        "score": 518,
+        "Pun_word_meaning": "mistake",
+        "similarity": 0.1333333333,
+        "index": 485
+    },
+    {
+        "Pun_word": "बढ",
+        "Alternate_word": "bud",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "X",
+        "score": 495,
+        "Pun_word_meaning": "increase",
+        "similarity": 0.1333333333,
+        "index": 486
+    },
+    {
+        "Pun_word": "नाती",
+        "Alternate_word": "nutty",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 493,
+        "Pun_word_meaning": "relationship",
+        "similarity": 0.2857142857,
+        "index": 487
+    },
+    {
+        "Pun_word": "रीति",
+        "Alternate_word": "reedy",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 438,
+        "Pun_word_meaning": "ritual",
+        "similarity": 0.1666666667,
+        "index": 488
+    },
+    {
+        "Pun_word": "लोरी",
+        "Alternate_word": "lorry",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word_pos": "NOUN",
+        "score": 416,
+        "Pun_word_meaning": "lullaby",
+        "similarity": 0.1111111111,
+        "index": 489
+    },
+    {
+        "Pun_word": "रूक",
+        "Alternate_word": "rook",
+        "Pun_word_pos": "VERB",
+        "Alternate_word_pos": "X",
+        "score": 296,
+        "Pun_word_meaning": "stop",
+        "similarity": 0.1111111111,
+        "index": 490
+    },
+    {
+        "Pun_word": "कैची",
+        "Alternate_word": "catchy",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 275,
+        "Pun_word_meaning": "Scissors",
+        "similarity": 0.1428571429,
+        "index": 491
+    },
+    {
+        "Pun_word": "क़ैदी",
+        "Alternate_word": "caddie",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 117,
+        "Pun_word_meaning": "prisoner",
+        "similarity": 0.6,
+        "index": 492
+    },
+    {
+        "Pun_word": "जोड़",
+        "Alternate_word": "jawed",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 110,
+        "Pun_word_meaning": "Joint",
+        "similarity": 0.1428571429,
+        "index": 493
+    },
+    {
+        "Pun_word": "बौनी",
+        "Alternate_word": "bonny",
+        "Pun_word_pos": "X",
+        "Alternate_word_pos": "NOUN",
+        "score": 60,
+        "Pun_word_meaning": "dwarf",
+        "similarity": 0.2,
+        "index": 494
+    },
+    {
+        "Pun_word": "नक़ल",
+        "Alternate_word": "knuckle",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "NOUN",
+        "score": 36,
+        "Pun_word_meaning": "imitation",
+        "similarity": 0.125,
+        "index": 495
+    },
+    {
+        "Pun_word": "लोभ",
+        "Alternate_word": "lob",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "X",
+        "score": 184,
+        "Pun_word_meaning": "greed",
+        "similarity": 0.1904761905,
+        "index": 496
+    },
+    {
+        "Pun_word": "मुड़ी",
+        "Alternate_word": "moody",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "ADJ",
+        "score": 190,
+        "Pun_word_meaning": "turned",
+        "similarity": 0.1538461538,
+        "index": 497
+    },
+    {
+        "Pun_word": "दू",
+        "Alternate_word": "do",
+        "Pun_word_pos": "ADV",
+        "Alternate_word_pos": "X",
+        "score": 216,
+        "Pun_word_meaning": "give",
+        "similarity": 0.0,
+        "index": 498
+    },
+    {
+        "Pun_word": "कील",
+        "Alternate_word": "keel",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word_pos": "NOUN",
+        "score": 204,
+        "Pun_word_meaning": "nail",
+        "similarity": 0.2352941176,
+        "index": 499
+    }
+]

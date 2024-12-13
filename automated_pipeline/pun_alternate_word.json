@@ -1,0 +1,2275 @@
+[
+    {
+        "Pun_word": "डॉन",
+        "Pun_word_ipa": "don",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "then",
+                "ipa": "den",
+                "pos": "ADV"
+            },
+            {
+                "word": "done",
+                "ipa": "dan",
+                "pos": "VERB"
+            },
+            {
+                "word": "dean",
+                "ipa": "din",
+                "pos": "NOUN"
+            },
+            {
+                "word": "don",
+                "ipa": "don",
+                "pos": "VERB"
+            },
+            {
+                "word": "dawn",
+                "ipa": "don",
+                "pos": "NOUN"
+            },
+            {
+                "word": "din",
+                "ipa": "din",
+                "pos": "X"
+            },
+            {
+                "word": "den",
+                "ipa": "den",
+                "pos": "X"
+            },
+            {
+                "word": "dune",
+                "ipa": "dun",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dun",
+                "ipa": "dan",
+                "pos": "X"
+            },
+            {
+                "word": "donne",
+                "ipa": "dan",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "कार",
+        "Pun_word_ipa": "kar",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "care",
+                "ipa": "ker",
+                "pos": "NOUN"
+            },
+            {
+                "word": "car",
+                "ipa": "kor",
+                "pos": "NOUN"
+            },
+            {
+                "word": "core",
+                "ipa": "kor",
+                "pos": "NOUN"
+            },
+            {
+                "word": "corps",
+                "ipa": "kor",
+                "pos": "NOUN"
+            },
+            {
+                "word": "kore",
+                "ipa": "kor",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "स्थल",
+        "Pun_word_ipa": "stal",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "still",
+                "ipa": "stil",
+                "pos": "ADV"
+            },
+            {
+                "word": "steal",
+                "ipa": "stil",
+                "pos": "NOUN"
+            },
+            {
+                "word": "steel",
+                "ipa": "stil",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stole",
+                "ipa": "stol",
+                "pos": "X"
+            },
+            {
+                "word": "stall",
+                "ipa": "stol",
+                "pos": "X"
+            },
+            {
+                "word": "steele",
+                "ipa": "stil",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stool",
+                "ipa": "stul",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "हल",
+        "Pun_word_ipa": "hal",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "whole",
+                "ipa": "hol",
+                "pos": "ADJ"
+            },
+            {
+                "word": "hall",
+                "ipa": "hol",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hill",
+                "ipa": "hil",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hell",
+                "ipa": "hel",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hole",
+                "ipa": "hol",
+                "pos": "NOUN"
+            },
+            {
+                "word": "heal",
+                "ipa": "hil",
+                "pos": "ADJ"
+            },
+            {
+                "word": "haul",
+                "ipa": "hol",
+                "pos": "X"
+            },
+            {
+                "word": "heel",
+                "ipa": "hil",
+                "pos": "X"
+            },
+            {
+                "word": "hull",
+                "ipa": "hal",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "होम",
+        "Pun_word_ipa": "hom",
+        "Pun_word_pos": "X",
+        "Alternate_word": [
+            {
+                "word": "home",
+                "ipa": "hom",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hymn",
+                "ipa": "him",
+                "pos": "X"
+            },
+            {
+                "word": "hum",
+                "ipa": "ham",
+                "pos": "X"
+            },
+            {
+                "word": "hem",
+                "ipa": "hem",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "खून",
+        "Pun_word_ipa": "kun",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "khan",
+                "ipa": "kon",
+                "pos": "PROPN"
+            },
+            {
+                "word": "keen",
+                "ipa": "kin",
+                "pos": "ADJ"
+            },
+            {
+                "word": "ken",
+                "ipa": "ken",
+                "pos": "X"
+            },
+            {
+                "word": "con",
+                "ipa": "kon",
+                "pos": "X"
+            },
+            {
+                "word": "kin",
+                "ipa": "kin",
+                "pos": "X"
+            },
+            {
+                "word": "kahn",
+                "ipa": "kon",
+                "pos": "X"
+            },
+            {
+                "word": "kean",
+                "ipa": "kin",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cone",
+                "ipa": "kon",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cohn",
+                "ipa": "kon",
+                "pos": "X"
+            },
+            {
+                "word": "conn",
+                "ipa": "kon",
+                "pos": "X"
+            },
+            {
+                "word": "coon",
+                "ipa": "kun",
+                "pos": "NOUN"
+            },
+            {
+                "word": "kuhn",
+                "ipa": "kun",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "चार",
+        "Pun_word_ipa": "t͡ʃar",
+        "Pun_word_pos": "NUM",
+        "Alternate_word": [
+            {
+                "word": "chair",
+                "ipa": "t͡ʃer",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cheer",
+                "ipa": "t͡ʃir",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chore",
+                "ipa": "t͡ʃor",
+                "pos": "NOUN"
+            },
+            {
+                "word": "char",
+                "ipa": "t͡ʃor",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "सुख",
+        "Pun_word_ipa": "suk",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "sick",
+                "ipa": "sik",
+                "pos": "ADJ"
+            },
+            {
+                "word": "seek",
+                "ipa": "sik",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sec",
+                "ipa": "sek",
+                "pos": "X"
+            },
+            {
+                "word": "suck",
+                "ipa": "sak",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sic",
+                "ipa": "sik",
+                "pos": "X"
+            },
+            {
+                "word": "sikh",
+                "ipa": "sik",
+                "pos": "X"
+            },
+            {
+                "word": "soak",
+                "ipa": "sok",
+                "pos": "VERB"
+            },
+            {
+                "word": "sock",
+                "ipa": "sok",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sauk",
+                "ipa": "sok",
+                "pos": "X"
+            },
+            {
+                "word": "salk",
+                "ipa": "sok",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "फ़ोन",
+        "Pun_word_ipa": "fon",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "phone",
+                "ipa": "fon",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fun",
+                "ipa": "fan",
+                "pos": "NOUN"
+            },
+            {
+                "word": "finn",
+                "ipa": "fin",
+                "pos": "X"
+            },
+            {
+                "word": "fin",
+                "ipa": "fin",
+                "pos": "X"
+            },
+            {
+                "word": "fen",
+                "ipa": "fen",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "धार",
+        "Pun_word_ipa": "dar",
+        "Pun_word_pos": "X",
+        "Alternate_word": [
+            {
+                "word": "there",
+                "ipa": "der",
+                "pos": "ADV"
+            },
+            {
+                "word": "door",
+                "ipa": "dor",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dear",
+                "ipa": "dir",
+                "pos": "ADJ"
+            },
+            {
+                "word": "deer",
+                "ipa": "dir",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dare",
+                "ipa": "der",
+                "pos": "X"
+            },
+            {
+                "word": "deere",
+                "ipa": "dir",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dewar",
+                "ipa": "dur",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "दास",
+        "Pun_word_ipa": "das",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word": [
+            {
+                "word": "does",
+                "ipa": "dos",
+                "pos": "VERB"
+            },
+            {
+                "word": "thus",
+                "ipa": "das",
+                "pos": "X"
+            },
+            {
+                "word": "dose",
+                "ipa": "dos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dues",
+                "ipa": "dus",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dos",
+                "ipa": "dos",
+                "pos": "X"
+            },
+            {
+                "word": "diss",
+                "ipa": "dis",
+                "pos": "X"
+            },
+            {
+                "word": "deuce",
+                "ipa": "dus",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dis",
+                "ipa": "dis",
+                "pos": "X"
+            },
+            {
+                "word": "dawes",
+                "ipa": "dos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "सुमन",
+        "Pun_word_ipa": "suman",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word": [
+            {
+                "word": "summon",
+                "ipa": "saman",
+                "pos": "NOUN"
+            },
+            {
+                "word": "seaman",
+                "ipa": "siman",
+                "pos": "NOUN"
+            },
+            {
+                "word": "semen",
+                "ipa": "siman",
+                "pos": "NOUN"
+            },
+            {
+                "word": "soman",
+                "ipa": "soman",
+                "pos": "PROPN"
+            },
+            {
+                "word": "seamen",
+                "ipa": "siman",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "बॉल",
+        "Pun_word_ipa": "bol",
+        "Pun_word_pos": "X",
+        "Alternate_word": [
+            {
+                "word": "bill",
+                "ipa": "bil",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ball",
+                "ipa": "bol",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bowl",
+                "ipa": "bol",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bell",
+                "ipa": "bel",
+                "pos": "X"
+            },
+            {
+                "word": "bull",
+                "ipa": "bul",
+                "pos": "NOUN"
+            },
+            {
+                "word": "belle",
+                "ipa": "bel",
+                "pos": "X"
+            },
+            {
+                "word": "bel",
+                "ipa": "bel",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "सास",
+        "Pun_word_ipa": "sas",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "says",
+                "ipa": "ses",
+                "pos": "VERB"
+            },
+            {
+                "word": "sees",
+                "ipa": "sis",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sauce",
+                "ipa": "sos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cease",
+                "ipa": "sis",
+                "pos": "NOUN"
+            },
+            {
+                "word": "seize",
+                "ipa": "sis",
+                "pos": "VERB"
+            },
+            {
+                "word": "ces",
+                "ipa": "sis",
+                "pos": "X"
+            },
+            {
+                "word": "ceos",
+                "ipa": "sos",
+                "pos": "X"
+            },
+            {
+                "word": "seas",
+                "ipa": "sis",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sos",
+                "ipa": "sos",
+                "pos": "X"
+            },
+            {
+                "word": "zoos",
+                "ipa": "sus",
+                "pos": "X"
+            },
+            {
+                "word": "zeus",
+                "ipa": "sus",
+                "pos": "X"
+            },
+            {
+                "word": "cis",
+                "ipa": "sis",
+                "pos": "X"
+            },
+            {
+                "word": "ses",
+                "ipa": "sis",
+                "pos": "X"
+            },
+            {
+                "word": "cess",
+                "ipa": "ses",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sues",
+                "ipa": "sus",
+                "pos": "X"
+            },
+            {
+                "word": "sis",
+                "ipa": "sis",
+                "pos": "X"
+            },
+            {
+                "word": "saws",
+                "ipa": "sos",
+                "pos": "X"
+            },
+            {
+                "word": "sous",
+                "ipa": "sus",
+                "pos": "X"
+            },
+            {
+                "word": "sows",
+                "ipa": "sos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "कान",
+        "Pun_word_ipa": "kan",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "khan",
+                "ipa": "kon",
+                "pos": "PROPN"
+            },
+            {
+                "word": "keen",
+                "ipa": "kin",
+                "pos": "ADJ"
+            },
+            {
+                "word": "ken",
+                "ipa": "ken",
+                "pos": "X"
+            },
+            {
+                "word": "con",
+                "ipa": "kon",
+                "pos": "X"
+            },
+            {
+                "word": "kin",
+                "ipa": "kin",
+                "pos": "X"
+            },
+            {
+                "word": "kahn",
+                "ipa": "kon",
+                "pos": "X"
+            },
+            {
+                "word": "kean",
+                "ipa": "kin",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cone",
+                "ipa": "kon",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cohn",
+                "ipa": "kon",
+                "pos": "X"
+            },
+            {
+                "word": "conn",
+                "ipa": "kon",
+                "pos": "X"
+            },
+            {
+                "word": "coon",
+                "ipa": "kun",
+                "pos": "NOUN"
+            },
+            {
+                "word": "kuhn",
+                "ipa": "kun",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "नम",
+        "Pun_word_ipa": "nam",
+        "Pun_word_pos": "X",
+        "Alternate_word": [
+            {
+                "word": "numb",
+                "ipa": "nam",
+                "pos": "X"
+            },
+            {
+                "word": "nome",
+                "ipa": "nom",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gnome",
+                "ipa": "nom",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "सर",
+        "Pun_word_ipa": "sar",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "sore",
+                "ipa": "sor",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sewer",
+                "ipa": "sur",
+                "pos": "NOUN"
+            },
+            {
+                "word": "soar",
+                "ipa": "sor",
+                "pos": "VERB"
+            },
+            {
+                "word": "czar",
+                "ipa": "sor",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "ठेस",
+        "Pun_word_ipa": "tes",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "toss",
+                "ipa": "tos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tease",
+                "ipa": "tis",
+                "pos": "NOUN"
+            },
+            {
+                "word": "toes",
+                "ipa": "tos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tess",
+                "ipa": "tes",
+                "pos": "X"
+            },
+            {
+                "word": "teas",
+                "ipa": "tis",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tees",
+                "ipa": "tis",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tis",
+                "ipa": "tis",
+                "pos": "X"
+            },
+            {
+                "word": "tues",
+                "ipa": "tus",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "किट",
+        "Pun_word_ipa": "kit",
+        "Pun_word_pos": "X",
+        "Alternate_word": [
+            {
+                "word": "cut",
+                "ipa": "kat",
+                "pos": "NOUN"
+            },
+            {
+                "word": "caught",
+                "ipa": "kot",
+                "pos": "VERB"
+            },
+            {
+                "word": "kit",
+                "ipa": "kit",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coat",
+                "ipa": "kot",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cote",
+                "ipa": "kot",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cot",
+                "ipa": "kot",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "बेस",
+        "Pun_word_ipa": "bes",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "bus",
+                "ipa": "bas",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boss",
+                "ipa": "bos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "buzz",
+                "ipa": "bas",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bees",
+                "ipa": "bis",
+                "pos": "NOUN"
+            },
+            {
+                "word": "booze",
+                "ipa": "bus",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bose",
+                "ipa": "bos",
+                "pos": "X"
+            },
+            {
+                "word": "boos",
+                "ipa": "bus",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bess",
+                "ipa": "bes",
+                "pos": "X"
+            },
+            {
+                "word": "biz",
+                "ipa": "bis",
+                "pos": "X"
+            },
+            {
+                "word": "bis",
+                "ipa": "bis",
+                "pos": "X"
+            },
+            {
+                "word": "bos",
+                "ipa": "bos",
+                "pos": "X"
+            },
+            {
+                "word": "buss",
+                "ipa": "bas",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bowes",
+                "ipa": "bos",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "मात",
+        "Pun_word_ipa": "mat",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "meet",
+                "ipa": "mit",
+                "pos": "NOUN"
+            },
+            {
+                "word": "meat",
+                "ipa": "mit",
+                "pos": "NOUN"
+            },
+            {
+                "word": "myth",
+                "ipa": "mit",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mitt",
+                "ipa": "mit",
+                "pos": "X"
+            },
+            {
+                "word": "meth",
+                "ipa": "met",
+                "pos": "X"
+            },
+            {
+                "word": "mit",
+                "ipa": "mit",
+                "pos": "X"
+            },
+            {
+                "word": "moot",
+                "ipa": "mut",
+                "pos": "X"
+            },
+            {
+                "word": "mott",
+                "ipa": "mot",
+                "pos": "X"
+            },
+            {
+                "word": "moth",
+                "ipa": "mot",
+                "pos": "X"
+            },
+            {
+                "word": "moat",
+                "ipa": "mot",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mot",
+                "ipa": "mot",
+                "pos": "X"
+            },
+            {
+                "word": "mote",
+                "ipa": "mot",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "बी",
+        "Pun_word_ipa": "bi",
+        "Pun_word_pos": "X",
+        "Alternate_word": [
+            {
+                "word": "be",
+                "ipa": "bi",
+                "pos": "VERB"
+            },
+            {
+                "word": "b",
+                "ipa": "bi",
+                "pos": "X"
+            },
+            {
+                "word": "bee",
+                "ipa": "bi",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ba",
+                "ipa": "bo",
+                "pos": "X"
+            },
+            {
+                "word": "beau",
+                "ipa": "bo",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boo",
+                "ipa": "bu",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "थल",
+        "Pun_word_ipa": "tal",
+        "Pun_word_pos": "X",
+        "Alternate_word": [
+            {
+                "word": "tell",
+                "ipa": "tel",
+                "pos": "VERB"
+            },
+            {
+                "word": "toll",
+                "ipa": "tol",
+                "pos": "NOUN"
+            },
+            {
+                "word": "till",
+                "ipa": "til",
+                "pos": "ADV"
+            },
+            {
+                "word": "tool",
+                "ipa": "tul",
+                "pos": "X"
+            },
+            {
+                "word": "tall",
+                "ipa": "tol",
+                "pos": "NOUN"
+            },
+            {
+                "word": "taal",
+                "ipa": "tol",
+                "pos": "X"
+            },
+            {
+                "word": "tl",
+                "ipa": "tal",
+                "pos": "X"
+            },
+            {
+                "word": "tulle",
+                "ipa": "tal",
+                "pos": "X"
+            },
+            {
+                "word": "teal",
+                "ipa": "til",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "डेट",
+        "Pun_word_ipa": "det",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "death",
+                "ipa": "det",
+                "pos": "NOUN"
+            },
+            {
+                "word": "debt",
+                "ipa": "det",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dot",
+                "ipa": "dot",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "रात",
+        "Pun_word_ipa": "rat",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "wrote",
+                "ipa": "rot",
+                "pos": "X"
+            },
+            {
+                "word": "route",
+                "ipa": "rut",
+                "pos": "NOUN"
+            },
+            {
+                "word": "root",
+                "ipa": "rut",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ruth",
+                "ipa": "rut",
+                "pos": "X"
+            },
+            {
+                "word": "roth",
+                "ipa": "rot",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wrought",
+                "ipa": "rot",
+                "pos": "VERB"
+            },
+            {
+                "word": "rot",
+                "ipa": "rot",
+                "pos": "X"
+            },
+            {
+                "word": "writ",
+                "ipa": "rit",
+                "pos": "X"
+            },
+            {
+                "word": "wreath",
+                "ipa": "rit",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rut",
+                "ipa": "rat",
+                "pos": "PROPN"
+            },
+            {
+                "word": "rote",
+                "ipa": "rot",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "मिसाल",
+        "Pun_word_ipa": "misal",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word": [
+            {
+                "word": "missile",
+                "ipa": "misal",
+                "pos": "NOUN"
+            },
+            {
+                "word": "muscle",
+                "ipa": "masal",
+                "pos": "NOUN"
+            },
+            {
+                "word": "muzzle",
+                "ipa": "masal",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mosul",
+                "ipa": "mosal",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "केक",
+        "Pun_word_ipa": "kek",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "kick",
+                "ipa": "kik",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cook",
+                "ipa": "kuk",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cooke",
+                "ipa": "kuk",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coke",
+                "ipa": "kok",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cock",
+                "ipa": "kok",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "गूगल",
+        "Pun_word_ipa": "gugal",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word": [
+            {
+                "word": "google",
+                "ipa": "gugal",
+                "pos": "X"
+            },
+            {
+                "word": "giggle",
+                "ipa": "gigal",
+                "pos": "X"
+            },
+            {
+                "word": "goggle",
+                "ipa": "gogal",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "मिल",
+        "Pun_word_ipa": "mil",
+        "Pun_word_pos": "VERB",
+        "Alternate_word": [
+            {
+                "word": "meal",
+                "ipa": "mil",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mall",
+                "ipa": "mol",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mill",
+                "ipa": "mil",
+                "pos": "X"
+            },
+            {
+                "word": "ml",
+                "ipa": "mal",
+                "pos": "X"
+            },
+            {
+                "word": "mole",
+                "ipa": "mol",
+                "pos": "X"
+            },
+            {
+                "word": "maul",
+                "ipa": "mol",
+                "pos": "X"
+            },
+            {
+                "word": "mull",
+                "ipa": "mal",
+                "pos": "X"
+            },
+            {
+                "word": "mil",
+                "ipa": "mil",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "राज",
+        "Pun_word_ipa": "raʒ",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word": [
+            {
+                "word": "ridge",
+                "ipa": "riʒ",
+                "pos": "X"
+            },
+            {
+                "word": "raj",
+                "ipa": "roʒ",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rouge",
+                "ipa": "ruʒ",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "बोर",
+        "Pun_word_ipa": "bor",
+        "Pun_word_pos": "ADV",
+        "Alternate_word": [
+            {
+                "word": "bar",
+                "ipa": "bor",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bear",
+                "ipa": "ber",
+                "pos": "NOUN"
+            },
+            {
+                "word": "beer",
+                "ipa": "bir",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bare",
+                "ipa": "ber",
+                "pos": "ADV"
+            },
+            {
+                "word": "bore",
+                "ipa": "bor",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boar",
+                "ipa": "bor",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boer",
+                "ipa": "bor",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "लड़",
+        "Pun_word_ipa": "lad",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "lead",
+                "ipa": "led",
+                "pos": "NOUN"
+            },
+            {
+                "word": "led",
+                "ipa": "led",
+                "pos": "X"
+            },
+            {
+                "word": "load",
+                "ipa": "lod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lid",
+                "ipa": "lid",
+                "pos": "X"
+            },
+            {
+                "word": "lewd",
+                "ipa": "lud",
+                "pos": "X"
+            },
+            {
+                "word": "loathe",
+                "ipa": "lod",
+                "pos": "X"
+            },
+            {
+                "word": "laud",
+                "ipa": "lod",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "कोड",
+        "Pun_word_ipa": "kod",
+        "Pun_word_pos": "X",
+        "Alternate_word": [
+            {
+                "word": "code",
+                "ipa": "kod",
+                "pos": "X"
+            },
+            {
+                "word": "kid",
+                "ipa": "kid",
+                "pos": "X"
+            },
+            {
+                "word": "cod",
+                "ipa": "kod",
+                "pos": "X"
+            },
+            {
+                "word": "kidd",
+                "ipa": "kid",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "पा",
+        "Pun_word_ipa": "pa",
+        "Pun_word_pos": "X",
+        "Alternate_word": [
+            {
+                "word": "pe",
+                "ipa": "pi",
+                "pos": "X"
+            },
+            {
+                "word": "pa",
+                "ipa": "po",
+                "pos": "X"
+            },
+            {
+                "word": "p",
+                "ipa": "pi",
+                "pos": "X"
+            },
+            {
+                "word": "poe",
+                "ipa": "po",
+                "pos": "X"
+            },
+            {
+                "word": "po",
+                "ipa": "po",
+                "pos": "X"
+            },
+            {
+                "word": "paw",
+                "ipa": "po",
+                "pos": "X"
+            },
+            {
+                "word": "pee",
+                "ipa": "pi",
+                "pos": "X"
+            },
+            {
+                "word": "pea",
+                "ipa": "pi",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pu",
+                "ipa": "pu",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "स्किल",
+        "Pun_word_ipa": "skil",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "school",
+                "ipa": "skul",
+                "pos": "NOUN"
+            },
+            {
+                "word": "skill",
+                "ipa": "skil",
+                "pos": "NOUN"
+            },
+            {
+                "word": "skull",
+                "ipa": "skal",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "सना",
+        "Pun_word_ipa": "sana",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "sunny",
+                "ipa": "sani",
+                "pos": "PROPN"
+            },
+            {
+                "word": "sonny",
+                "ipa": "sani",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sauna",
+                "ipa": "sona",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sanaa",
+                "ipa": "sano",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "कट",
+        "Pun_word_ipa": "kat",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "cut",
+                "ipa": "kat",
+                "pos": "NOUN"
+            },
+            {
+                "word": "caught",
+                "ipa": "kot",
+                "pos": "VERB"
+            },
+            {
+                "word": "kit",
+                "ipa": "kit",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coat",
+                "ipa": "kot",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cote",
+                "ipa": "kot",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cot",
+                "ipa": "kot",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "रोड",
+        "Pun_word_ipa": "rod",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "road",
+                "ipa": "rod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "read",
+                "ipa": "red",
+                "pos": "X"
+            },
+            {
+                "word": "red",
+                "ipa": "red",
+                "pos": "X"
+            },
+            {
+                "word": "rid",
+                "ipa": "rid",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reed",
+                "ipa": "rid",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reid",
+                "ipa": "rid",
+                "pos": "PROPN"
+            },
+            {
+                "word": "rod",
+                "ipa": "rod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rude",
+                "ipa": "rud",
+                "pos": "ADJ"
+            },
+            {
+                "word": "rode",
+                "ipa": "rod",
+                "pos": "X"
+            },
+            {
+                "word": "rudd",
+                "ipa": "rad",
+                "pos": "X"
+            },
+            {
+                "word": "rood",
+                "ipa": "rud",
+                "pos": "X"
+            },
+            {
+                "word": "rowed",
+                "ipa": "rod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rued",
+                "ipa": "rud",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "कोर",
+        "Pun_word_ipa": "kor",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "care",
+                "ipa": "ker",
+                "pos": "NOUN"
+            },
+            {
+                "word": "car",
+                "ipa": "kor",
+                "pos": "NOUN"
+            },
+            {
+                "word": "core",
+                "ipa": "kor",
+                "pos": "NOUN"
+            },
+            {
+                "word": "corps",
+                "ipa": "kor",
+                "pos": "NOUN"
+            },
+            {
+                "word": "kore",
+                "ipa": "kor",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "मौनी",
+        "Pun_word_ipa": "moni",
+        "Pun_word_pos": "PROPN",
+        "Alternate_word": [
+            {
+                "word": "money",
+                "ipa": "mani",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mini",
+                "ipa": "mini",
+                "pos": "X"
+            },
+            {
+                "word": "mona",
+                "ipa": "mona",
+                "pos": "X"
+            },
+            {
+                "word": "mono",
+                "ipa": "mono",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "सन",
+        "Pun_word_ipa": "san",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "seen",
+                "ipa": "sin",
+                "pos": "VERB"
+            },
+            {
+                "word": "soon",
+                "ipa": "sun",
+                "pos": "ADV"
+            },
+            {
+                "word": "son",
+                "ipa": "san",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scene",
+                "ipa": "sin",
+                "pos": "NOUN"
+            },
+            {
+                "word": "zone",
+                "ipa": "son",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sun",
+                "ipa": "san",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sin",
+                "ipa": "sin",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sen",
+                "ipa": "sen",
+                "pos": "X"
+            },
+            {
+                "word": "zen",
+                "ipa": "sen",
+                "pos": "X"
+            },
+            {
+                "word": "sown",
+                "ipa": "son",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sewn",
+                "ipa": "son",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sion",
+                "ipa": "san",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "सूट",
+        "Pun_word_ipa": "sut",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "set",
+                "ipa": "set",
+                "pos": "X"
+            },
+            {
+                "word": "sit",
+                "ipa": "sit",
+                "pos": "X"
+            },
+            {
+                "word": "seat",
+                "ipa": "sit",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sought",
+                "ipa": "sot",
+                "pos": "NOUN"
+            },
+            {
+                "word": "suit",
+                "ipa": "sut",
+                "pos": "NOUN"
+            },
+            {
+                "word": "seth",
+                "ipa": "set",
+                "pos": "NOUN"
+            },
+            {
+                "word": "soot",
+                "ipa": "sut",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "पूछ",
+        "Pun_word_ipa": "put͡ʃ",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "pitch",
+                "ipa": "pit͡ʃ",
+                "pos": "NOUN"
+            },
+            {
+                "word": "peach",
+                "ipa": "pit͡ʃ",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pooch",
+                "ipa": "put͡ʃ",
+                "pos": "NOUN"
+            },
+            {
+                "word": "poach",
+                "ipa": "pot͡ʃ",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "पीठ",
+        "Pun_word_ipa": "pit",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "put",
+                "ipa": "put",
+                "pos": "X"
+            },
+            {
+                "word": "pet",
+                "ipa": "pet",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pot",
+                "ipa": "pot",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pitt",
+                "ipa": "pit",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pit",
+                "ipa": "pit",
+                "pos": "NOUN"
+            },
+            {
+                "word": "putt",
+                "ipa": "pat",
+                "pos": "X"
+            },
+            {
+                "word": "peat",
+                "ipa": "pit",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "भीड़",
+        "Pun_word_ipa": "bid",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "bid",
+                "ipa": "bid",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bed",
+                "ipa": "bed",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bud",
+                "ipa": "bad",
+                "pos": "X"
+            },
+            {
+                "word": "bode",
+                "ipa": "bod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "booed",
+                "ipa": "bud",
+                "pos": "X"
+            },
+            {
+                "word": "bead",
+                "ipa": "bid",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bod",
+                "ipa": "bod",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "मूड",
+        "Pun_word_ipa": "mud",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "mode",
+                "ipa": "mod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mood",
+                "ipa": "mud",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mid",
+                "ipa": "mid",
+                "pos": "X"
+            },
+            {
+                "word": "mud",
+                "ipa": "mad",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mod",
+                "ipa": "mod",
+                "pos": "X"
+            },
+            {
+                "word": "mead",
+                "ipa": "mid",
+                "pos": "NOUN"
+            },
+            {
+                "word": "med",
+                "ipa": "med",
+                "pos": "X"
+            },
+            {
+                "word": "meade",
+                "ipa": "mid",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mowed",
+                "ipa": "mod",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "स्टोरी",
+        "Pun_word_ipa": "stori",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "story",
+                "ipa": "stori",
+                "pos": "NOUN"
+            },
+            {
+                "word": "starry",
+                "ipa": "stori",
+                "pos": "X"
+            },
+            {
+                "word": "storey",
+                "ipa": "stori",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "गुण",
+        "Pun_word_ipa": "gun",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "gone",
+                "ipa": "gon",
+                "pos": "VERB"
+            },
+            {
+                "word": "gun",
+                "ipa": "gan",
+                "pos": "NOUN"
+            },
+            {
+                "word": "goon",
+                "ipa": "gun",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "टूट",
+        "Pun_word_ipa": "tut",
+        "Pun_word_pos": "VERB",
+        "Alternate_word": [
+            {
+                "word": "thought",
+                "ipa": "tot",
+                "pos": "VERB"
+            },
+            {
+                "word": "taught",
+                "ipa": "tot",
+                "pos": "VERB"
+            },
+            {
+                "word": "teeth",
+                "ipa": "tit",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tooth",
+                "ipa": "tut",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tote",
+                "ipa": "tot",
+                "pos": "NOUN"
+            },
+            {
+                "word": "taut",
+                "ipa": "tot",
+                "pos": "X"
+            },
+            {
+                "word": "tot",
+                "ipa": "tot",
+                "pos": "X"
+            },
+            {
+                "word": "toot",
+                "ipa": "tut",
+                "pos": "X"
+            },
+            {
+                "word": "tit",
+                "ipa": "tit",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "नोट",
+        "Pun_word_ipa": "not",
+        "Pun_word_pos": "X",
+        "Alternate_word": [
+            {
+                "word": "note",
+                "ipa": "not",
+                "pos": "NOUN"
+            },
+            {
+                "word": "net",
+                "ipa": "net",
+                "pos": "NOUN"
+            },
+            {
+                "word": "knot",
+                "ipa": "not",
+                "pos": "X"
+            },
+            {
+                "word": "neat",
+                "ipa": "nit",
+                "pos": "X"
+            },
+            {
+                "word": "nut",
+                "ipa": "nat",
+                "pos": "X"
+            },
+            {
+                "word": "knit",
+                "ipa": "nit",
+                "pos": "X"
+            },
+            {
+                "word": "newt",
+                "ipa": "nut",
+                "pos": "X"
+            },
+            {
+                "word": "naught",
+                "ipa": "not",
+                "pos": "NOUN"
+            },
+            {
+                "word": "nit",
+                "ipa": "nit",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "एक",
+        "Pun_word_ipa": "ek",
+        "Pun_word_pos": "NUM",
+        "Alternate_word": [
+            {
+                "word": "ec",
+                "ipa": "ek",
+                "pos": "X"
+            },
+            {
+                "word": "ecc",
+                "ipa": "ek",
+                "pos": "X"
+            },
+            {
+                "word": "eq",
+                "ipa": "ek",
+                "pos": "X"
+            },
+            {
+                "word": "eck",
+                "ipa": "ek",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "पार",
+        "Pun_word_ipa": "par",
+        "Pun_word_pos": "X",
+        "Alternate_word": [
+            {
+                "word": "poor",
+                "ipa": "pur",
+                "pos": "ADJ"
+            },
+            {
+                "word": "pair",
+                "ipa": "per",
+                "pos": "NOUN"
+            },
+            {
+                "word": "par",
+                "ipa": "por",
+                "pos": "X"
+            },
+            {
+                "word": "peer",
+                "ipa": "pir",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pour",
+                "ipa": "por",
+                "pos": "X"
+            },
+            {
+                "word": "pier",
+                "ipa": "pir",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pear",
+                "ipa": "per",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parr",
+                "ipa": "por",
+                "pos": "X"
+            },
+            {
+                "word": "pare",
+                "ipa": "per",
+                "pos": "X"
+            },
+            {
+                "word": "pore",
+                "ipa": "por",
+                "pos": "X"
+            }
+        ]
+    },
+    {
+        "Pun_word": "कोच",
+        "Pun_word_ipa": "kot͡ʃ",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "coach",
+                "ipa": "kot͡ʃ",
+                "pos": "NOUN"
+            },
+            {
+                "word": "koch",
+                "ipa": "kot͡ʃ",
+                "pos": "NOUN"
+            },
+            {
+                "word": "kutch",
+                "ipa": "kat͡ʃ",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "Pun_word": "पेट",
+        "Pun_word_ipa": "pet",
+        "Pun_word_pos": "NOUN",
+        "Alternate_word": [
+            {
+                "word": "put",
+                "ipa": "put",
+                "pos": "X"
+            },
+            {
+                "word": "pet",
+                "ipa": "pet",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pot",
+                "ipa": "pot",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pitt",
+                "ipa": "pit",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pit",
+                "ipa": "pit",
+                "pos": "NOUN"
+            },
+            {
+                "word": "putt",
+                "ipa": "pat",
+                "pos": "X"
+            },
+            {
+                "word": "peat",
+                "ipa": "pit",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

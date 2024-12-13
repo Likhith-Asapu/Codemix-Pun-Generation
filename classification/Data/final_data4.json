@@ -1,0 +1,2557 @@
+[
+    {
+        "text": "I told my friend to hold on to the keys, and he replied, \"कुछ नहीं, बस इन्हें कीप कर लो\"!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 251
+    },
+    {
+        "text": "When you step into the royal ख़ानदान, you know you're in for a grand महल!",
+        "label": 0,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 253
+    },
+    {
+        "text": "The garden was so beautifully green, it was a लाश paradise!",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 259
+    },
+    {
+        "text": "The judge was so impressed by the businessman's cunning ways that he said, \"चलो, सूद karo, you've earned it!\"",
+        "label": 2,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 270
+    },
+    {
+        "text": "Whenever I can't find my things, I just chant \"समान, समान, where are you?\" and hope they समन soon!",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 1.0,
+        "id": 274
+    },
+    {
+        "text": "When the thief sat on the explosion, he ended up with a बम बम situation on his बम!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 2.0,
+        "id": 275
+    },
+    {
+        "text": "Why did the student carry a measuring tape in the बस? Because he wanted to measure the बस fare!",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 277
+    },
+    {
+        "text": "When I asked for a discount on the saree, the shopkeeper said, \"Sorry, no छिप thrills here, only quality.\"",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 279
+    },
+    {
+        "text": "I asked my friend for a cold drink, he offered me a सौदा. I guess he confused soda with सौदा!",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 4.0,
+        "id": 292
+    },
+    {
+        "text": "My गत feeling is that my dad's dad joke game needs a lot of work.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 2.0,
+        "id": 295
+    },
+    {
+        "text": "My friend finds eating दाल quite दुल्ल, but I think it's souper tasty!",
+        "label": 2,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 303
+    },
+    {
+        "text": "When the villain started singing, the hero said, \"यह गान का समय नहीं है, बल्लेबाज़ी का समय है!\"",
+        "label": 2,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 305
+    },
+    {
+        "text": "When the Bollywood villain enters, you know there's going to be some serious धूम and डूम!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 309
+    },
+    {
+        "text": "I always tell my friends, \"Don't mess with माँ, unless you want to see your घर turn into a candle factory!\"",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 312
+    },
+    {
+        "text": "Let's pack our bags and head to the बिछ, I need some vitamin सी (sea)!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 314
+    },
+    {
+        "text": "I asked the sculptor how he was feeling today. He said, \"Carving out a new statue - my मुड़ is good!\"",
+        "label": 2,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 318
+    },
+    {
+        "text": "When Hanuman wanted to renovate his house, he said, \"I need a strong भीम to support the roof, not just any random beam!\"",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 321
+    },
+    {
+        "text": "I was walking in the garden when suddenly एक swarm of बीस attacked me. It was definitely not a sweet honey experience!",
+        "label": 2,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 324
+    },
+    {
+        "text": "My pen fell in my tea again. Ab main kya karu? Lick karu ya लिख karu?",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 327
+    },
+    {
+        "text": "If it walks like एक डक्, quacks like बतख, it must be a bed.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 332
+    },
+    {
+        "text": "The mathematician kept his calculations नीत and organized - because for him, tidiness was a matter of नीत-i.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 333
+    },
+    {
+        "text": "I was lying on the bed when suddenly I got खोट by my mom for not doing my chores!",
+        "label": 2,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 338
+    },
+    {
+        "text": "While playing cricket, the bowler kept bowling wide balls. The batsman said, \"अबे, तीस करके तो देख भाई!\"",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 339
+    },
+    {
+        "text": "When the bridge started to collapse, everyone decided to नहा नहा ke चला गया, because they didn't want to पुल their arms out of their sockets!",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 1.0,
+        "id": 351
+    },
+    {
+        "text": "I asked my नारी friend if she likes peas. She said, \"मुझे फोड़ी नहीं पसंद, I prefer peas in a पॉड!\"",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 356
+    },
+    {
+        "text": "When the wife saw her husband arranging the garden in straight lines, she said, \"सब गीत under the rows, मेरा garden क्यों है in रोष?\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 359
+    },
+    {
+        "text": "Why did the बिल्ली cross the road? To prove it wasn't a scaredy-धाक!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 368
+    },
+    {
+        "text": "Seeta ने boli, \"Ram, when will this boring रथ end?\" Ram replied, \"When we break the rut, Seeta.\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 369
+    },
+    {
+        "text": "Why did the bank give loan to the bear? Because he had a great हिमालय देन!",
+        "label": 2,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 374
+    },
+    {
+        "text": "Chess खेलते समय, queen कहती है, \"तुम्हें मेरी रणनीति से कोई chance नहीं मिलेगा, तुम मुझसे कबकर mate करोगे?\" कहता है रुक!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 378
+    },
+    {
+        "text": "I was walking in the rain and slipped on some मद... now I'm covered in mud!",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 380
+    },
+    {
+        "text": "When eagles fly high, they don't just soar, they ज़ोर through the sky!",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 381
+    },
+    {
+        "text": "My friend who loves to dance always carries a bag.. he is a jolly झोली wala!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 382
+    },
+    {
+        "text": "Woh letter kaise बंद hua? Usne वहाँ सिल किया था।",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 388
+    },
+    {
+        "text": "I heard the husband call his strong wife 'बीवी' because she was so beefy!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 389
+    },
+    {
+        "text": "When the छोटी सब्जियों start a fight, it's all just पेटी drama.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 390
+    },
+    {
+        "text": "That mosquito ने जब मेरे कान में बायना दिया, तो मेरे दिमाग में उसका बास फैल गया!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 391
+    },
+    {
+        "text": "When the groom with a good smile entered the room, everyone whispered, \"Oh look, a jawed जोड़!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 1.0,
+        "id": 393
+    },
+    {
+        "text": "If you're feeling low, just listen to your favourite song aur sab kuch दब jayega, everything will दब-dub!",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 1.0,
+        "id": 394
+    },
+    {
+        "text": "When the shopkeeper asked the customer how many candies he wants, the customer replied, \"Give me a quick थोक before I take a टोक!\"",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 396
+    },
+    {
+        "text": "I don't trust stairs...they're always up to something, कहीं किसी सीधी चाल में!",
+        "label": 2,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 397
+    },
+    {
+        "text": "When the coin fell on the floor, I had to निगल my pride and pick up that nickel!",
+        "label": 2,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 398
+    },
+    {
+        "text": "That guy always falls for फूल pranks. He's a complete fool!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 401
+    },
+    {
+        "text": "Why did the mouse go to the चीज़ shop? Because it heard they had great deals on चीज़ (cheese)!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 404
+    },
+    {
+        "text": "My favorite herb is तिल because it adds a lot of रुचि (flavor) to my food. It's like a party for my taste buds, full of dill-ight!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 408
+    },
+    {
+        "text": "When the archer went to the bakery, he asked for a special arrow-shaped bread. The baker said, \"Sorry, we don't have बाण buns here!\"",
+        "label": 0,
+        "funniness": 2.0,
+        "acceptability": 2.0,
+        "id": 409
+    },
+    {
+        "text": "I found a बाग़ in the code, looks like a sneaky bug!",
+        "label": 2,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 412
+    },
+    {
+        "text": "I told my friend to sit down on the plate, and he thought I said, \"भात लेट\" instead of \"butt, let\"!",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 417
+    },
+    {
+        "text": "I have heard that the ghost opened a small shop at the haunted place. He named it \"बुत\"-haha...हence proved ghost also needs a booth!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 418
+    },
+    {
+        "text": "The farmer proudly said, \"I have सोन the seeds of success in my fields!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 424
+    },
+    {
+        "text": "Why did the fruit blush? Because it saw the apple से पीछ।",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 425
+    },
+    {
+        "text": "The sailors were tired after they had झील में rowed all day. Their sore muscles surely had a रोड़ to recovery!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 429
+    },
+    {
+        "text": "Whenever I climb a steep slope, I always end up feeling थकी. It's a hilly-ing experience!",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 431
+    },
+    {
+        "text": "Why did the pig get lost in the forest? Because it was a bored boar - क्योंकि वह एक बौर boar था।",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 435
+    },
+    {
+        "text": "My friend gifted me a सोने की गुड़ी, I guess I'm in for a sweet goody-two-shoes surprise!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 436
+    },
+    {
+        "text": "Don't वहम about the quality of the soil, let it be a मल point to consider before jumping to any conclusions.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 437
+    },
+    {
+        "text": "When the eagle heard the latest gossip, it spread like wildfire in the jungle. Everyone was बाज़-ing about it!",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 439
+    },
+    {
+        "text": "I told my friend, \"आजकल I feel like a lazy स्लोथ. I can't seem to find the right स्लोथ for my schedule.\"",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 441
+    },
+    {
+        "text": "I was so angry when my blender stopped working, I wanted to पीस it off and throw it out the window!",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 443
+    },
+    {
+        "text": "My friend asked me, \"भाई, तेरे पास बहुत सारे clothes हैं। कहाँ रखा है उनका प्लेस?\" I replied, \"Oh, उनकी राख शाख है।\"",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 444
+    },
+    {
+        "text": "When the baker asked for money, the customer said, \"I don't have any ढो, will you accept card?\"",
+        "label": 2,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 445
+    },
+    {
+        "text": "My friend always loses his हर दिन keys. I think it's because he's too चाबी!",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 446
+    },
+    {
+        "text": "Why did the road take a turn? Because it wanted to add a नया mod to its style!",
+        "label": 0,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 449
+    },
+    {
+        "text": "The actress's beauty was enough to स्तन the audience into silence.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 454
+    },
+    {
+        "text": "My friend is so फीकी about food, he's always so झिझकी before trying anything new.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 462
+    },
+    {
+        "text": "I asked my friend, \"Why do you spoil your dog so much?\" He replied, \"Well, it's my पापी love!\" 🐶",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 464
+    },
+    {
+        "text": "I was feeling cold, so I picked up my खोट to stay warm, but all it did was cloak me in disappointment.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 466
+    },
+    {
+        "text": "When the family gathers for a picnic, it's always a गिन-kin party!",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 468
+    },
+    {
+        "text": "I asked my friend to move out of the small shelter, to which he replied, \"हट, I prefer living in a hut!\"",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 470
+    },
+    {
+        "text": "I prefer desserts over protein, so I find खाने में मीठी dishes more appealing than meaty ones.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 473
+    },
+    {
+        "text": "Why did the छोटा chemist have a pet अणु? Because he needed a मोल to keep things in balance!",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 478
+    },
+    {
+        "text": "When the farmer's cow ate all the peas, he said, \"Arey yaar, cow ne sabhi peas को फोड़ डाला!\"",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 482
+    },
+    {
+        "text": "When the भीगी billiards ब्लंकेट had to go on stage, it needed a good क्यू to start the show.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 484
+    },
+    {
+        "text": "I asked the gardener how the plants grow so well, He said, \"क्योंकि I give them lots of love and water them every day. पौधों में प्यार बढ है!\"",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 486
+    },
+    {
+        "text": "The cute बौनी lass was known for her bonny smile.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 494
+    },
+    {
+        "text": "I asked my friend why he loves seafood so much. He replied, \"Lob लोभ!\" 🦞",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 496
+    },
+    {
+        "text": "Why did the mango tree need pruning? Kyunki usne decide nahi kiya ki \"To दू or not to दू.\"",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 498
+    },
+    {
+        "text": "I was feeling board, then I nailed it with a pun: \"कील\" me softly.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 1.0,
+        "id": 499
+    },
+    {
+        "text": "मैंने उस नए football ground पर दौड़ लगाई, ab mera schedule hamesha पिसी rehta hai.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 854
+    },
+    {
+        "text": "उसने अपने collectibles exhibition में sold किए और एक unique bird बिक प्राप्त की।",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 860
+    },
+    {
+        "text": "मुझे लगा कि उसने वो fridge को खोला, but all he wanted was a can of chilled खोला.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 864
+    },
+    {
+        "text": "उन्होंने एक social welfare policy बनाई है, जो समाज को आपस में नीत करने का प्रयास करती है।",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 866
+    },
+    {
+        "text": "वो dark room mein enter karne se darta hai, aur uske dil mein woh fear feel hoti hai jaise ek shadow धाक ke paas aa rahi ho.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 868
+    },
+    {
+        "text": "वह अपनी frustration को vent करने के लिए apne room में एक new राग की खोज में निकल पड़ा।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 870
+    },
+    {
+        "text": "उसकी sulking की परेशानी को समझना था, par ab usne realize kiya ki रूठ ke bina woh aage nahi badh sakta.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 876
+    },
+    {
+        "text": "पिकनिक के लिए उसने कुछ items लिए, जिनमें से एक पर मद लगा हुआ था।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 880
+    },
+    {
+        "text": "उसके creative ideas पर emphasis करने से, the project began to ज़ोर with success.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 881
+    },
+    {
+        "text": "उसने उस colourful bag को देखकर खुशी से झूम उठा, feeling झोली about the vibrant design.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 882
+    },
+    {
+        "text": "मुझे spicy food का taste बहुत पसंद है, but sometimes it's nice to चख things up.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 884
+    },
+    {
+        "text": "मेरे दादाजी ने हर रोज़ barley roti खाने की सलाह दी, as it's good for जौ health.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 886
+    },
+    {
+        "text": "उसकी wife के बालक का एक muscular and बीवी build है।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 889
+    },
+    {
+        "text": "उसकी पहचान उसके bravery से होती है, not by being a coward भेल.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 900
+    },
+    {
+        "text": "वहने garden में एक खूबसूरत red rose flower देखकर, खुशी से झूम उठा, lekin it turned out to be a plastic फ़ूल.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 901
+    },
+    {
+        "text": "मुझे नयी चीज़ try करना पसंद है, but a classic grilled चीज़ sandwich always hits the spot.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 904
+    },
+    {
+        "text": "मुझे देखकर, उसने animated video बनाकर उसमें dancing बनी डाला।",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 905
+    },
+    {
+        "text": "उसने एक delicious cake make किया, with a layer of sliced बनाना.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 906
+    },
+    {
+        "text": "उसने सौ bite मारी थी, but a gentle knock के बाद वह एक peaceful ठोक करने चली गई।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 911
+    },
+    {
+        "text": "उसने अपने छोटे से garden में कई different types के plants लगाए, lekin ab ek stubborn बाग़ un sabko destroy kar raha hai.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 912
+    },
+    {
+        "text": "उसने एक fence नहीं, बल्कि ek beautiful hedge बनाई है, creating a cozy space for his बाड़ी.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 913
+    },
+    {
+        "text": "उसके वक्ष पर ek mole होने के कारण, वहने always chooses तिल tops.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 914
+    },
+    {
+        "text": "उसने उसकी cheek पर gentle kiss दिया, making her blush like a shy गाल.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 916
+    },
+    {
+        "text": "उसका pent-up anger उसे impulsive कर दिया, resulting in a loud क्रोध.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 919
+    },
+    {
+        "text": "usne apne athletic skills dikhakar apne muscles se sabko impress kiya, lekin apne emotions ko 'मसल' karne mein asafal raha.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 926
+    },
+    {
+        "text": "जब उसकी turn आई तो वह garden की घास बहुत तेज़ी से मोड़ कर दी।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 927
+    },
+    {
+        "text": "उसके परिवार ने उस town से दूसरे city में moved, closer to the हिली regions.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 1.0,
+        "id": 931
+    },
+    {
+        "text": "उसने देखा कि उसके ओस्टर से pearls की beauty स्लोव्ली सीप कर रही है।",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 933
+    },
+    {
+        "text": "एक अज्ञात व्यक्ति ने सड़क पर फेंके हुए waste से लोगों को बहुत सोचने पर मजबूर किया, leaving the citizens to मल over the civic sense in society.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 937
+    },
+    {
+        "text": "स्लोथh ने उसके favorite tree पर अपना sleep स्लोथ choose किया है।",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 941
+    },
+    {
+        "text": "उसने अपने exams की तैयारी में grind किया, but the pressure made him पीस off.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 943
+    },
+    {
+        "text": "वो घर के लिए ताज़ा roti ढो को carry कर रहा था।",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 945
+    },
+    {
+        "text": "उसने अपने car की key ढूंढ़ी, and found it tucked inside a चाबी toy elephant on his desk.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 946
+    },
+    {
+        "text": "हर बार सामने से गुज़रते हुए सोचता हूँ, \"why is the क्यू longer today than yesterday?\"",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 953
+    },
+    {
+        "text": "महीनों की mehnat और patience के बाद, finally the hunter spotted the धीर.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 956
+    },
+    {
+        "text": "उसने अपने दोस्त के fault को cover करने के लिए उसकी खोट उधेरी।",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 966
+    },
+    {
+        "text": "जब उसे अच्छा सा chance मिला, he was too scared to take it and faced the मौकing of his friends.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 967
+    },
+    {
+        "text": "उस बजार की hustle-bustle से thak kar, वह ek cozy tea हाट me baitha.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 969
+    },
+    {
+        "text": "उसकी fetish है leather बुतs और वह हर नए pair के साथ confident लगती है।",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 971
+    },
+    {
+        "text": "उसने अपने goals के लिए हर कठिनाई endured, जैसे कोई झेली को chopsticks से hold करता है।",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 972
+    },
+    {
+        "text": "हर celebration पर, उसके माउथ में एक sweet taste होता है, followed by a मीठी treat.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 973
+    },
+    {
+        "text": "वह एक big project पर काम कर रहा है, जिससे नए opportunities के बड़s खिल रहे हैं।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 974
+    },
+    {
+        "text": "उसने रात के dinner के बाद भारी भोजन किया, जिसने उसकी थमी को stopped कर दिया।",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 980
+    },
+    {
+        "text": "उसने अपनी hands को rub करके ganda dust clean किया, before facing the रगड़ journey ahead.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 983
+    },
+    {
+        "text": "वह रोज़ समय पर नहीं पहुँचता, why is punctuality always a missed क्यू?",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 984
+    },
+    {
+        "text": "उसके confidence में वृद्धि की गई, leading to creative ideas के बढding.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 986
+    },
+    {
+        "text": "जब उसकी car बीच रास्ते में stop हुई, तो वह एक black रूक को देखा।",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 990
+    },
+    {
+        "text": "सोमवार को उन्होंने अपने gully cricket team के साथ एक match khela, and they जोड़ about the game for hours.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 993
+    },
+    {
+        "text": "व्यापार में सफलता की greed ने उसे धोखा दिया, leaving him with a bitter लोभ to handle.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 996
+    },
+    {
+        "text": "उसने suddenly apna behavior change कर दिया, and everyone noticed how मुड़ी he had turned.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 997
+    },
+    {
+        "text": "मेरे दोस्त ने मुझे रातों रात काम पर मदद की, ab i am thinking kya main bhi kuch aisa दू for him.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 998
+    },
+    {
+        "text": "What do you call the feeling जब सब कुछ simple और साफ़ हो?\nA sense of इस",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1004
+    },
+    {
+        "text": "What do you call a carefully cooked अकेली चीज़?\nA boiled एक",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1007
+    },
+    {
+        "text": "What do you call a task जो बिल्कुल तुम्हारे सामने हो?\nइसी task",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1008
+    },
+    {
+        "text": "What do you call a huge pile जो दूर बैठा है?\nOver ढेर",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1011
+    },
+    {
+        "text": "What do you call a loving समझौता?\nA sweet दिल",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1012
+    },
+    {
+        "text": "What do you call a fleet of उड़ने वाली औरतें?\nA group of विमान",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1015
+    },
+    {
+        "text": "What do you call a नया शुरुआत का 24 घंटे?\nThe new दिन",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1017
+    },
+    {
+        "text": "What do you call it जब तुम अपना काम तुरंत नाव देते हो?\nDo it नाव",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1018
+    },
+    {
+        "text": "What do you call it जब एक task तुम्हें दौलतमंद बना देता है?\nAll धन",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1019
+    },
+    {
+        "text": "What do you call it जब आप totally शांत रहना चाहते हो?\nStay कुल",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1023
+    },
+    {
+        "text": "What do you call it जब तुम्हे एक लाख की fortune मिलती है?\nGood लाख",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1027
+    },
+    {
+        "text": "What do you call a धागा जो तीन हिस्सों में बटा हुआ है?\nAs तीन as a thread",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1029
+    },
+    {
+        "text": "What do you call a stylish नंबर जो दो के बाद आता है?\nA cool तीन",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 4.0,
+        "id": 1030
+    },
+    {
+        "text": "What do you call a समूह जो बेहोश हो गए हैं?\nA fallen लोग",
+        "label": 0,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1031
+    },
+    {
+        "text": "What do you call a hectic day at the बाजार?\nA busy मंडी",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1038
+    },
+    {
+        "text": "What do you call it जब मेरी पास एक छोटा पालतू मेम्ना है?\nमेरी had a little lamb",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1039
+    },
+    {
+        "text": "What do you call it जब कोई financial investment बहुत सफल बन जाता है?\nA big हित",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1040
+    },
+    {
+        "text": "What do you call it जब आप किसी को उनकी कुशलता की कामना करते हैं?\nTake ख़ैर",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1043
+    },
+    {
+        "text": "What do you call it जब कोई अचानक से गाना शुरू कर दे?\nThrow the बोल",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1044
+    },
+    {
+        "text": "What do you call it जब आप किसी को कमी के समय कुछ offer करते हैं?\nRunning लो on supplies",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1045
+    },
+    {
+        "text": "What do you call a large gathering किसी नीलामी पर?\nA high भीड़",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1053
+    },
+    {
+        "text": "What do you call a किताब जो हमेशा सही हो?\nA ठीक book",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1054
+    },
+    {
+        "text": "What do you call a precise fold जो अंत तक रहता है?\nA neat तक",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1056
+    },
+    {
+        "text": "What do you call an interesting craving?\nAn interesting भूख",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1060
+    },
+    {
+        "text": "What do you call a साफ दृश्य?\nA clean देख",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1061
+    },
+    {
+        "text": "What do you call a sturdy structure जो दो जगहों को जोड़ता है?\nA strong पुल",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1064
+    },
+    {
+        "text": "What do you call a restaurant जहां menu तय है?\nA तय restaurant",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1068
+    },
+    {
+        "text": "What do you call a powerful तरीका?\nMighty तौर",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 4.0,
+        "id": 1069
+    },
+    {
+        "text": "What do you call it जब वह बिना झिझक अपनी राय रखती है?\nShe टूक a stand",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1071
+    },
+    {
+        "text": "What do you call an amazing आराम का समय?\nA great ढील",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1072
+    },
+    {
+        "text": "What do you call the बोल of a melodious tune?\nA singing बोल",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1074
+    },
+    {
+        "text": "What do you call counting up to दस miles?\nदस far",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1078
+    },
+    {
+        "text": "What do you call a breeze जो refreshing और खुला लगता है?\nA खुल breeze",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1080
+    },
+    {
+        "text": "What do you call भोजन का केंद्र?\nAt the कौर",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 4.0,
+        "id": 1085
+    },
+    {
+        "text": "What do you call a nighttime greeting जो सवाल पूछता है?\nA goodnight किस",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 4.0,
+        "id": 1086
+    },
+    {
+        "text": "तुम एक बैल जो पहनती है उसे क्या कहते हो?\nA cool गाय",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1087
+    },
+    {
+        "text": "What do you call बेटी का नया dress जिसका नाम Betty है?\nबेटी's new dress",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1090
+    },
+    {
+        "text": "What do you call it जब एक यौद्धा exercise के लिए बाहर जाता है?\nHe went for a रण",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1094
+    },
+    {
+        "text": "What do you call it जब तुम बुद्धि हासिल करना चाहते हो?\nसीख knowledge",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1095
+    },
+    {
+        "text": "What do you call a challenge जो हमेशा देर से आता है?\nA difficult देर",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1096
+    },
+    {
+        "text": "What do you call a गाय जो जाने के लिए तैयार है?\nReady to गौ",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1097
+    },
+    {
+        "text": "What do you call a खुश पेट?\nA happy पेट",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1098
+    },
+    {
+        "text": "What do you call a vessel की स्थिति?\nThe ship's हाल",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1099
+    },
+    {
+        "text": "What do you call it जब तुम सालों बाद haircut लेने जाते हो?\nA visit to the सालों",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1100
+    },
+    {
+        "text": "What do you call the bag जो पीठ अपनी पीठ पे ले जाता है?\nपीठ's backpack",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1105
+    },
+    {
+        "text": "What do you call someone जो आम से डेढ़ गुना ज़्यादा थका हुआ है?\nडेढ़ tired",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1107
+    },
+    {
+        "text": "What do you call a जगह जो बार-बार लोगों से भरी होती है?\nA crowded बार",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1108
+    },
+    {
+        "text": "What do you call a स्वादिष्ट bread जो shape बदलता है?\nA tasty बन",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 4.0,
+        "id": 1109
+    },
+    {
+        "text": "What do you call a spicy ब्रेक?\nA hot तोड़",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 4.0,
+        "id": 1110
+    },
+    {
+        "text": "What do you call a बातचीत जिसमें कुछ ठोकने शामिल है?\nLet's have a ठोक",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1111
+    },
+    {
+        "text": "What do you call a community जो safe और secure है?\nA secure लोक",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1112
+    },
+    {
+        "text": "What do you call a सही उत्तर जो पेपर पर मार्क किया गया हे?\nA correct ठीक",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 1.0,
+        "id": 1113
+    },
+    {
+        "text": "What do you call an unexpected moment of दुःख?\nA sudden शोक",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1114
+    },
+    {
+        "text": "What do you call a नीरस खिलाड़ियों का समूह?\nA दल team",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 1.0,
+        "id": 1115
+    },
+    {
+        "text": "What do you call a photograph of a family जो बिक जाती है?\nA family बिक",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1117
+    },
+    {
+        "text": "What do you call it जब तुम एक डोरी खोलते हो किसी को अंदर आने के लिए?\nOpen the डोर",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1118
+    },
+    {
+        "text": "What do you call a बहुत महँगी mistake?\nThat's really दाम",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1120
+    },
+    {
+        "text": "What do you call a muscle जो बहुत ही दृढ़ हो?\nStrong तय",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1121
+    },
+    {
+        "text": "What do you call it जब पेय का समय हो?\nTime to पेय",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 4.0,
+        "id": 1122
+    },
+    {
+        "text": "What do you call a chiropractor का worst nightmare?\nA bottomless पीठ",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1124
+    },
+    {
+        "text": "What do you call it जब तुम अंत में अपने खोल से बाहर आते हो?\nAchieve your खोल",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1125
+    },
+    {
+        "text": "What do you call a idea जिसमे बहुत ताकत हो?\nA दम idea",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1126
+    },
+    {
+        "text": "What do you call a नया हाथ का accessory?\nA new हाथ",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 4.0,
+        "id": 1128
+    },
+    {
+        "text": "What do you call it जब एक actor महान भाव के साथ bow लेता है?\nTake a भाव",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1129
+    },
+    {
+        "text": "What do you call it जब तुम एक और चुनौतीपूर्ण situation face कर रहे हो?\nAn अगली situation ",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1130
+    },
+    {
+        "text": "What do you say जब तुम्हे एक different दिशा लेनी हो?\nSwitch to a different मोड़",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1131
+    },
+    {
+        "text": "What do you say जब किसीको अनपेक्षित नया शौक मिल गया हो?\nWhat a शौक!",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1132
+    },
+    {
+        "text": "What do you call a speedy conversation छत पर?\nA quick छत",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1133
+    },
+    {
+        "text": "What do you call a particularly उज्ज्वल साल?\nThe bright सन्",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 4.0,
+        "id": 1134
+    },
+    {
+        "text": "What do you call a large भीड़ जो auction में जमा हो?\nA high भीड़",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1136
+    },
+    {
+        "text": "What do you call supporting एक political नीति?\nHelping the नीति",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1138
+    },
+    {
+        "text": "What do you say when you're requesting एक लिफाफा तुमारे पास आने के लिए?\nPlease खाम here",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1140
+    },
+    {
+        "text": "What do you call a sharpshooter जो soccer खेलता है?\nA skilled गोली",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1142
+    },
+    {
+        "text": "What do you call it जब एक आदेश पूरे दुनिया पे थोप दिया जाता है?\nOn थोप of the world",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1145
+    },
+    {
+        "text": "What do you call a celebration जो मेरे लिए खास हो?\nA मेरी celebration",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1148
+    },
+    {
+        "text": "What do you call an amazing घटनाओं का फेर?\nA great फेर",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1149
+    },
+    {
+        "text": "What do you call it जब तुम एक मृत शरीर को धक्का देते हो?\nGive a शव",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1150
+    },
+    {
+        "text": "What do you call a tune जो आपके दिमाग में अटक जाती है?\nA catchy गीत",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1153
+    },
+    {
+        "text": "What do you call it जब आप supplies बुलाते हो instead of assistance?\nTo सामान help",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1155
+    },
+    {
+        "text": "What do you call a ball जो हमेशा अपना संतुलन बनाए रखती है?\nA बाकी ball",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1156
+    },
+    {
+        "text": "What do you call a regular reminder of your गलतियाँ?\nA daily दोष",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1157
+    },
+    {
+        "text": "What do you call a बहुत छोटा बगीचा?\nA tiny बाग",
+        "label": 0,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1160
+    },
+    {
+        "text": "What do you call it जब आपके पेट में बवाल होता है?\nबवाल movement",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1161
+    },
+    {
+        "text": "What do you call a letter जो कागज से बना हो?\nA paper ख़त  ",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1164
+    },
+    {
+        "text": "What do you call a scene जो हर कोई गौर करता है?\nA गौर scene",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1165
+    },
+    {
+        "text": "What do you call it जब तुम free time का use कील ठokने के लिए करते हो?\nTime to कील",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1166
+    },
+    {
+        "text": "What do you call it जब तुम्हें तुम्हारी भलाई के लिए perks मिलते हैं?\nहित benefits",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1167
+    },
+    {
+        "text": "What do you call a blanket जो आपको गर्मी की बजाय ठंडक देता है?\nA warm शीत",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1168
+    },
+    {
+        "text": "What do you call a गुलदस्ता जिसमें प्यार भरा हो?\nA bunch of दिल",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1169
+    },
+    {
+        "text": "What do you call a खिलौना जो गणना करता है?\nA toy गण",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1170
+    },
+    {
+        "text": "What do you call a flawless ठोस फेंक?\nA perfect ठोस",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1171
+    },
+    {
+        "text": "What do you call a चीज़ जो टुकड़ों में कटी है?\nA slice of चीज़",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1172
+    },
+    {
+        "text": "What do you call your toes जब वे ठंड में ठोस हो जाते हैं?\nMy freezing ठोस",
+        "label": 2,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1173
+    },
+    {
+        "text": "What do you call a disorganized pile जिसे कोई रखने पर जोर देता है?\nA messy रख",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1175
+    },
+    {
+        "text": "What do you call it जब आपकी flight मोड़ लेती है?\nSwitch to airplane मोड़",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1176
+    },
+    {
+        "text": "What do you call a mailman जो पीला पहनता है?\nA yellow डाक",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1177
+    },
+    {
+        "text": "What do you call really ठंडा मौसम जो unpleasant हो?\nThis is bad शीत",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 2.0,
+        "id": 1179
+    },
+    {
+        "text": "What do you call it जब तुम अपने डर को अलविदा कहते हो?\nSay भय",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1180
+    },
+    {
+        "text": "What do you call a bed जो कागज से बना हो?\nA paper खाट",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1182
+    },
+    {
+        "text": "What do you call it जब आप भीड़ देखते हैं?\nTake a लोक",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1184
+    },
+    {
+        "text": "आप इसे क्या कहते हैं जो आपकी पीठ के लिए बना है?\nA bed of पीठ",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1185
+    },
+    {
+        "text": "What do you call moving forward जब तुम नाव का use नहीं करते हो?\nपैदल your way",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 2.0,
+        "id": 1186
+    },
+    {
+        "text": "What do you call an attractive लोगों की भीड़?\nA beautiful भीड़",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1187
+    },
+    {
+        "text": "What do you call a sneaky काम घर पर?\nA household चोर",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 2.0,
+        "id": 1189
+    },
+    {
+        "text": "What do you call something जो मीठा है पर हानि दिलाता है?\nSweet as हानि",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1190
+    },
+    {
+        "text": "What do you call the favorite path जब कोई रूठ रहा हो?\nThe best रूठ",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1191
+    },
+    {
+        "text": "What do you call it जब कोई यात्रा करते समय असाधारण कौशल दिखाता है?\nDisplaying great प्रवास",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 2.0,
+        "id": 1194
+    },
+    {
+        "text": "What do you call it जब तुम गेंद को गोल net में मारते हो?\nScoring a गोल",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1195
+    },
+    {
+        "text": "What do you call it जब धूप आपको गर्मी का एहसास दिलाती है?\nA clever धूप",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1200
+    },
+    {
+        "text": "What do you call a beautifully decorated ढोल?\nA pretty ढोल",
+        "label": 2,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1202
+    },
+    {
+        "text": "What do you call a small piece of एक व्यवस्थित प्रणाली का?\nA tiny क्रम",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 2.0,
+        "id": 1204
+    },
+    {
+        "text": "What do you call it जब तुम अपने लॉन को कुछ नया बनाते हो?\nA freshly मोड़ lawn",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1205
+    },
+    {
+        "text": "What do you call a miniature representation of a बस्ती?\nA बस्ती model",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1206
+    },
+    {
+        "text": "What do you call a throat में डरावना sensation?\nI have a bad ख़ौफ़",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1209
+    },
+    {
+        "text": "What do you call it जब मौत रोशनी में आता है?\nA मौत in the light",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1210
+    },
+    {
+        "text": "What do you call a छोटा shelter जो हाथों से बना हो?\nA small हाथ",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1211
+    },
+    {
+        "text": "What do you call a container जो कुकीज पे जोर देता है?\nA cookie जोर",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1212
+    },
+    {
+        "text": "What do you call a martial arts class जिसकी schedule तय होती है?\nA तय chi class",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1213
+    },
+    {
+        "text": "What do you call a short pause जो तुम्हे लाल दिखाता है?\nA brief लाल",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1214
+    },
+    {
+        "text": "What do you call a surprising जगह जो आपको अचंभित कर दे?\nA shocking स्थान",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1215
+    },
+    {
+        "text": "What do you call it जब एक तिल कल तक सोता रहे?\nWait तिल tomorrow",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1218
+    },
+    {
+        "text": "What do you call a damaged लेख?\nA broken लेख",
+        "label": 2,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1219
+    },
+    {
+        "text": "What do you call a beautiful woman जो पहले beautiful होती थी?\nShe is a होती",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 1.0,
+        "id": 1220
+    },
+    {
+        "text": "What do you call the देवता of wild मवेशी?\nThe गौड़ of animals",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 2.0,
+        "id": 1224
+    },
+    {
+        "text": "What do you call it जब तुम रात में फसे होते हो?\nStuck in a रात",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1227
+    },
+    {
+        "text": "What do you call एक छोटी सी ताल में संगीत?\nA little लय",
+        "label": 2,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1228
+    },
+    {
+        "text": "What do you call a journey जिसमें आप कुछ हासिल करते हैं?\nA trip to ले",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1229
+    },
+    {
+        "text": "What do you call it जब आप जहाज को स्थिर रखते हैं?\nस्थिर the ship",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1230
+    },
+    {
+        "text": "What do you call it जब आप अब भी सफाई के बारे में सोच रहे हैं?\nEven धो",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1231
+    },
+    {
+        "text": "What do you call तुम्हारे बोहोत बड़े दोस्त?\nMy best बड़ी",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1233
+    },
+    {
+        "text": "What do you call a powerful गलती?\nA strong भूल",
+        "label": 2,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1234
+    },
+    {
+        "text": "What do you call it जब एक dental mishap होता है?\nA broken टूट",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1235
+    },
+    {
+        "text": "What do you call a lifeless हिस्से of a पेड़?\nA डाल branch",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1236
+    },
+    {
+        "text": "What do you call a message जो पाइप में लिखा है?\nA लिख in the pipe",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 3.0,
+        "id": 1237
+    },
+    {
+        "text": "What do you call a precedent जो बहुत प्रभावशाली है?\nA powerful मिसाल",
+        "label": 2,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1238
+    },
+    {
+        "text": "What do you call a tutorial जिसमें सीखते है कैसे डर manage करना है?\nLearn to खौफ",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1240
+    },
+    {
+        "text": "What do you call a सीधा-सादा रूप?\nA simple रूप",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1242
+    },
+    {
+        "text": "What do you call a group of imaginative लोग?\nA creative लोगो",
+        "label": 2,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1245
+    },
+    {
+        "text": "What do you call it जब तुम एक खास पेय के लिए यात्रा करते हो?\nAcross the पेय",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1246
+    },
+    {
+        "text": "What do you call a baby animal जो हमेशा सवाल पूछता है?\nA playful कब",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1247
+    },
+    {
+        "text": "What do you call figuring out कैसे उत्तम फसल उगाना है?\nSolving a फसल",
+        "label": 1,
+        "funniness": 4.0,
+        "acceptability": 3.0,
+        "id": 1248
+    },
+    {
+        "text": "What do you call a damaged boat paddle जो एक ओर को steer करता है?\nA broken ओर",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1249
+    },
+    {
+        "text": "The प्रकृति प्रेमी राजा invited everyone to his grand माहौल.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1753
+    },
+    {
+        "text": "The मेहनती छात्रा just wanted to lie down in her भेद.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1754
+    },
+    {
+        "text": "The भयभीत सफाईकर्मी wasn't a मौत of dust on the sculpture.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1757
+    },
+    {
+        "text": "The समाज सुधारक wore a beautiful necklace around her नेक.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1760
+    },
+    {
+        "text": "The उत्सुक छात्र wanted to hear his टोक on success.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1764
+    },
+    {
+        "text": "The धूप में चलने वाले यात्री's muscles were सौर after the long hike.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1773
+    },
+    {
+        "text": "The सुस्त आदमी was sitting on the bench like a बम all day.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 2.0,
+        "id": 1775
+    },
+    {
+        "text": "The जन्मदिन का लड़का got the gift खास it was his birthday.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 1.0,
+        "id": 1776
+    },
+    {
+        "text": "The थकी हुई छात्रा decided to take the बस home.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1777
+    },
+    {
+        "text": "The व्यापारी के लाभ results were crucial for the research.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1780
+    },
+    {
+        "text": "The किसान का हल was damaged in the storm.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1782
+    },
+    {
+        "text": "The पुराने फोन की battery was completely डेढ after extensive use.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1783
+    },
+    {
+        "text": "The बाढ़ग्रस्त गाँव remained पूर despite the efforts.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1787
+    },
+    {
+        "text": "The अज्ञानी यायावर का main destination of the trip was धोखा.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1789
+    },
+    {
+        "text": "The खजाना खोजनेवाला was able to finally crack the खोद.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1796
+    },
+    {
+        "text": "The युवा छात्र spends hours watching ठीकठाक videos every day.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1797
+    },
+    {
+        "text": "The बेपरवाह सफाईकर्मी दाग up ancient artifacts from the site.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1800
+    },
+    {
+        "text": "The गुप्तचर यन्त्र was upgraded with the latest छिप.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1806
+    },
+    {
+        "text": "The समझदार ग्रहणी kept a meticulous थैली of her expenses.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1807
+    },
+    {
+        "text": "The आधुनिक प्रथाएँ were गौण with time.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1811
+    },
+    {
+        "text": "The थके हुए यात्री decided to spend their vacation at the बिछ.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1814
+    },
+    {
+        "text": "The प्यार करने वाली प्रेमिका gave him a रोज़ on Valentine's Day.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1815
+    },
+    {
+        "text": "The घुमावदार सड़क का मुड़ changed frequently throughout the day.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1818
+    },
+    {
+        "text": "The डॉक्टर gave him a जब to stop the pain.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1819
+    },
+    {
+        "text": "The आधुनिक युवा decided to शान the old traditions.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1823
+    },
+    {
+        "text": "The छत्ता was filled with बीस buzzing around.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1824
+    },
+    {
+        "text": "The अनिर्णायक बच्चा couldn’t decide which one to चूस for his project.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1826
+    },
+    {
+        "text": "The गेम डेवलपर्स worked hard to develop a new हद for the game.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1828
+    },
+    {
+        "text": "The पुराना किताब was causing problems due to its लिखी condition.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1829
+    },
+    {
+        "text": "The धार्मिक भक्त went crazy like a नाथ when he saw the surprise.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1831
+    },
+    {
+        "text": "The कंजूस व्यापारी received a letter from the दान collector.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1834
+    },
+    {
+        "text": "The बेईमान छात्र was accused of trying to चिट during the exam.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1835
+    },
+    {
+        "text": "The यात्रा ahead looked रोकी and uncertain.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1837
+    },
+    {
+        "text": "The ईमानदार शेफ made a delicious खरी for dinner.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1843
+    },
+    {
+        "text": "The भाग्यशाली प्रेमिका received a रोज़ from her admirer.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1846
+    },
+    {
+        "text": "The तेजस्वी मछली managed to finish it 10 मीन before the deadline.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1849
+    },
+    {
+        "text": "The नदी के किनारे की शांति began to पुल softly in her sleep.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1851
+    },
+    {
+        "text": "The लापरवाह कंपनी was सुध for negligence.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1852
+    },
+    {
+        "text": "The व्यवसायी took his time to माल over the decision.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1853
+    },
+    {
+        "text": "The मसाला वाला दुकानदार always felt so पिसी during the festival season.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1854
+    },
+    {
+        "text": "The बच्चों का पिकनिक was a bright and सानी day at the beach.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1855
+    },
+    {
+        "text": "The किसान's hands felt completely नम in the cold.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1857
+    },
+    {
+        "text": "The बारिश में भीगा यात्री booked an ओला cab for his daily commute.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1858
+    },
+    {
+        "text": "The exhausted mother went to थक her children into bed.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1863
+    },
+    {
+        "text": "The प्यासा व्यक्ति reached for a cold can of खोला from the fridge.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1864
+    },
+    {
+        "text": "The गणितज्ञ मास्टरशेफ cooked a delicious dish with बीस and carrots.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 4.0,
+        "id": 1865
+    },
+    {
+        "text": "The समझदार नेता decided to नीत a sweater for the winter.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1866
+    },
+    {
+        "text": "The वीर योद्धा felt stuck in a रथ and needed a change.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1869
+    },
+    {
+        "text": "The शांत संगीतकार's living room was beautifully decorated with a new राग.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1870
+    },
+    {
+        "text": "The थका-मांदा शिकारी decided to just चील over the weekend.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1872
+    },
+    {
+        "text": "The अज्ञानी कलाकार finally found his नीच in the art world.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1875
+    },
+    {
+        "text": "The ग्रामीण बच्चे were playing with मद in the garden.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1880
+    },
+    {
+        "text": "The निर्भीक नेता handled the tough situation खुली and calmly.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1885
+    },
+    {
+        "text": "The किसान had a strong जौ that could withstand any punch.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1886
+    },
+    {
+        "text": "The दर्जी used wax to सिल the envelope.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1888
+    },
+    {
+        "text": "The समझदार दुकानदार did not want to engage in पेटी arguments.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1890
+    },
+    {
+        "text": "The भयंकर पहलवान left his opponent with a broken जोड़.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1893
+    },
+    {
+        "text": "The military instructor साब was very strict with the students.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1895
+    },
+    {
+        "text": "The व्यापारी decided to take a थोक after a long day.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1896
+    },
+    {
+        "text": "The परेशान प्रोग्रामर couldn't find the बाग़ in the code.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1912
+    },
+    {
+        "text": "The चौकीदार worked hard to maintain his बाड़ी in peak condition.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1913
+    },
+    {
+        "text": "The नई दादी needs to go to the पोती.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1920
+    },
+    {
+        "text": "The बागवानी विशेषज्ञ's speech was such a बौर to the audience.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1921
+    },
+    {
+        "text": "The कुत्ता saved everyone from certain दुम.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 3.0,
+        "id": 1923
+    },
+    {
+        "text": "The चतुर ड्राइवर मोड़ the lawn yesterday.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1927
+    },
+    {
+        "text": "The चालाक खिलाड़ी moved his पौन strategically across the board.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1930
+    },
+    {
+        "text": "The नया प्रेमी जोड़ा went on a हिली trek.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1931
+    },
+    {
+        "text": "The ग्रामीण युवक dreamed of owning a कूप.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1932
+    },
+    {
+        "text": "The मोती वाला पानी started to सीप through the cracks.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1933
+    },
+    {
+        "text": "The प्रकृति प्रेमी were excited to see the wild बौर.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1935
+    },
+    {
+        "text": "The नन्ही बच्ची received a small गुड़ी bag as a surprise.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1936
+    },
+    {
+        "text": "The छोटे बच्चे needed time to मल over the decision.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1937
+    },
+    {
+        "text": "The तनावमुक्त शेफ needed a bit of fresh ढील to enhance the flavor.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1938
+    },
+    {
+        "text": "The ग्रामीण इलाके was a बाज़ in the air about the new movie.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1939
+    },
+    {
+        "text": "The जंगल was dense with टीक trees.",
+        "label": 1,
+        "funniness": 3.0,
+        "acceptability": 4.0,
+        "id": 1942
+    },
+    {
+        "text": "The क्यूट बच्चा was adorably चाबी.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1946
+    },
+    {
+        "text": "The चिंतित माँ heard the child पूल in the middle of the night.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1950
+    },
+    {
+        "text": "The भारी बॉक्स weighed over a ठन.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1955
+    },
+    {
+        "text": "The माली's garden has neat रोज़ of flowers.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1960
+    },
+    {
+        "text": "The फटीचर लड़का hung his खोट on the rack by the door.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1966
+    },
+    {
+        "text": "The प्रतियोगी was unfair of him to मौका her efforts.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 2.0,
+        "id": 1967
+    },
+    {
+        "text": "The संख्या विशेषज्ञ always relied on her गिन for support.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1968
+    },
+    {
+        "text": "The ग्रामीण कारीगर built a small हाट near the river.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1969
+    },
+    {
+        "text": "The संघर्षशील बच्चे absolutely loved the झेली at the party.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1972
+    },
+    {
+        "text": "The पौधा started to bloom from a small बड़.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1974
+    },
+    {
+        "text": "The भूखे यात्री, after the heavy meal, his थमी grumbled loudly.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 1.0,
+        "id": 1980
+    },
+    {
+        "text": "The arduous trek through the mountains was रगड़ and challenging.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1983
+    },
+    {
+        "text": "The सहनशील छात्र likes to be around a भूली.",
+        "label": 0,
+        "funniness": 1.0,
+        "acceptability": 3.0,
+        "id": 1985
+    },
+    {
+        "text": "The आर्थिक संपन्नता started to बढ with the arrival of spring.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1986
+    },
+    {
+        "text": "The अनाड़ी रिश्तेदार's behavior was completely नाती at the party.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 3.0,
+        "id": 1987
+    },
+    {
+        "text": "The जज relied heavily on his क़ैदी for advice.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1992
+    },
+    {
+        "text": "The छोटी गुड़िया looked very बौनी in her new dress.",
+        "label": 1,
+        "funniness": 2.0,
+        "acceptability": 4.0,
+        "id": 1994
+    },
+    {
+        "text": "The लालची खिलाड़ी decided to लोभ the ball over the net.",
+        "label": 0,
+        "funniness": 0.0,
+        "acceptability": 2.0,
+        "id": 1996
+    },
+    {
+        "text": "The बढ़ई की नाव managed to stay upright thanks to its strong कील.",
+        "label": 1,
+        "funniness": 1.0,
+        "acceptability": 4.0,
+        "id": 1999
+    }
+]

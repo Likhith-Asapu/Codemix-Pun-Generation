@@ -1,6 +1,6 @@
 # Codemix-Pun-Generation
 
-This repository contains the code for the paper "Bridging Laughter Across Languages: Generation of Hindi-English Codemixed Puns" accepted at the 1st Workshop on Computational Humor (CHum 2025) at COLING 2025. The paper can be found [here]().
+This repository contains the code for the paper "Bridging Laughter Across Languages: Generation of Hindi-English Code-mixed Puns" accepted at the 1st Workshop on Computational Humor (CHum 2025) at COLING 2025. The paper can be found [here]().
 
 ## Requirements
 - Python 3.11

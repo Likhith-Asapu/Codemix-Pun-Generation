@@ -1,6 +1,6 @@
 # Codemix-Pun-Generation
 
-This repository contains the code for the paper "Bridging Laughter Across Languages: Generation of Hindi-English Code-mixed Puns" accepted at the 1st Workshop on Computational Humor (CHum 2025) at COLING 2025. The paper can be found [here]().
+This repository contains the code for the paper "Bridging Laughter Across Languages: Generation of Hindi-English Code-mixed Puns" accepted at the 1st Workshop on Computational Humor (CHum 2025) at COLING 2025. The paper can be found [here](https://aclanthology.org/2025.chum-1.5/).
 
 ## Requirements
 - Python 3.11
@@ -33,11 +33,25 @@ The code for the automated pipeline for generating puns can be found in the fold
 ## Citation
 If you use this code for your research, please cite the paper as follows:
 ```
-@inproceedings{asapu2025generatingpuns,
-  title={Generating Code-Mixed Puns},
-  author={Likhith Asapu, Prashant Kodali, Ashna Dua, Kapil Rajesh Kavitha and Manish Shrivastava},
-  booktitle={Proceedings of the 1st Workshop on Computational Humor (CHum 2025) at COLING 2025},
-  year={2025}
+@inproceedings{asapu-etal-2025-bridging,
+    title = "Bridging Laughter Across Languages: Generation of {H}indi-{E}nglish Code-mixed Puns",
+    author = "Asapu, Likhith  and
+      Kodali, Prashant  and
+      Dua, Ashna  and
+      Rajesh Kavitha, Kapil  and
+      Shrivastava, Manish",
+    editor = "Hempelmann, Christian F.  and
+      Rayz, Julia  and
+      Dong, Tiansi  and
+      Miller, Tristan",
+    booktitle = "Proceedings of the 1st Workshop on Computational Humor (CHum)",
+    month = jan,
+    year = "2025",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.chum-1.5/",
+    pages = "32--57",
+    abstract = "Puns, as a linguistic phenomenon, hold significant importance in both humor and language comprehension. While extensive research has been conducted in the realm of pun generation in English, there exists a notable gap in the exploration of pun generation within code-mixed text, particularly in Hindi-English code-mixed text. This study addresses this gap by offering a computational method specifically designed to create puns in Hindi-English code-mixed text. In our investigation, we delve into three distinct methodologies aimed at pun generation utilizing pun-alternate word pairs. Furthermore, this novel dataset, HECoP, comprising of 2000 human-annotated sentences serves as a foundational resource for training diverse pun detection models. Additionally, we developed a structured pun generation pipeline capable of generating puns from a single input word without relying on predefined word pairs. Through rigorous human evaluations, our study demonstrates the efficacy of our proposed models in generating code-mixed puns. The findings presented herein lay a solid groundwork for future endeavours in pun generation and computational humor within diverse linguistic contexts."
 }
 ```
 
